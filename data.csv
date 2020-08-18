@@ -1,0 +1,3771 @@
+year,make,model,price,mileage
+2018,Volkswagen,Passat 2.0T SE,17500,6282
+2017,Chevrolet,Volt LT,15900,26888
+2019,Hyundai,Santa Fe SE 2.4,18999,33166
+2018,Buick,Regal Sportback Essence,22600,18785
+2018,Buick,LaCrosse Essence,20850,19829
+2017,Volkswagen,Golf Alltrack TSI SEL 4Motion Wagon,22500,23080
+2019,Buick,Regal TourX Essence,25520,12571
+2017,GMC,Acadia SLE-2,23670,33100
+2018,Chevrolet,Traverse LS,25440,13771
+2018,GMC,Acadia SLT-1,25190,39933
+2017,Cadillac,ATS 2.0L Turbo,20680,14756
+2018,Chevrolet,Equinox Premier,24290,12548
+2017,Buick,Regal Premium II,17170,20862
+2017,GMC,Acadia SLT-1,27370,31598
+2017,Volkswagen,Golf Alltrack TSI SEL 4Motion Wagon,22500,23080
+2017,Cadillac,XT5 Luxury FWD,27540,24179
+2019,Buick,LaCrosse Essence,22500,16117
+2018,Subaru,Crosstrek 2.0i Limited,24484,15012
+2019,Honda,Civic Sport,19582,13957
+2018,Kia,Stinger Base,23500,15605
+2018,Chevrolet,Volt Premier,28995,2263
+2019,GMC,Acadia SLE-2,25190,13248
+2019,Jeep,Compass Latitude,20270,10712
+2018,Chrysler,300 S,19500,35294
+2017,Mercedes-Benz,Base 4MATIC,28961,29981
+2017,Hyundai,Elantra Limited,15000,15500
+2019,Chevrolet,Impala 1LT,22995,34554
+2018,Chevrolet,Malibu LT,14688,24086
+2019,Kia,Niro S Touring,24100,9098
+2017,Chevrolet,Impala 1LT,15988,34985
+2019,Dodge,Durango GT,28600,27540
+2018,Chevrolet,Cruze LT,14800,28529
+2018,Hyundai,Ioniq EV Electric,24999,13149
+2017,BMW,iPerformance,25451,35865
+2017,BMW,iPerformance,26395,24239
+2019,Hyundai,Ioniq Plug-In Hybrid Base,24959,12400
+2018,Buick,Regal Sportback Essence,22200,21423
+2018,Buick,Regal Sportback Essence,22600,18785
+2018,Kia,Rio EX,14900,28177
+2018,Mercedes-Benz,Base,26999,12117
+2017,Mercedes-Benz,Base,22695,26546
+2017,Mercedes-Benz,Base,25985,26587
+2017,Mercedes-Benz,Base 4MATIC,26991,32438
+2017,Mercedes-Benz,Base 4MATIC,26382,22344
+2017,Mercedes-Benz,B 250e,18985,12994
+2017,GMC,Acadia SLE-2,22800,39064
+2018,Honda,Pilot EX,28888,29900
+2017,Ford,Fusion Energi SE Luxury,15200,29147
+2018,Chrysler,300 S,18299,37492
+2017,Hyundai,Santa Fe SE,20994,29548
+2018,Hyundai,Santa Fe Sport 2.0L Turbo,25888,190
+2019,Hyundai,Santa Fe SEL Plus 2.4,22800,17637
+2018,Hyundai,Santa Fe Limited Ultimate,28900,6832
+2017,Genesis,G80 3.8L,28800,31354
+2019,Kia,Optima LX,16900,17400
+2019,Nissan,Altima 2.5 SR,21293,5509
+2018,Hyundai,Santa Fe Sport 2.0T Ultimate,26900,16301
+2019,Hyundai,Kona Ultimate,22900,23494
+2018,Chevrolet,Equinox 1LT,19987,12165
+2018,Chevrolet,Traverse LS,26488,13966
+2018,GMC,Acadia SLT-1,23900,24900
+2018,GMC,Acadia SLT-1,23900,24500
+2019,GMC,Acadia SLE-2,24220,13019
+2019,Buick,LaCrosse Essence,22500,16117
+2019,Ford,Flex Limited,23000,27000
+2017,GMC,Acadia SLE-2,23670,33100
+2018,Buick,Encore Essence,17310,28366
+2018,Buick,LaCrosse Essence,20850,19829
+2017,Cadillac,XT5 Luxury FWD,28499,30000
+2019,Chevrolet,Equinox 1LT,20770,21406
+2018,Ford,Edge Titanium,23999,36957
+2018,Nissan,Murano SV,18294,39920
+2019,Hyundai,Santa Fe XL SE,26800,1943
+2018,Ford,EcoSport SES,19100,3930
+2017,Hyundai,Sonata SE,14157,36908
+2017,GMC,Acadia SLE-1,20785,31442
+2017,Chevrolet,Malibu 1LT,13988,5773
+2018,Chevrolet,Traverse LS,25440,13771
+2019,GMC,Acadia SLT-1,26510,27050
+2017,Hyundai,Elantra Limited,15190,13907
+2017,Hyundai,Sonata Limited,19180,28399
+2019,Cadillac,XTS Luxury,24971,27829
+2018,Buick,Regal Sportback Preferred II,19999,21432
+2019,Hyundai,Santa Fe XL SE,29155,8056
+2019,Kia,Rio S,13989,11602
+2017,Cadillac,XT5 Luxury,29789,20763
+2018,Honda,Clarity Plug-In Hybrid Touring,27550,24122
+2018,Chevrolet,Trax LT,18000,9888
+2018,Hyundai,Elantra SEL,12980,39312
+2019,GMC,Acadia SLE-2,24220,13019
+2017,Genesis,G80 3.8L,29970,25232
+2017,GMC,Acadia SLE-2,23670,33100
+2017,Buick,LaCrosse Premium,25570,26230
+2017,Volkswagen,Golf Alltrack TSI SEL 4Motion Wagon,22500,23080
+2019,Volkswagen,Passat 2.0T Wolfsburg Edition,19550,16539
+2019,GMC,Terrain SLT,23260,15926
+2019,Chevrolet,Equinox 1LT,20770,21406
+2019,Jeep,Compass Latitude,20270,10712
+2018,Hyundai,Santa Fe SE,22250,10148
+2019,Jeep,Cherokee Trailhawk,27500,25967
+2019,BMW,X2 sDrive28i,28988,11999
+2017,Honda,Accord EX-L V-6,19450,35170
+2019,Hyundai,Kona SE,14999,30531
+2017,Kia,Sorento SXL V6,27140,27980
+2019,GMC,Acadia SLT-1,28920,13733
+2018,Hyundai,Santa Fe Limited Ultimate,29960,11039
+2019,GMC,Acadia SLE-2,25440,14296
+2018,Nissan,Murano SV,18700,39444
+2019,Buick,Enclave Essence,29380,21490
+2017,Buick,LaCrosse Premium,25570,26230
+2019,GMC,Acadia SLT-1,26510,27050
+2018,Buick,Encore Preferred,19940,20450
+2019,GMC,Acadia SLE-2,24220,13019
+2018,Cadillac,ATS 3.6L Premium Luxury,27130,20426
+2019,GMC,Acadia SLT-1,28800,13080
+2019,GMC,Acadia SLT-1,27810,17431
+2017,Buick,Encore Preferred,15950,23894
+2018,Kia,Sportage SX Turbo,21030,31684
+2017,Genesis,G80 3.8L,27760,36559
+2017,GMC,Acadia Denali,27650,34508
+2018,Chevrolet,Impala 1LT,15999,31099
+2018,Honda,Clarity Plug-In Hybrid Base,24592,23373
+2018,Chevrolet,Cruze LT,13883,23226
+2017,Hyundai,Sonata Limited,17993,22591
+2018,Chevrolet,Traverse LT Cloth,25500,32839
+2019,Hyundai,Santa Fe XL SE,26800,1943
+2017,Buick,Regal Turbo Sport Touring,17888,35640
+2017,Buick,Regal Premium II,17170,20862
+2017,Hyundai,Elantra Limited,15190,13907
+2019,Buick,LaCrosse Essence,22500,16117
+2019,GMC,Acadia SLT-1,28920,13733
+2019,Volkswagen,Atlas 3.6L V6 SE,29480,20337
+2019,GMC,Acadia SLT-1,28800,13080
+2017,Hyundai,Sonata Sport,17230,29610
+2019,GMC,Terrain SLT,23820,13125
+2019,Buick,Enclave Essence,29380,21490
+2018,Nissan,Rogue SV,15999,32669
+2017,Buick,Encore Preferred,14695,21816
+2019,Chevrolet,Malibu LT,15069,19763
+2018,Chrysler,300 S,20190,32716
+2017,Audi,A4 2.0T Premium,21000,21500
+2018,Chevrolet,Equinox LS,15300,21707
+2018,Honda,Clarity Plug-In Hybrid Base,26440,9752
+2018,Nissan,Murano SV,18700,39444
+2018,Chevrolet,Equinox 1LT,15861,16998
+2017,Hyundai,Sonata SE,13983,30144
+2018,Ford,Fusion Hybrid,16125,32284
+2020,Hyundai,Santa Fe SE w/SULEV,25991,36
+2019,Kia,Forte LXS,16900,2384
+2017,Hyundai,Sonata Limited,18700,21295
+2019,GMC,Acadia SLE-1,27298,28300
+2018,Subaru,Legacy 2.5i Premium,20379,11655
+2017,GMC,Acadia Denali,29894,30799
+2018,Chevrolet,Traverse LS,25391,20769
+2019,Chevrolet,Equinox LS,25295,89
+2018,Buick,Encore Preferred,15488,36314
+2017,Buick,LaCrosse Premium,25570,26230
+2017,Buick,LaCrosse Premium,26930,27620
+2017,Buick,Regal Premium II,17170,20862
+2018,Chevrolet,Malibu LT,14999,38886
+2019,GMC,Acadia SLE-2,25190,13248
+2018,Kia,Sportage SX Turbo,21030,31684
+2019,GMC,Acadia SLT-1,26710,27250
+2019,GMC,Acadia SLE-2,23980,22238
+2019,GMC,Acadia SLE-2,25440,14296
+2019,Buick,Enclave Essence,29380,21490
+2019,Dodge,Charger GT,28999,12039
+2019,Buick,Regal TourX Essence,24020,20404
+2019,Buick,LaCrosse Essence,22500,16117
+2018,Mazda,Mazda6 Touring,18531,37312
+2018,Subaru,Legacy 2.5i Premium,21500,13681
+2018,Nissan,Murano SV,18700,39444
+2017,Buick,LaCrosse Premium,26930,27620
+2019,GMC,Acadia SLE-2,25440,14296
+2017,Buick,LaCrosse Premium,25570,26230
+2019,Buick,Enclave Essence,29380,21490
+2019,GMC,Acadia SLE-2,23980,22238
+2018,Ford,Fusion Hybrid Titanium,15990,16490
+2018,Ford,Edge Titanium,22896,33445
+2018,Chevrolet,Equinox 1LT,25999,13395
+2019,Kia,Sportage EX,22989,14532
+2017,Buick,Encore Preferred,15989,12155
+2018,Nissan,Murano SV,18700,39444
+2019,Nissan,Altima 2.5 SR,21000,14402
+2019,Hyundai,Santa Fe XL SE,26800,1943
+2019,Buick,Regal TourX Essence,24020,20404
+2017,Buick,Regal Premium II,17170,20862
+2019,GMC,Acadia SLE-2,25440,14296
+2017,Buick,LaCrosse Premium,26930,27620
+2019,GMC,Acadia SLE-2,25190,13248
+2018,Kia,Sportage SX Turbo,21030,31684
+2019,GMC,Acadia SLE-2,24460,11839
+2019,GMC,Terrain SLT,24960,765
+2019,Buick,Enclave Essence,29380,21490
+2017,Hyundai,Elantra Limited,15190,13907
+2019,Volkswagen,Atlas 3.6L V6 SE,29480,20337
+2018,Buick,LaCrosse Essence,20850,19829
+2018,Buick,Encore Preferred,19940,20450
+2018,Kia,Soul +,13400,14999
+2018,Buick,Regal Sportback Essence,21394,21998
+2018,Subaru,Outback 2.5i Premium,22995,29059
+2018,Kia,Soul +,15900,22300
+2018,Honda,Pilot EX,29000,8187
+2017,Buick,LaCrosse Premium,26930,27620
+2018,GMC,Terrain SLE,21530,3138
+2019,GMC,Acadia SLE-2,24460,11839
+2019,Buick,LaCrosse Essence,22500,16117
+2019,Volkswagen,Atlas 3.6L V6 SE,29480,20337
+2019,Chevrolet,Equinox 1LT,21270,22011
+2019,GMC,Acadia SLE-2,23980,22238
+2017,Chevrolet,Malibu Premier,19980,18993
+2017,Buick,LaCrosse Essence,23970,1292
+2017,Hyundai,Sonata Sport,17230,29610
+2019,GMC,Acadia SLE-2,25190,13248
+2019,GMC,Terrain SLT,23260,12222
+2018,Buick,Encore Essence,17310,28366
+2019,GMC,Acadia SLT-1,29850,9608
+2017,GMC,Acadia SLT-1,25980,30327
+2019,GMC,Acadia SLT-1,28580,29160
+2019,Kia,Sorento LX,23020,9331
+2018,Dodge,Durango Citadel,29200,20077
+2019,Buick,Regal TourX Essence,24020,20404
+2018,Buick,Encore Preferred,17440,23533
+2019,Chevrolet,Blazer 2LT,26995,3324
+2019,Jeep,Cherokee Latitude Plus,22693,17485
+2019,Dodge,Charger GT,26990,16130
+2018,Chevrolet,Impala 1LT,17990,32241
+2017,Buick,Encore Preferred,15750,33165
+2019,GMC,Acadia SLE-2,23980,22238
+2018,Chevrolet,Equinox 1LT,18790,20845
+2018,Ford,EcoSport SE,17050,4652
+2017,Cadillac,XT5 Luxury FWD,28390,20620
+2019,Mazda,CX-9 Touring,30000,30500
+2019,GMC,Acadia SLE-1,28615,3843
+2018,Dodge,Durango SXT,27068,14341
+2019,Buick,Encore Sport Touring,18190,20645
+2019,GMC,Terrain SLE,21480,2336
+2018,Chevrolet,Impala 1LT,16100,35386
+2019,Hyundai,Santa Fe SE 2.4,18250,22035
+2017,Chevrolet,Volt Premier,21845,24522
+2019,Buick,Encore Preferred,16448,3265
+2018,Buick,Encore Preferred,15931,19432
+2017,Chevrolet,Bolt EV LT,21017,37602
+2018,GMC,Terrain SLE,19900,20641
+2018,Volkswagen,Golf SportWagen TSI S 4dr Wagon 6A,17970,12284
+2019,GMC,Acadia SLE-2,25440,14296
+2017,Chrysler,300 Limited,17900,34937
+2019,Chevrolet,Trax Premier,15677,8118
+2018,Nissan,Leaf SV,21892,17605
+2018,Chevrolet,Malibu LT,16350,9555
+2017,Chevrolet,Cruze LT,13699,16913
+2019,GMC,Acadia SLE-1,27300,7064
+2018,Hyundai,Santa Fe Sport 2.0T Ultimate,27900,4925
+2017,Buick,Encore Preferred,15950,23894
+2017,Cadillac,ATS 2.0L Turbo Luxury,23999,24999
+2017,Genesis,G80 3.8L,27580,34167
+2018,Nissan,Rogue SL,23999,5478
+2019,GMC,Acadia SLE-2,24460,11839
+2018,Hyundai,Elantra SEL,14095,34657
+2019,Cadillac,XTS Luxury,25340,30937
+2017,Chevrolet,Malibu 1LS,16360,14592
+2017,Buick,LaCrosse Essence,23970,1292
+2019,GMC,Acadia SLT-1,29850,9608
+2018,Hyundai,Santa Fe Sport 2.4L,23700,18888
+2019,GMC,Terrain SLT,22780,23480
+2019,Dodge,Durango GT Plus,29980,14762
+2018,Hyundai,Elantra SEL,11655,12799
+2017,Honda,Accord Hybrid Touring,23350,29737
+2019,GMC,Acadia SLT-1,28920,13733
+2018,Chrysler,300 S,18990,37351
+2018,Nissan,Rogue S,13990,38617
+2018,Chevrolet,Trax LT,13980,33800
+2018,Chevrolet,Malibu LT,14670,29954
+2019,Nissan,Altima 2.5 S,18990,5663
+2017,Cadillac,XT5 Premium Luxury FWD,29650,19084
+2017,Cadillac,XT5 Luxury FWD,28390,20620
+2018,Chrysler,300 S,18690,37950
+2018,Subaru,Outback 2.5i,20963,36185
+2017,Chevrolet,Volt LT,17922,26129
+2018,Hyundai,Santa Fe SE,21827,5405
+2019,Hyundai,Tucson SE,18400,31974
+2018,Nissan,Murano SL,24989,32233
+2017,Buick,Encore Preferred,15589,17385
+2017,Cadillac,XT5 Luxury,28789,30374
+2018,Hyundai,Sonata SEL,16989,4103
+2019,Hyundai,Kona SE,16989,16413
+2017,Honda,CR-V EX,22750,23850
+2018,GMC,Acadia SLE-1,21999,17909
+2018,Chevrolet,Bolt EV Premier,26777,20148
+2017,Buick,Encore Preferred,15950,23894
+2017,Genesis,G80 3.8L,27580,34167
+2018,Hyundai,Santa Fe Sport 2.4L,23700,18888
+2019,GMC,Acadia SLE-2,23980,22238
+2019,Buick,Regal TourX Essence,25520,12571
+2018,GMC,Acadia SLT-1,25190,39933
+2019,Buick,LaCrosse Essence,22500,16117
+2019,GMC,Acadia SLT-1,29850,9608
+2019,Ford,Flex Limited,23000,27000
+2018,Jeep,Compass Limited,19995,20499
+2018,Subaru,Crosstrek 2.0i Premium,23725,12943
+2017,Hyundai,Santa Fe Sport 2.4L,17490,17990
+2019,Hyundai,Santa Fe SE 2.4,18999,35684
+2017,Honda,Pilot EX,28393,833
+2017,Hyundai,Elantra Limited,15190,13907
+2018,Chevrolet,Equinox Premier,22520,10149
+2019,Volkswagen,Passat 2.0T Wolfsburg Edition,19550,16539
+2018,Buick,Encore Preferred,17440,23533
+2017,Genesis,G80 3.8L,27580,34167
+2017,Genesis,G80 3.8L,29970,25232
+2017,Chrysler,300 S,23000,18493
+2018,Nissan,Murano Platinum,29360,26508
+2018,GMC,Terrain SLE,19780,20540
+2018,Chevrolet,Equinox 1LT,21760,28626
+2017,Cadillac,XT5 Luxury FWD,29070,16191
+2019,Buick,Regal TourX Essence,24020,20404
+2019,Ford,Flex Limited,23000,27000
+2019,Hyundai,Sonata Sport,21750,2512
+2018,Chevrolet,Equinox Premier,22520,10149
+2019,Nissan,Altima 2.5 Platinum,26690,5775
+2019,Dodge,Durango GT Plus,29360,14163
+2017,Cadillac,XT5 Luxury FWD,27190,27223
+2019,Dodge,Charger GT,24793,28795
+2019,GMC,Acadia SLT-1,26984,20928
+2019,Chevrolet,Equinox Premier w/1LZ,26990,27490
+2018,Ford,Focus SEL,13950,15281
+2019,GMC,Acadia SLE-1,24990,3913
+2018,Nissan,Leaf SV,19800,15462
+2017,Chevrolet,Bolt EV LT,22300,34681
+2018,Buick,Regal Sportback Essence,22600,18785
+2018,Nissan,Rogue SV,19000,27104
+2018,Chrysler,300 Limited,19350,26397
+2019,Volkswagen,Passat 2.0T Wolfsburg Edition,19550,16539
+2018,Kia,Sportage SX Turbo,21030,31684
+2018,Chevrolet,Equinox 1LT,21760,28626
+2018,Chevrolet,Equinox 1LT,15190,31838
+2017,Chevrolet,Volt Premier,18920,27753
+2018,Mazda,Mazda6 Touring,19942,20482
+2019,Hyundai,Kona SE,17999,24529
+2018,Chevrolet,Cruze LT,12800,18178
+2017,Ford,Fusion Energi SE Luxury,15997,16506
+2017,GMC,Acadia SLE-1,18796,35909
+2019,Buick,Encore Preferred,16999,19443
+2018,Nissan,Rogue S,14395,37296
+2018,Chevrolet,Equinox 1LT,14990,32457
+2018,Volkswagen,Atlas 3.6L SE,26995,18938
+2018,Mazda,Mazda6 Touring,20395,34396
+2019,Chevrolet,Equinox LS,20880,3215
+2018,Hyundai,Elantra GT Sport,18060,2426
+2019,Mazda,Mazda3 FWD w/Select Package,20000,5103
+2018,Mitsubishi,Outlander Sport SE,13967,14953
+2017,Honda,Civic EX,16499,29665
+2019,GMC,Acadia SLE-1,26724,27800
+2018,Buick,Regal TourX Essence,26991,22125
+2017,Hyundai,Sonata Limited,18900,19400
+2017,Kia,Sportage EX,19700,28837
+2018,Cadillac,XT5 Premium Luxury,27900,28500
+2019,GMC,Terrain SLT,23820,13125
+2019,Hyundai,Santa Fe XL SE,26800,1943
+2019,Cadillac,XTS Luxury,27790,28969
+2019,GMC,Acadia SLT-1,26510,27050
+2019,Subaru,Outback 2.5i,25300,7656
+2019,Lincoln,MKC Standard,25999,28075
+2018,Buick,Encore Preferred,17440,23533
+2019,Volkswagen,Atlas 3.6L V6 SE,29480,20337
+2018,Acura,RDX FWD w/Technology Package,29090,29680
+2017,Kia,Sorento SX V6,27960,17789
+2017,Cadillac,XT5 Luxury FWD,28390,20620
+2019,Volkswagen,Passat 2.0T Wolfsburg Edition,19550,16539
+2018,Chevrolet,Equinox 1LT,21760,28626
+2019,Jeep,Compass Latitude,20270,10712
+2019,GMC,Terrain SLT,23260,15926
+2017,Hyundai,Sonata Sport,17230,29610
+2018,Dodge,Durango GT,28210,9310
+2019,Dodge,Charger GT,25543,12572
+2019,Hyundai,Sonata SE,16936,19202
+2018,Chrysler,300 S,19190,37231
+2018,Ford,Taurus Limited,17590,30283
+2019,Hyundai,Santa Fe XL SE,26800,1943
+2018,Ford,EcoSport SE,13999,30099
+2019,Chevrolet,Equinox 1LT,24643,3053
+2018,Chevrolet,Equinox 1LT,20310,9495
+2017,Cadillac,XT5 FWD,29995,21336
+2018,Hyundai,Santa Fe SE,23600,6410
+2019,Chevrolet,Impala 1LT,20311,21388
+2019,GMC,Acadia SLE-2,24489,16230
+2018,Hyundai,Sonata SE,13777,35844
+2018,Jeep,Grand Cherokee Altitude,28999,30702
+2017,Chevrolet,Cruze LT,13944,14895
+2017,Cadillac,XT5 Luxury FWD,29070,16191
+2019,Chevrolet,Equinox Premier,21980,19542
+2018,Buick,Encore Preferred,17440,23533
+2018,GMC,Terrain SLT,22500,27222
+2019,GMC,Acadia SLT-1,26510,27050
+2017,Cadillac,XT5 Luxury FWD,28390,20620
+2019,Dodge,Durango GT Plus,29980,14762
+2019,Cadillac,XTS Luxury,25850,33605
+2019,GMC,Acadia SLT-1,26710,27250
+2018,Nissan,Murano Platinum,29360,26508
+2019,GMC,Acadia SLT-1,27810,17431
+2019,Kia,Soul +,17625,8601
+2017,Chevrolet,Trax LT,13200,39658
+2018,Nissan,Maxima 3.5 SV,18499,38525
+2018,Dodge,Charger R/T,23490,32200
+2018,Hyundai,Santa Fe Sport 2.4L,23700,18888
+2018,GMC,Acadia SLT-1,26730,30966
+2019,GMC,Terrain SLE,22640,15254
+2019,Jeep,Compass Latitude,20270,10712
+2018,Chevrolet,Equinox 1LT,18980,20135
+2017,Cadillac,XT5 Luxury FWD,28490,29070
+2018,Hyundai,Kona Ultimate,24690,3197
+2017,Hyundai,Sonata Limited,19180,28399
+2018,Honda,Civic EX-T,19780,17832
+2018,Nissan,Murano SL,25340,33803
+2018,Hyundai,Santa Fe Sport 2.4L,23700,18888
+2018,GMC,Acadia SLT-1,25190,39933
+2017,Cadillac,XT5 Premium Luxury FWD,29650,19084
+2018,Nissan,Murano SL,25340,33803
+2019,Subaru,Crosstrek 2.0i Premium,25890,26900
+2018,Chevrolet,Equinox 1LT,27451,27451
+2018,Chrysler,300 S,20490,35275
+2018,Hyundai,Tucson SEL,14999,38414
+2018,Nissan,Murano Platinum,29360,26508
+2019,Dodge,Durango GT Plus,29360,14163
+2018,GMC,Terrain SLE,19780,20540
+2018,GMC,Terrain SLE,20790,23238
+2018,GMC,Terrain SLE,21530,3138
+2018,Hyundai,Tucson SEL,14499,37103
+2019,Chrysler,300 Limited,19977,21273
+2018,Chevrolet,Trax LT,15670,22998
+2018,GMC,Terrain SLE,30000,1267
+2018,Hyundai,Elantra SEL,13990,36869
+2017,Hyundai,Sonata SE,14000,14500
+2017,Hyundai,Santa Fe Limited,22000,22500
+2019,Buick,Encore Preferred,16480,17680
+2019,Hyundai,Sonata SE,17588,15449
+2019,Chevrolet,Equinox LS,20482,21350
+2017,Honda,Accord Hybrid EX-L,22478,22988
+2019,Dodge,Durango GT Plus,29980,14762
+2017,Kia,Sorento SXL V6,27140,27980
+2017,Cadillac,XT5 Luxury FWD,28390,20620
+2019,Volkswagen,Atlas 3.6L V6 SE,29480,20337
+2018,Chevrolet,Cruze Premier,15800,22215
+2017,Chevrolet,Volt Premier,19988,20788
+2018,Nissan,Maxima 3.5 S,20995,21495
+2019,Dodge,Durango GT,29999,30700
+2018,Nissan,Kicks SV,16500,19077
+2018,Cadillac,XT5 Premium Luxury,27900,28400
+2017,Buick,Encore Sport Touring,16988,24851
+2018,Hyundai,Elantra SEL,13988,38084
+2018,Chevrolet,Malibu LT,15010,31891
+2019,Mazda,CX-5 Grand Touring,27370,15517
+2019,GMC,Acadia SLT-1,27810,28380
+2019,GMC,Terrain SLT,24960,765
+2018,Chevrolet,Equinox 1LT,18980,20135
+2019,GMC,Acadia SLT-1,28800,13080
+2019,GMC,Acadia SLT-1,28920,13733
+2018,Nissan,Murano SL,25340,33803
+2018,Chevrolet,Equinox Premier,24290,12548
+2019,Nissan,Kicks SV,17609,11126
+2017,Hyundai,Elantra Limited,15190,13907
+2017,Kia,Sportage EX,18888,35842
+2019,Dodge,Durango GT Plus,28580,18375
+2017,Audi,S3 2.0T Premium Plus,28987,39264
+2019,Cadillac,CTS Luxury RWD,28960,14005
+2017,Chevrolet,Malibu Premier,19980,18993
+2018,Buick,LaCrosse Essence,20850,19829
+2019,Dodge,Durango GT Plus,29980,14762
+2017,Buick,Regal Premium II,17170,20862
+2018,GMC,Terrain SLE,20790,23238
+2018,GMC,Terrain Denali,29160,27973
+2019,Ford,Flex Limited,23000,27000
+2018,Nissan,Murano Platinum,29360,26508
+2018,Nissan,Leaf SV,23988,14717
+2018,Ford,Edge Titanium,26499,34928
+2018,Chevrolet,Malibu LT,14490,30510
+2018,Ford,EcoSport Titanium,16954,35028
+2018,Hyundai,Tucson SEL,17890,34355
+2018,Buick,Regal Sportback Preferred II,17977,24235
+2019,Chevrolet,Impala 1LT,20977,24034
+2017,GMC,Acadia SLT-2,29489,22703
+2018,Honda,Pilot EX,28789,22024
+2019,GMC,Acadia SLE-2,24989,9785
+2019,Jeep,Compass Trailhawk,22999,8412
+2017,Chevrolet,Malibu Premier,19580,25255
+2019,GMC,Acadia SLT-1,27810,28380
+2019,Cadillac,CTS Luxury RWD,26940,22250
+2019,Chevrolet,Impala 1LT,19260,26352
+2018,Chevrolet,Equinox Premier,22520,10149
+2018,Chevrolet,Equinox 1LT,18980,20135
+2019,GMC,Acadia SLT-1,28920,13733
+2018,Subaru,Crosstrek 2.0i Limited,25991,11392
+2019,GMC,Acadia SLT-1,28800,13080
+2018,Nissan,Murano SL,25340,33803
+2018,GMC,Terrain SLE,21530,3138
+2017,Cadillac,ATS 2.0L Turbo,20680,14756
+2019,Dodge,Durango GT Plus,28580,18375
+2019,Kia,Sorento LX,23020,9331
+2017,GMC,Acadia SLT-1,27370,31598
+2017,GMC,Acadia SLE-2,26420,6131
+2018,Hyundai,Santa Fe Limited Ultimate,29960,11039
+2018,Subaru,Outback 2.5i Premium,23000,27888
+2018,Nissan,Rogue SV,16411,31952
+2019,GMC,Acadia SLT-1,29994,24951
+2019,Dodge,Durango GT Plus,29980,14762
+2017,Cadillac,XT5 Luxury FWD,27540,24179
+2018,Chevrolet,Cruze Premier,16460,30160
+2019,Dodge,Durango GT Plus,29360,14163
+2017,Cadillac,XT5 Luxury FWD,29980,24209
+2019,Subaru,Outback 2.5i,25300,7656
+2019,Lincoln,MKZ Reserve I,26360,22734
+2018,GMC,Acadia SLT-2,27940,21852
+2018,Chevrolet,Equinox 1LT,19780,29786
+2019,Lincoln,MKZ Reserve I,26360,27845
+2018,Kia,Sportage SX Turbo,21030,31684
+2017,Cadillac,XT5 Luxury FWD,27290,27850
+2019,Cadillac,XTS Luxury,25340,30937
+2017,Cadillac,XT5 Luxury FWD,28390,20620
+2018,Dodge,Durango GT,26860,38728
+2017,Chrysler,300C Base,18990,36273
+2018,Chevrolet,Equinox Premier,23520,14314
+2019,Dodge,Durango GT Plus,28580,18375
+2019,GMC,Acadia SLT-1,26710,27250
+2019,Chevrolet,Impala Premier 2LZ,21494,29898
+2017,GMC,Acadia SLE-1,19999,35768
+2019,Kia,Optima LX,18888,34158
+2019,GMC,Acadia SLE-1,24990,2696
+2019,Dodge,Durango SXT,27400,2970
+2018,Honda,Accord Sport,21600,20622
+2019,Subaru,Outback 2.5i,24000,6941
+2018,Kia,Optima SX,24550,14853
+2017,Hyundai,Sonata Limited,19180,28399
+2019,Mazda,CX-5 Grand Touring,27370,15517
+2018,Hyundai,Santa Fe Limited Ultimate,29960,11039
+2019,GMC,Acadia SLT-1,26510,27050
+2019,Mazda,Mazda3 AWD w/Preferred Package,23000,23500
+2018,Dodge,Charger R/T,24990,30284
+2019,Mazda,CX-5 Touring,27500,28000
+2018,Hyundai,Tucson SEL Plus,19995,17738
+2019,Ford,Escape SE,18500,22887
+2019,Chevrolet,Impala 1LT,19488,25745
+2018,Acura,TLX V6,24800,19394
+2018,Buick,Regal Sportback Preferred,17702,11012
+2019,Subaru,Crosstrek 2.0i Premium,23750,14852
+2017,Chevrolet,Cruze LS,11999,37990
+2019,Dodge,Durango GT Plus,28440,13249
+2018,Nissan,Murano SV,21500,25325
+2017,Jeep,Compass Latitude,15892,30677
+2019,Dodge,Durango GT,29000,35998
+2018,Dodge,Charger GT,21983,22991
+2018,Hyundai,Tucson Value,22700,3392
+2019,Chevrolet,Trax LS,14599,16463
+2019,Hyundai,Tucson Night,26900,9564
+2018,Hyundai,Elantra GT Base,13988,14988
+2018,GMC,Terrain SLT,22998,32881
+2017,GMC,Acadia SLE-2,26420,6131
+2017,Chevrolet,Cruze Premier,14999,16648
+2017,GMC,Acadia SLT-1,26420,19205
+2018,Buick,Encore Preferred,19940,20450
+2019,Dodge,Durango GT Plus,29360,14163
+2019,GMC,Acadia SLT-1,27810,17431
+2018,GMC,Acadia SLT-1,25190,39933
+2017,Nissan,Maxima 3.5 SV,20980,37181
+2018,Dodge,Durango GT,27400,34301
+2018,GMC,Terrain Denali,29160,27973
+2019,Cadillac,XTS Luxury,25850,33605
+2017,Chevrolet,Cruze LT,12500,26814
+2017,Kia,Sorento SXL V6,27140,27980
+2018,Cadillac,XT5 Premium Luxury,27810,28380
+2018,Chevrolet,Equinox 1LT,19780,29786
+2018,Hyundai,Santa Fe Limited Ultimate,29960,11039
+2018,GMC,Terrain SLE,19780,20540
+2018,Chevrolet,Equinox Premier,22520,10149
+2017,Cadillac,XT5 Luxury FWD,27190,27223
+2019,GMC,Acadia SLT-1,28580,29160
+2017,Cadillac,XT5 Luxury FWD,28490,29070
+2018,Hyundai,Elantra SEL,14999,24914
+2019,Chevrolet,Malibu Premier,24440,7042
+2019,Dodge,Charger GT,25995,24009
+2018,Chevrolet,Malibu LT,14090,36804
+2018,Chevrolet,Cruze Premier,15800,22215
+2019,Buick,LaCrosse Essence,22500,16117
+2018,Chevrolet,Cruze LT,15190,13659
+2017,Kia,Sorento SX V6,27960,17789
+2018,Chevrolet,Equinox 1LT,22999,5121
+2018,Hyundai,Elantra SEL,13955,35260
+2018,Hyundai,Accent SEL,11998,5519
+2019,Jeep,Cherokee Trailhawk,24750,37994
+2019,Chevrolet,Cruze LS,15989,10575
+2019,Dodge,Durango GT Plus,29360,14163
+2017,Buick,LaCrosse Essence,23970,1292
+2017,Chrysler,300 S,23000,18493
+2017,Cadillac,XT5 Luxury FWD,27190,27223
+2017,GMC,Acadia Denali,27650,34508
+2019,GMC,Acadia SLT-1,28580,29160
+2018,Chevrolet,Equinox 1LT,19780,29786
+2018,GMC,Terrain Denali,29160,27973
+2018,Cadillac,XT5 Premium Luxury,27810,28380
+2018,GMC,Terrain SLE,19780,20540
+2018,Chevrolet,Equinox Premier,24290,12548
+2017,Hyundai,Sonata Sport,17230,29610
+2018,Hyundai,Tucson SEL,15491,17490
+2018,Nissan,Murano SV,21998,34453
+2018,Honda,Accord Sport 2.0T,23516,14328
+2019,Hyundai,Sonata Sport,21750,2512
+2018,Chevrolet,Impala 2LZ,19190,37089
+2019,GMC,Terrain SLT,24000,21240
+2017,Kia,Sorento SX V6,27960,17789
+2018,Dodge,Durango GT,27400,34301
+2017,GMC,Acadia SLE-2,26420,6131
+2019,GMC,Acadia SLT-1,28100,11190
+2017,GMC,Acadia Denali,27650,34508
+2019,GMC,Acadia SLT-1,26710,27250
+2019,Cadillac,XTS Luxury,25850,33605
+2018,Cadillac,XT5 Premium Luxury,27810,28380
+2018,Hyundai,Ioniq Hybrid SEL,19500,11763
+2017,Nissan,Maxima 3.5 S,17899,36812
+2019,Jeep,Cherokee Limited,22337,24166
+2019,Chevrolet,Traverse LS,28487,26581
+2019,Mazda,CX-5 Touring,26995,3163
+2019,Cadillac,XTS Luxury,25850,33605
+2018,Acura,RDX FWD w/Technology Package,29090,29680
+2018,Hyundai,Tucson SEL,14999,38984
+2018,Cadillac,XT5 Premium Luxury,27810,28380
+2019,GMC,Acadia SLT-1,28380,17431
+2019,Dodge,Durango GT Plus,28770,29360
+2018,GMC,Terrain SLT,22500,27222
+2017,Hyundai,Tucson SE Plus,20270,17529
+2018,Dodge,Durango Citadel,29200,20077
+2019,Chevrolet,Equinox 1LT,21270,22011
+2018,Nissan,Maxima 3.5 SV,18088,34717
+2018,Hyundai,Elantra SEL,12799,37909
+2019,Chevrolet,Trax LT,15657,2141
+2018,Mazda,Mazda6 Touring,23000,23500
+2018,Hyundai,Elantra SEL,13590,39175
+2017,Chevrolet,Trax LS,12495,34078
+2019,Kia,Sportage EX,25990,2836
+2018,Hyundai,Tucson SEL,16990,37386
+2017,Chevrolet,Cruze LT,13500,12374
+2018,Mazda,Mazda6 Touring,21888,36813
+2017,Buick,Encore Preferred,14988,15688
+2018,Nissan,Maxima 3.5 SV,19288,36229
+2019,Dodge,Durango GT Plus,28580,18375
+2018,Ford,Fusion Energi SE Luxury,18398,11900
+2017,Chevrolet,Trax LS,13999,14799
+2019,Kia,Optima LX,16900,21758
+2019,Hyundai,Santa Fe SEL Plus 2.4,28000,4195
+2019,GMC,Acadia SLE-1,28473,5378
+2017,Hyundai,Elantra Limited,14900,16250
+2019,Jeep,Cherokee Latitude,16800,17500
+2017,Buick,Regal Turbo Premium II,16988,27656
+2018,Nissan,Murano SV,22998,23998
+2018,Nissan,Murano Platinum,29360,26508
+2018,Hyundai,Tucson SEL,17900,18798
+2017,GMC,Acadia SLT-1,27370,31598
+2017,Volkswagen,Golf Alltrack TSI SEL 4Motion Wagon,22500,23080
+2018,GMC,Acadia SLT-1,26730,30966
+2017,GMC,Acadia SLT-1,25980,30327
+2018,GMC,Terrain SLE,21530,3138
+2017,Cadillac,XT5 Luxury FWD,29070,16191
+2018,Chrysler,300 Limited,19350,26397
+2018,Hyundai,Tucson SEL,15999,16532
+2017,Hyundai,Sonata Limited,19180,28399
+2019,Mazda,CX-5 Grand Touring,25794,18103
+2019,Chevrolet,Equinox 1LT,21270,22011
+2019,Chrysler,300 S,24999,25976
+2019,Jeep,Cherokee Latitude Plus,18999,28621
+2018,Cadillac,XT5 Premium Luxury,27810,28380
+2018,Hyundai,Elantra SEL,11197,35610
+2017,Honda,Pilot EX,27663,35842
+2019,Chevrolet,Equinox 1LT,20770,21406
+2017,Cadillac,XT5 Premium Luxury FWD,29650,19084
+2018,Chevrolet,Malibu LT,14190,30711
+2019,Jeep,Compass Limited,21522,23990
+2018,Chevrolet,Malibu LT,13990,38490
+2018,Kia,Soul +,12690,38230
+2018,Subaru,Outback 2.5i Premium,26500,13122
+2019,Cadillac,XTS Luxury,27790,28969
+2017,GMC,Acadia SLE-2,26420,6131
+2018,Chevrolet,Equinox Premier,24290,12548
+2018,Cadillac,XT5 Premium Luxury,27810,28380
+2019,GMC,Acadia SLT-1,28100,11190
+2017,BMW,X3 xDrive28i,29598,29162
+2018,Hyundai,Ioniq Hybrid Limited,23500,8114
+2017,BMW,X3 xDrive28i,29698,27406
+2017,Buick,Encore Preferred,15689,16527
+2019,Chevrolet,Malibu 1LS,16989,18289
+2017,Buick,Encore Preferred,14989,24116
+2019,Kia,Sorento LX,21989,18165
+2017,Nissan,Maxima 3.5 Platinum,24489,23539
+2019,Kia,Soul +,15489,11246
+2019,Chevrolet,Equinox 1LT,21270,22011
+2017,GMC,Acadia Denali,27890,23770
+2018,Lincoln,MKX Reserve,28690,33807
+2018,GMC,Acadia SLT-1,26730,30966
+2018,Jeep,Renegade Latitude,18780,12630
+2017,GMC,Acadia SLT-1,26420,19205
+2019,Hyundai,Sonata Sport,21750,2512
+2017,Hyundai,Sonata Limited,19180,28399
+2018,Ford,Edge Titanium,22831,38070
+2018,GMC,Terrain SLE,20790,23238
+2017,Ford,Escape Titanium,20500,35678
+2018,Honda,Civic EX,17584,10637
+2018,Subaru,Outback 2.5i Premium,26200,6758
+2020,Kia,Soul GT-Line,19400,310
+2017,GMC,Acadia SLT-1,26420,19205
+2018,Jeep,Compass Limited,23150,16667
+2018,Dodge,Durango GT,27980,15342
+2018,Chevrolet,Cruze Premier,15800,22215
+2017,Kia,Sportage SX Turbo,24320,17816
+2017,GMC,Acadia SLT-1,29200,21365
+2019,Chevrolet,Impala 1LT,19570,23438
+2017,Chevrolet,Malibu 1LS,16360,14592
+2018,Buick,Encore Preferred,16810,13890
+2017,Audi,A4 Premium Plus,29680,23128
+2017,Cadillac,XT5 Luxury FWD,27290,27850
+2017,Kia,Sportage SX Turbo,24320,17816
+2018,Chevrolet,Cruze LT,14998,30499
+2019,Dodge,Charger GT,26490,15533
+2019,Honda,Civic Sport,18499,12117
+2018,Honda,Fit EX,17250,5502
+2017,GMC,Acadia SLE-2,26420,6131
+2017,GMC,Acadia Denali,27890,23770
+2017,Chevrolet,Malibu Premier,19980,18993
+2017,Kia,Sorento EX,19780,24538
+2017,Nissan,Murano SV,21450,29761
+2017,Kia,Sportage SX Turbo,24320,17816
+2017,Kia,Optima SX Limited,22730,31722
+2018,Buick,Encore Preferred,16810,13890
+2017,Audi,A4 Premium Plus,29680,23128
+2018,Nissan,Rogue S,17880,26087
+2017,Volkswagen,Golf Alltrack TSI SEL 4Motion Wagon,22500,23080
+2020,Kia,Soul GT-Line,19400,310
+2017,Chevrolet,Volt Premier,19797,31256
+2018,Hyundai,Elantra SEL,15290,23757
+2018,Kia,Optima LX,14995,24842
+2017,Hyundai,Elantra Value Edition,14000,14500
+2019,GMC,Terrain SLT,29880,2735
+2017,Hyundai,Santa Fe SE,19995,17301
+2018,Hyundai,Tucson SEL,16788,36458
+2019,Honda,Accord Hybrid EX,27988,222
+2019,Subaru,Crosstrek 2.0i Premium,26998,9730
+2017,GMC,Acadia SLE-2,26420,6131
+2017,Nissan,Maxima 3.5 SV,19788,35106
+2017,GMC,Acadia Denali,27890,23770
+2017,Chevrolet,Malibu 1LS,12999,39687
+2018,Nissan,Murano SV,17799,18990
+2017,Chevrolet,Sonic LT,12995,27354
+2019,GMC,Acadia SLE-1,28649,6525
+2019,Subaru,Crosstrek 2.0i Premium,24443,9286
+2018,Dodge,Durango SXT,26988,12116
+2018,Hyundai,Tucson SEL,18100,37929
+2017,GMC,Acadia Denali,27890,23770
+2017,Cadillac,XT5 Luxury FWD,27290,27850
+2017,Cadillac,XT5 Luxury FWD,27540,24179
+2017,Kia,Sportage SX Turbo,24320,17816
+2018,GMC,Terrain SLT,22500,27222
+2019,Buick,Regal TourX Essence,25520,12571
+2019,GMC,Acadia SLT-1,28100,11190
+2018,Jeep,Compass Limited,23150,16667
+2018,Buick,Encore Preferred,16810,13890
+2017,Audi,A4 Premium Plus,29680,23128
+2018,Chevrolet,Cruze LT,15810,15811
+2017,GMC,Acadia SLT-1,29200,21365
+2020,Kia,Soul GT-Line,19400,310
+2019,GMC,Acadia SLT-1,29980,30980
+2017,Chevrolet,Malibu Premier,19580,25255
+2018,Nissan,Maxima 3.5 SV,18916,37129
+2019,Kia,Soul +,15835,9386
+2017,Chevrolet,Cruze Premier,16655,34492
+2017,Cadillac,XT5 Luxury FWD,29070,16191
+2017,Hyundai,Sonata Base,12690,32629
+2018,Chrysler,300 S,19290,19990
+2018,Chevrolet,Equinox 1LT,19780,29786
+2018,Hyundai,Kona Ultimate,24690,3197
+2018,Buick,Encore Preferred,16810,13890
+2019,GMC,Terrain SLT,23730,15477
+2018,Hyundai,Santa Fe Limited Ultimate,29960,11039
+2017,Hyundai,Elantra Limited,15840,27462
+2017,Hyundai,Elantra Limited,16980,6921
+2019,GMC,Acadia SLT-1,28920,13733
+2018,Chevrolet,Equinox 1LT,18980,20135
+2017,Chevrolet,Volt LT,16988,35801
+2017,Hyundai,Sonata Limited,18999,35579
+2019,Kia,Sorento LX,20789,13253
+2017,Chevrolet,Malibu 1LT,16789,19713
+2019,GMC,Terrain SLE,24195,7007
+2018,Chevrolet,Equinox 1LT,21760,28626
+2019,GMC,Terrain SLT,23820,13125
+2017,Kia,Sportage SX Turbo,24320,17816
+2018,Mercedes-Benz,CLA 250 Base 4MATIC,27259,25958
+2018,Jeep,Compass Limited,23150,16667
+2017,GMC,Acadia SLT-1,25980,30327
+2018,Buick,Encore Preferred,16810,13890
+2017,Audi,A4 Premium,21290,35520
+2019,Nissan,Altima 2.5 Platinum,26690,5775
+2017,Audi,A4 Premium Plus,29680,23128
+2018,Buick,Encore Essence,17310,28366
+2017,GMC,Acadia SLT-1,29200,21365
+2020,Kia,Soul GT-Line,19400,310
+2019,Lincoln,MKZ Reserve I,26360,22734
+2019,Honda,Civic EX,19998,10
+2018,Nissan,Maxima 3.5 SV,21990,19174
+2018,Honda,Accord Sport 2.0T,24300,18176
+2018,Chevrolet,Volt LT,20980,23276
+2019,Chevrolet,Equinox 1LT,18600,25793
+2018,Chrysler,300 Limited,19350,26397
+2017,Kia,Sorento EX,19780,24538
+2017,Kia,Niro Touring,23230,25737
+2017,Chevrolet,Malibu 1LT,16710,34114
+2017,GMC,Acadia Denali,27890,23770
+2018,Chrysler,300 Limited,22290,22980
+2018,Dodge,Durango GT,28210,9310
+2018,Lincoln,MKX Reserve,28690,33807
+2017,Hyundai,Elantra Limited,15840,27462
+2018,Cadillac,ATS 3.6L Premium Luxury,27130,20426
+2017,Hyundai,Sonata Limited,19180,28399
+2018,Nissan,Murano SV,18499,32941
+2019,Hyundai,Tucson SE,16999,23713
+2018,Dodge,Charger SXT Plus,19999,31526
+2018,Cadillac,XT5 Premium Luxury,29884,32457
+2018,Honda,Civic EX-L,20990,7612
+2019,Hyundai,Santa Fe SE 2.4,18990,34129
+2019,GMC,Terrain SLE,22503,7809
+2018,Chevrolet,Malibu LT,18998,33948
+2019,Hyundai,Santa Fe SE 2.4,20800,21359
+2018,Nissan,Rogue SV,17988,37958
+2017,Audi,A4 Premium,21580,20885
+2017,Cadillac,XT5 Premium Luxury FWD,29650,19084
+2018,Nissan,Murano SV,17999,18599
+2017,Hyundai,Tucson Limited,24330,6937
+2017,Hyundai,Elantra Limited,16980,6921
+2017,Cadillac,XT5 Luxury FWD,29070,16191
+2017,Hyundai,Elantra Limited,15840,27462
+2019,GMC,Terrain SLT,23260,15926
+2018,Nissan,Rogue S,13690,38706
+2018,Nissan,Rogue S,13690,38576
+2018,Nissan,Maxima 3.5 SV,17988,38628
+2017,Chevrolet,Impala 1LT,14690,31381
+2018,Hyundai,Elantra SEL,12999,39314
+2018,Nissan,Rogue SV,14599,38555
+2018,Nissan,Leaf SV,21000,21500
+2017,Chevrolet,Malibu Premier,20149,14585
+2019,Buick,Encore Sport Touring,18190,20645
+2018,Dodge,Durango SXT,26588,32095
+2019,Hyundai,Santa Fe SE 2.4,19998,21645
+2018,Nissan,Murano SV,20488,37237
+2018,Ford,Focus SEL,14988,15051
+2018,FIAT,500X Urbana Edition,15650,38723
+2017,Kia,Sorento SX V6,27960,17789
+2018,Hyundai,Santa Fe Limited Ultimate,29960,11039
+2019,Chevrolet,Malibu Premier,24440,7042
+2018,Honda,CR-V EX,24800,11700
+2017,Mercedes-Benz,B 250e,19485,13983
+2018,Chevrolet,Equinox 1LT,14987,15989
+2019,Nissan,Altima 2.5 S,19000,19500
+2019,Hyundai,Sonata SE,18500,4208
+2018,Subaru,Outback 2.5i,23443,15855
+2019,Mazda,CX-5 Touring,25988,5624
+2018,Hyundai,Santa Fe Sport 2.0T Ultimate,26800,7417
+2019,Hyundai,Sonata SEL,19700,6273
+2018,Chevrolet,Cruze Premier,16460,30160
+2017,GMC,Acadia Denali,27650,34508
+2018,GMC,Terrain SLE,20790,23238
+2018,Dodge,Durango SXT,26690,27712
+2018,Hyundai,Tucson SEL,15999,17166
+2018,Nissan,Murano SL,23999,24958
+2017,Lincoln,MKC Select,21530,31373
+2017,Chevrolet,Malibu Premier,19980,18993
+2019,Dodge,Durango GT,29999,31879
+2018,Ford,Edge Titanium,22599,23512
+2019,Hyundai,Kona SE,18411,16926
+2019,Chevrolet,Equinox Premier,23520,13985
+2019,Hyundai,Sonata Sport,21750,2512
+2017,Cadillac,XT5 Luxury FWD,27540,24179
+2018,Nissan,Rogue S,14280,32887
+2017,Chevrolet,Cruze Premier,15742,19616
+2018,Subaru,Crosstrek 2.0i Limited,28917,6359
+2018,Honda,Civic EX-L w/Navi,20985,25511
+2019,Kia,Sorento LX,23020,9331
+2018,Lincoln,MKX Reserve,28690,33807
+2018,Hyundai,Santa Fe Sport 2.4L,23700,18888
+2019,GMC,Acadia SLT-1,28800,13080
+2017,Audi,A4 Premium,21580,20885
+2017,Cadillac,XT5 Luxury FWD,27190,27223
+2018,Honda,Accord Sport 2.0T,26380,11322
+2018,Dodge,Charger R/T,22990,32115
+2018,Chevrolet,Malibu LT,17999,38626
+2017,Chevrolet,Cruze LT,15389,18970
+2019,GMC,Acadia SLT-1,28100,11190
+2018,Chevrolet,Cruze Premier,16460,30160
+2018,Chevrolet,Volt LT,20980,23276
+2018,Dodge,Durango GT,27400,34301
+2019,Lincoln,MKZ Reserve I,26360,27845
+2018,Chevrolet,Cruze Premier,15800,22215
+2019,Dodge,Durango GT Plus,28440,13249
+2017,Chevrolet,Malibu 1LS,16360,14592
+2017,Nissan,Maxima 3.5 SV,20980,37181
+2019,Chevrolet,Equinox LS,19780,5637
+2017,Hyundai,Elantra Limited,16980,6921
+2019,Ford,Fusion Hybrid SE,23750,4783
+2017,Buick,Encore Preferred,16471,14306
+2018,Honda,Accord EX,22583,11077
+2018,Chevrolet,Equinox 1LT,15490,30498
+2017,Nissan,Maxima 3.5 SV,20980,37181
+2019,Toyota,RAV4 Adventure,29380,12469
+2017,Hyundai,Elantra Limited,16980,6921
+2019,GMC,Terrain SLT,23260,15926
+2019,Chevrolet,Equinox 1LT,20770,21406
+2018,GMC,Terrain SLE,20790,23238
+2019,Chevrolet,Impala 1LT,19260,26352
+2019,GMC,Acadia SLT-1,29980,30980
+2018,GMC,Terrain Denali,29160,27973
+2017,Cadillac,XT5 Luxury FWD,27190,27223
+2018,Dodge,Durango SXT,26690,27712
+2017,Cadillac,XT5 Premium Luxury FWD,29650,19084
+2019,Chevrolet,Equinox Premier,23520,13985
+2017,Hyundai,Santa Fe Sport 2.0L Turbo,21980,31806
+2019,Mazda,CX-5 Grand Touring,27370,15517
+2019,Chevrolet,Impala 1LT,20480,19226
+2018,GMC,Terrain SLE,20790,23238
+2018,Chevrolet,Equinox 1LT,18887,17524
+2018,GMC,Terrain SLT,22888,37042
+2019,Chevrolet,Equinox 1LT,20770,21406
+2018,Hyundai,Tucson SEL,14999,39527
+2018,Volkswagen,Golf SportWagen TSI S Wagon Auto,17970,12284
+2018,Cadillac,ATS 3.6L Premium Luxury,27130,27680
+2019,GMC,Terrain SLT,23730,15477
+2017,Cadillac,XT5 Luxury FWD,27190,27223
+2019,Chevrolet,Equinox Premier,23520,13985
+2018,Nissan,Maxima 3.5 SV,18795,34293
+2018,Nissan,Maxima 3.5 SV,18477,20841
+2018,Chrysler,300 S,19890,34006
+2019,Chevrolet,Equinox 1LT,21418,23277
+2019,Honda,Fit EX,18988,7173
+2019,Hyundai,Kona SE,19998,2615
+2018,Honda,Fit Sport,16387,26790
+2018,Chevrolet,Equinox 1LT,20310,9495
+2018,Dodge,Durango GT,26860,38728
+2018,Chevrolet,Equinox 1LT,15751,16998
+2019,Hyundai,Santa Fe XL SE,26800,1943
+2018,GMC,Acadia SLE-1,23799,5315
+2018,Chevrolet,Trax LT,15999,16888
+2018,Hyundai,Santa Fe Limited Ultimate,28900,7700
+2017,Buick,Encore Preferred,15488,14567
+2018,Lincoln,MKX Reserve,28690,33807
+2018,Chevrolet,Cruze Premier,15800,22215
+2019,Kia,Sorento LX,23020,9331
+2017,Chevrolet,Cruze LT,15200,16599
+2018,Hyundai,Tucson SEL,17400,34834
+2018,Chevrolet,Cruze LT,15190,13659
+2019,GMC,Terrain SLT,23260,12222
+2019,Chevrolet,Equinox Premier,23520,13985
+2017,Hyundai,Elantra Limited,16980,6921
+2017,Chevrolet,Malibu Premier,20470,18670
+2018,Subaru,Outback 2.5i Premium,23998,14182
+2018,Hyundai,Kona Ultimate,24690,3197
+2018,Volkswagen,Tiguan 2.0T SE,19999,20639
+2019,Hyundai,Sonata Sport,21750,2512
+2019,Nissan,Altima 2.5 Platinum,26690,5775
+2017,Cadillac,XT5 Premium Luxury FWD,29650,19084
+2019,Nissan,Maxima 3.5 SV,23700,24677
+2017,Cadillac,ATS 2.0L Turbo,20680,14756
+2018,GMC,Acadia SLT-2,27940,21852
+2018,Chevrolet,Cruze LT,14388,38323
+2018,Chevrolet,Malibu LT,14190,31574
+2017,Honda,Accord EX,17987,18536
+2018,Buick,Regal Sportback Essence,22600,18785
+2017,Lincoln,MKC Select,21530,31373
+2017,GMC,Acadia Denali,27890,23770
+2017,Chevrolet,Cruze LT,15200,16599
+2017,Hyundai,Santa Fe Sport 2.0L Turbo,21980,31806
+2018,Nissan,Maxima SV,19260,38200
+2019,GMC,Terrain SLT,23260,15926
+2018,Chevrolet,Malibu LT,14290,33162
+2019,Kia,Forte LXS,16600,8954
+2018,Chevrolet,Malibu LT,15290,32509
+2017,GMC,Acadia SLT-1,27990,19933
+2018,Chevrolet,Malibu LT,17999,39334
+2018,Chevrolet,Malibu Hybrid,20999,14876
+2017,Chevrolet,Malibu 1LS,14977,32592
+2019,Kia,Sorento LX,22389,15837
+2019,Kia,Sorento LX,22489,16552
+2019,Kia,Sorento LX,20989,14168
+2019,Kia,Sorento LX,21389,11984
+2018,Hyundai,Kona Ultimate,23274,20863
+2018,Nissan,Murano SV,20917,32026
+2018,Chevrolet,Cruze LS,15500,10744
+2019,GMC,Terrain SLT,22780,23480
+2019,Cadillac,XTS Luxury,25340,30937
+2017,Chevrolet,Cruze LT,15200,16599
+2019,Mazda,CX-5 Grand Touring,27370,15517
+2018,Chevrolet,Cruze LT,15190,13659
+2018,Kia,Optima SX,24550,14853
+2019,GMC,Terrain SLT,23260,12222
+2019,GMC,Acadia SLT-1,29980,30980
+2017,Kia,Sorento SX V6,27960,17789
+2018,Volkswagen,Golf SportWagen TSI S Wagon Auto,17970,12284
+2018,Honda,Accord Sport 2.0T,26380,11322
+2018,GMC,Acadia SLT-2,27940,21852
+2018,Buick,Regal Sportback Preferred II,24244,3464
+2018,Nissan,Rogue SV,16811,31149
+2018,Nissan,Kicks SV,17611,18490
+2019,Subaru,Legacy 2.5i Premium,23990,24900
+2019,Chevrolet,Impala 1LT,20480,19226
+2018,Kia,Optima SX,24550,14853
+2018,Volkswagen,Golf SportWagen TSI S Wagon Auto,17970,12284
+2019,Nissan,Altima 2.5 Platinum,26690,5775
+2019,GMC,Acadia SLT-1,29780,11613
+2019,Mazda,CX-5 Grand Touring,27370,15517
+2017,Lincoln,MKC Select,22300,14885
+2019,Dodge,Durango GT Plus,28440,13249
+2017,Hyundai,Tucson Limited,22570,32093
+2018,Nissan,Maxima Platinum,29670,30430
+2018,Honda,Accord EX-L 2.0T,25820,16674
+2018,Lincoln,MKZ Select,26690,9524
+2018,Kia,Optima SX,24550,14853
+2018,Cadillac,XT5 Premium Luxury,27810,28380
+2018,GMC,Acadia SLT-2,27940,21852
+2019,Chevrolet,Equinox 1LT,20480,12990
+2019,GMC,Terrain SLT,23730,15477
+2018,GMC,Terrain SLE,21871,8599
+2019,Hyundai,Kona SE,16850,30021
+2018,Nissan,Rogue SV,17988,38903
+2019,Nissan,Altima 2.5 Platinum,26690,5775
+2018,Dodge,Charger R/T,23750,32761
+2017,Chevrolet,Malibu 1LT,16710,34114
+2018,Hyundai,Tucson SEL,14999,38180
+2018,Chevrolet,Cruze LT,15810,15811
+2019,Dodge,Durango GT Plus,28440,13249
+2018,GMC,Acadia SLT-2,27940,21852
+2017,Lincoln,MKC Select,21530,31373
+2017,Cadillac,XT5 Luxury FWD,27540,24179
+2019,Jeep,Compass Trailhawk,22300,30570
+2018,Chevrolet,Impala 1LT,15988,38158
+2018,Chevrolet,Equinox 1LT,15690,31158
+2017,Subaru,Impreza 2.0i Sport,18900,19813
+2019,Mazda,CX-5 Grand Touring,27500,28000
+2018,Honda,Accord EX-L,25990,6659
+2018,Mazda,Mazda6 Touring,20995,35654
+2017,Nissan,Maxima 3.5 SV,19998,20988
+2018,Hyundai,Kona Ultimate,24690,3197
+2017,Hyundai,Santa Fe Sport 2.0L Turbo,21980,31806
+2018,Nissan,Rogue SV,14298,14889
+2018,Hyundai,Tucson SEL,16816,35966
+2018,Kia,Niro Plug-In Hybrid LX,25995,14340
+2019,Hyundai,Kona SE,19800,19
+2017,Hyundai,Sonata Limited,19998,18467
+2019,Jeep,Cherokee Latitude Plus,16600,17900
+2018,Honda,Civic EX,21442,8547
+2017,Hyundai,Elantra SE,13771,21770
+2018,Mazda,Mazda6 Touring,19988,36575
+2017,Chevrolet,Malibu 1LS,14988,37406
+2018,Cadillac,ATS 3.6L Premium Luxury,27130,20426
+2017,Hyundai,Santa Fe Sport 2.0L Turbo,21980,31806
+2019,Dodge,Durango GT Plus,28770,29360
+2018,Nissan,Rogue S,15999,16858
+2019,Chevrolet,Equinox LS,19780,5637
+2019,Jeep,Compass Trailhawk,20535,32412
+2018,Kia,Optima SX,24550,14853
+2017,Genesis,G80 3.8L,29970,25232
+2018,Chrysler,300 S,20270,37228
+2018,Volkswagen,Golf SportWagen TSI S Wagon Auto,17970,12284
+2018,Dodge,Durango GT,27980,15342
+2017,Lincoln,MKC Reserve,23970,35369
+2017,Chevrolet,Malibu 1LT,16710,34114
+2017,Volkswagen,Passat 1.8T SE,15950,33916
+2019,Nissan,Maxima SL,25960,16361
+2018,Nissan,Maxima Platinum,29670,30430
+2018,Honda,Accord Sport,22999,32383
+2018,Subaru,Legacy 2.5i Premium,21800,7189
+2018,Volkswagen,Golf SportWagen TSI S Wagon Auto,17970,12284
+2019,Nissan,Altima 2.5 Platinum,26690,5775
+2018,GMC,Terrain SLT,22500,27222
+2019,GMC,Terrain SLT,22780,23480
+2017,Cadillac,ATS 2.0L Turbo,20680,14756
+2019,Cadillac,XTS Luxury,25850,33605
+2017,Kia,Sportage SX Turbo,24320,17816
+2019,Chevrolet,Equinox Premier,23520,13985
+2019,Hyundai,Elantra SEL,14288,31501
+2018,Chevrolet,Malibu LT,13990,30076
+2017,Chevrolet,Trax Premier,17999,31624
+2018,Kia,Forte LX,15155,2487
+2018,Subaru,Impreza 2.0i Sport,22988,27024
+2018,Chevrolet,Cruze LT,15789,19436
+2019,Nissan,Sentra SR,15789,18537
+2019,Hyundai,Elantra SEL,16000,19560
+2017,Chevrolet,Volt LT,18499,18454
+2018,Mercedes-Benz,GLA 250 Base 4MATIC,29991,8998
+2018,Buick,Regal Sportback Essence,22600,18785
+2017,Hyundai,Santa Fe Sport 2.0L Turbo,21980,31806
+2018,Cadillac,ATS 3.6L Premium Luxury,27130,20426
+2019,Chevrolet,Equinox Premier,23520,13985
+2019,Dodge,Durango GT Plus,28770,29360
+2018,Chrysler,300 Limited,19350,26397
+2017,Kia,Sorento SXL V6,27140,27980
+2017,Kia,Niro Touring,23230,25737
+2017,Cadillac,XT5 Luxury FWD,27540,24179
+2018,Honda,Accord EX-L 2.0T,25820,16674
+2018,Nissan,Maxima SV,19260,38200
+2017,Volkswagen,Passat 1.8T SE,15950,33916
+2019,Chevrolet,Equinox 1LT,17988,19988
+2019,Subaru,Outback 2.5i Premium,28990,29490
+2018,Chevrolet,Equinox 1LT,15390,38823
+2017,Chevrolet,Malibu Premier,19580,25255
+2019,Jeep,Compass Trailhawk,22300,30570
+2019,Chevrolet,Equinox 1LT,20480,12990
+2019,Cadillac,CTS Luxury RWD,28960,13120
+2019,Nissan,Maxima SV,24330,17412
+2017,Hyundai,Tucson Limited,24330,6937
+2017,Lincoln,MKC Select,21530,31373
+2019,GMC,Terrain SLT,24960,765
+2018,GMC,Terrain SLT,22500,27222
+2017,Hyundai,Tucson Limited,22500,23080
+2017,Kia,Sorento LX,17700,23840
+2019,Jeep,Compass Limited,20570,31219
+2019,GMC,Terrain SLT,23820,13125
+2017,Kia,Sorento LX V6,22800,9759
+2017,Buick,Envision Essence,21940,22500
+2017,Hyundai,Tucson SE Plus,19970,17529
+2018,Nissan,Maxima SV,19260,38200
+2017,Chevrolet,Malibu Premier,20470,18670
+2018,Kia,Niro EX,21600,18754
+2018,Subaru,Outback 2.5i Premium,23550,13604
+2018,Hyundai,Kona Ultimate,24690,3197
+2019,Toyota,RAV4 XLE,23740,11711
+2019,Cadillac,CTS Luxury RWD,28960,13120
+2017,Hyundai,Tucson Limited,22500,23080
+2018,Nissan,Maxima SV,19260,38200
+2017,Hyundai,Tucson Limited,22570,32093
+2017,Cadillac,XT5 Luxury FWD,27290,27850
+2018,Honda,Accord EX-L 2.0T,25820,16674
+2017,Cadillac,XT5 Luxury FWD,28490,29070
+2018,Chevrolet,Cruze LT,11588,39121
+2017,Chevrolet,Volt LT,16995,24474
+2019,FIAT,500L Trekking,18895,10
+2019,Hyundai,Tucson Value,19500,10412
+2018,Hyundai,Tucson SEL,16990,36815
+2018,Chevrolet,Equinox 1LT,14995,32137
+2018,Chevrolet,Equinox 1LT,15290,29691
+2019,Volkswagen,Jetta 1.4T S,14995,12226
+2017,BMW,X3 xDrive28i,27999,31410
+2018,Honda,Accord Sport 2.0T,26380,11322
+2018,Dodge,Durango GT,27980,15342
+2017,Hyundai,Tucson SE Plus,19970,17529
+2017,Chevrolet,Malibu Premier,19580,25255
+2019,Hyundai,Sonata SE,17988,23277
+2019,Volkswagen,Passat 2.0T Wolfsburg Edition,19550,16539
+2019,Honda,HR-V Sport,20691,8013
+2018,Chrysler,300 S,19299,34923
+2017,BMW,X3 xDrive28i,28992,39486
+2019,Chevrolet,Blazer 1LT,29988,7879
+2017,Chevrolet,Cruze LT,12999,13670
+2019,Jeep,Cherokee Latitude Plus,16800,35233
+2018,Nissan,Rogue SV,17212,18895
+2017,Chevrolet,Volt LT,18200,18264
+2018,Kia,Forte SX,18800,23854
+2018,Nissan,Maxima SV,19260,38200
+2018,Chevrolet,Malibu LT,14995,30094
+2017,Lincoln,MKC Select,22300,14885
+2018,Chrysler,300 Limited,22290,22980
+2018,Chevrolet,Volt LT,20980,23276
+2017,GMC,Acadia SLT-1,27599,37728
+2019,Toyota,RAV4 XLE,23740,11711
+2017,Chrysler,300 S,23000,18493
+2019,GMC,Terrain SLT,23730,16253
+2019,Nissan,Maxima SV,24330,17412
+2018,Nissan,Rogue SV,17142,34233
+2017,Buick,Envision Essence,21940,22500
+2017,Hyundai,Elantra Limited,15840,27462
+2017,Hyundai,Tucson Limited,22500,23080
+2019,Hyundai,Tucson SE,19100,20654
+2018,Honda,CR-V EX,25988,14115
+2019,Chevrolet,Equinox LS,19780,5637
+2019,Nissan,Altima 2.5 Platinum,26690,5775
+2017,Chevrolet,Cruze LT,14995,14421
+2017,Hyundai,Tucson SE Plus,19970,17529
+2017,Chevrolet,Malibu Premier,19980,18993
+2019,Hyundai,Kona SE,16582,16331
+2018,Nissan,Maxima 3.5 SV,19370,39171
+2017,Chevrolet,Cruze LT,13985,14985
+2019,Chevrolet,Equinox Premier,21980,19542
+2018,Dodge,Durango SXT,26690,27712
+2019,Mazda,CX-5 Grand Touring,27370,15517
+2019,Hyundai,Santa Fe SE 2.4,18881,19798
+2018,Jeep,Grand Cherokee Altitude,29988,11670
+2017,Chevrolet,Volt LT,17522,27033
+2017,Kia,Niro Touring,23999,23197
+2018,GMC,Terrain SLE,19989,19457
+2018,Hyundai,Tucson SEL,17579,37534
+2017,Cadillac,XT5 Luxury FWD,27290,27850
+2017,Lincoln,MKC Select,22300,14885
+2019,GMC,Terrain SLT,23730,15477
+2017,Cadillac,XT5 Premium Luxury FWD,29650,19084
+2017,Kia,Sorento EX,19780,24538
+2017,Hyundai,Elantra SE,13290,33738
+2017,Hyundai,Tucson Limited,22500,23080
+2017,Hyundai,Elantra Limited,15840,27462
+2017,Lincoln,MKC Select,21530,31373
+2017,Buick,Envision Essence,21940,22500
+2017,Buick,Encore Preferred,16327,26964
+2018,Nissan,Rogue SV,18991,33170
+2018,Nissan,Rogue SV,19990,12742
+2017,Cadillac,XT5 Luxury FWD,28675,21069
+2017,Lincoln,MKC Reserve,23970,35369
+2017,Hyundai,Elantra Limited,15840,27462
+2019,Chevrolet,Equinox LS,19780,5637
+2017,Hyundai,Elantra SE,13290,33738
+2019,Dodge,Durango GT Plus,28770,29360
+2019,Subaru,Outback 2.5i,26380,6215
+2019,GMC,Acadia SLT-1,27810,28380
+2019,Jeep,Grand Cherokee Laredo,26740,7458
+2017,Chevrolet,Trax LT,15440,19356
+2017,Volkswagen,Passat 1.8T SE,15950,33916
+2019,Nissan,Maxima SL,25960,16361
+2018,Kia,Soul +,14970,16878
+2019,Cadillac,CTS Luxury RWD,28960,14005
+2017,Hyundai,Sonata Sport,17230,29610
+2017,Buick,Envision Essence,21940,22500
+2019,Chevrolet,Impala 1LT,19260,26352
+2018,Hyundai,Kona SEL,17634,20702
+2018,Hyundai,Tucson SEL,17998,37219
+2018,Nissan,Rogue S,14690,37996
+2018,Jeep,Compass Latitude,16400,28725
+2018,Honda,Pilot EX,27400,31629
+2017,Hyundai,Sonata Sport,16000,26382
+2017,Hyundai,Sonata Sport,15950,27848
+2019,Mazda,CX-5 Touring,24995,4635
+2017,Hyundai,Elantra SE,13290,33738
+2018,Chevrolet,Impala 2LZ,19190,37089
+2019,Chevrolet,Equinox LS,19780,5637
+2017,Volkswagen,Passat 1.8T SE,15950,33916
+2018,Chevrolet,Cruze LT,15190,13659
+2019,Chevrolet,Malibu Premier,24440,7042
+2019,Hyundai,Sonata Sport,21750,2512
+2018,Nissan,Maxima 3.5 SV,18488,34449
+2019,Jeep,Compass Trailhawk,23995,15291
+2019,Jeep,Compass Trailhawk,21995,29782
+2019,Mazda,CX-5 Grand Touring,27500,28000
+2018,Nissan,Maxima 3.5 SV,19995,35707
+2017,Chevrolet,Malibu 1LT,14500,34662
+2019,Chevrolet,Equinox 1LT,16522,30878
+2017,Honda,Civic EX-T,17888,13278
+2018,Ford,Focus Titanium,12858,29705
+2019,Audi,A3 2.0T Premium,29795,6131
+2018,Chevrolet,Volt LT,19761,21837
+2018,Buick,Encore Preferred,15896,16736
+2018,Ford,Edge Titanium,24597,31461
+2017,Hyundai,Elantra Limited,15190,13907
+2019,Chevrolet,Equinox Premier,21980,19542
+2017,Kia,Niro Touring,23230,25737
+2018,Chevrolet,Equinox 1LT,15499,31866
+2018,Hyundai,Elantra SEL,13888,39334
+2018,Chevrolet,Equinox 1LT,15621,32047
+2017,Hyundai,Elantra Limited,15985,32044
+2018,Kia,Niro EX,25995,3534
+2017,Chevrolet,Volt LT,17499,17999
+2017,Genesis,G80 3.8L,26991,26188
+2018,Hyundai,Kona SE,17991,4938
+2017,Buick,Encore Preferred,15143,18091
+2018,Nissan,Altima 2.5 SR,20988,25811
+2019,Jeep,Compass Trailhawk,22300,30570
+2017,Chevrolet,Malibu 1LT,13999,14583
+2018,Chevrolet,Equinox Premier,23520,14314
+2019,Nissan,Maxima 3.5 SL,24693,19076
+2019,Chevrolet,Impala 1LT,19570,23438
+2019,Lincoln,MKZ Reserve I,26360,27845
+2018,Honda,CR-V EX,23430,24030
+2017,Chevrolet,Trax LT,15440,19356
+2018,Honda,Accord EX-L 2.0T,25820,16674
+2017,Hyundai,Tucson Limited,24330,6937
+2017,Dodge,Charger R/T,24994,26599
+2017,Chevrolet,Volt LT,16277,35590
+2017,Cadillac,ATS 2.0L Turbo,22691,19852
+2018,Subaru,Legacy 2.5i Premium,20900,12244
+2018,Chevrolet,Sonic LT,15985,5137
+2019,Jeep,Compass Latitude,20270,10712
+2019,Chevrolet,Malibu Premier,24440,7042
+2019,Chevrolet,Equinox LS,19780,5637
+2019,Hyundai,Sonata Sport,21750,2512
+2018,Chevrolet,Volt LT,20980,23276
+2018,Dodge,Durango GT,28210,9310
+2018,GMC,Terrain SLE,19780,20540
+2018,Chevrolet,Equinox 1LT,18790,20845
+2017,Cadillac,XT5 Luxury FWD,29070,16191
+2019,GMC,Terrain SLT,23820,13125
+2019,Buick,Regal TourX Essence,24020,20404
+2018,Nissan,Rogue S,14209,39018
+2017,Kia,Sportage EX,19600,19712
+2018,Subaru,Impreza 2.0i Premium,19988,17980
+2019,Chevrolet,Equinox LS,22999,8203
+2018,Chevrolet,Malibu LT,19999,10650
+2018,Chevrolet,Malibu LT,17999,36384
+2019,Buick,Enclave Essence,28989,21672
+2018,Chevrolet,Malibu 1LS,15998,16998
+2019,Kia,Optima LX,18998,9867
+2018,Dodge,Durango GT,27980,15342
+2017,Chevrolet,Malibu 1LT,16710,34114
+2018,Dodge,Durango SXT,26690,27712
+2017,Chevrolet,Trax LT,15440,19356
+2018,Nissan,Maxima Platinum,29670,30430
+2018,Honda,Accord Sport,23788,26182
+2018,Mercedes-Benz,CLA 250 Base,26980,32207
+2019,Mazda,CX-5 Touring,24995,6947
+2019,Chevrolet,Equinox 1LT,26440,4212
+2018,Chevrolet,Equinox 1LT,19190,18207
+2019,GMC,Terrain SLT,23730,15477
+2017,Chevrolet,Trax LS,15810,1817
+2019,GMC,Terrain SLT,23730,16253
+2018,Chevrolet,Equinox 1LT,20310,9495
+2017,Chevrolet,Cruze LT,15200,16599
+2019,Cadillac,CTS Luxury RWD,29400,15901
+2019,Jeep,Cherokee Trailhawk,25960,23989
+2018,Nissan,Maxima SV,19260,38200
+2019,Cadillac,CTS Luxury RWD,28960,14005
+2019,GMC,Terrain SLT,22780,23480
+2019,Subaru,Outback 2.5i,26380,6215
+2019,Subaru,Outback 2.5i,25300,7656
+2019,Ford,Flex Limited,23000,27000
+2018,Jeep,Renegade Latitude,18780,12630
+2018,Subaru,Impreza 2.0i Sport,19985,20495
+2018,Hyundai,Elantra SEL,12992,33298
+2017,Chevrolet,Cruze LT,14476,22978
+2018,Chevrolet,Volt LT,19894,28350
+2017,Kia,Sportage EX,18900,27497
+2019,Subaru,Outback 2.5i,26380,6215
+2019,Chevrolet,Impala 1LT,19260,26352
+2018,Nissan,Murano SV,17999,22999
+2018,Nissan,Murano SV,17999,18999
+2017,Mercedes-Benz,CLA 250 Base,24981,12269
+2018,Chevrolet,Equinox 1LT,15395,32047
+2019,Hyundai,Sonata SE,18998,19998
+2017,Volkswagen,Tiguan 2.0T Wolfsburg Edition,17500,38618
+2018,Volkswagen,Tiguan 2.0T S,19428,12889
+2019,Volkswagen,Jetta 1.4T S,14995,7506
+2017,Chevrolet,Volt Premier,20839,21364
+2019,GMC,Terrain SLT,24960,765
+2017,Honda,Civic Sport Touring,22994,32433
+2019,Mazda,CX-5 Touring,23499,23999
+2018,Kia,Niro,20995,23603
+2019,Hyundai,Santa Fe SE 2.4,23800,7907
+2017,Kia,Optima EX,17200,21056
+2018,Subaru,Crosstrek 2.0i Premium,22000,22603
+2017,Chevrolet,Cruze LT,13583,25455
+2018,Nissan,Rogue SV,16991,32185
+2019,Kia,Rio S,13900,11445
+2019,Chevrolet,Equinox 1LT,22997,15209
+2019,GMC,Terrain SLT,23730,15477
+2019,Lincoln,MKZ Reserve I,26360,22734
+2019,Chevrolet,Impala 1LT,19260,26352
+2018,Chevrolet,Equinox 1LT,19190,18207
+2017,Chrysler,300 S,23310,19367
+2019,Jeep,Cherokee Latitude Plus,17999,35560
+2018,Nissan,Murano Platinum,26676,25655
+2018,Lincoln,MKZ Select,26690,9524
+2019,Hyundai,Tucson SE,19590,25911
+2018,Chevrolet,Impala 2LZ,19190,37089
+2018,Dodge,Durango GT,26860,38728
+2018,Hyundai,Tucson SEL,17110,18200
+2018,Ford,Explorer Limited,28999,29646
+2019,Dodge,Durango GT Plus,28440,13249
+2018,Hyundai,Tucson SEL,18299,36156
+2017,Hyundai,Tucson SE Plus,19970,17529
+2019,Nissan,Rogue Sport S,19430,19930
+2019,Hyundai,Tucson SE,19432,20100
+2019,Hyundai,Sonata SE,16997,17286
+2019,Kia,Forte S,16133,16799
+2018,Chevrolet,Trax LT,15950,7832
+2019,Cadillac,CTS Luxury RWD,29400,15901
+2018,Chevrolet,Impala 1LT,16590,38922
+2018,Hyundai,Tucson SEL,15999,39786
+2019,Chevrolet,Trax LT,19975,5
+2019,Cadillac,CTS Luxury RWD,26940,22250
+2019,Dodge,Durango GT Plus,28440,13249
+2017,Buick,Envision Essence,21940,22500
+2017,Chevrolet,Malibu 1LS,16360,14592
+2019,Dodge,Charger SXT,25980,11288
+2017,Hyundai,Tucson SE Plus,20270,17529
+2017,Honda,Accord EX-L V-6,22363,22989
+2018,Ford,Fusion Hybrid Platinum,15990,16790
+2018,Chevrolet,Malibu LT,14690,30040
+2019,Chevrolet,Equinox 1LT,21800,20757
+2018,Chevrolet,Cruze LT,16999,25819
+2018,Cadillac,ATS 2.0L Turbo Luxury,26998,9957
+2018,Cadillac,XT5 Premium Luxury,29990,34776
+2017,GMC,Acadia SLT-1,26489,35500
+2017,Chevrolet,Cruze LT,14774,23194
+2017,Honda,CR-V Touring,25789,30859
+2019,Chevrolet,Impala Premier 2LZ,22489,29006
+2018,Dodge,Charger SXT Plus,21999,31223
+2019,Jeep,Compass Trailhawk,22300,30570
+2017,Lincoln,MKC Reserve,23970,35369
+2018,Chevrolet,Impala 2LZ,19190,37089
+2019,Chevrolet,Equinox 1LT,26440,4212
+2019,GMC,Terrain SLT,23730,16253
+2017,Hyundai,Tucson Limited,22570,32093
+2017,Hyundai,Tucson Limited,24330,6937
+2018,Dodge,Durango Citadel,29200,20077
+2017,Hyundai,Tucson SE Plus,19970,17529
+2019,Nissan,Rogue Sport S,19430,19930
+2019,Kia,Optima LX,15985,31194
+2019,Toyota,Avalon XSE,29994,30984
+2018,Chevrolet,Equinox 2LT,23995,21150
+2019,Hyundai,Tucson SE,18000,15686
+2019,Cadillac,CTS Luxury RWD,29660,18257
+2017,Kia,Optima SX Limited,22730,31722
+2019,Cadillac,CTS Luxury RWD,27110,20165
+2018,Honda,Accord Sport 2.0T,26380,11322
+2018,GMC,Terrain SLT,22020,31106
+2019,Chevrolet,Impala 1LT,19580,23216
+2018,Chrysler,300 S,20270,37228
+2019,Jeep,Cherokee Latitude Plus,21290,5202
+2018,Jeep,Renegade Latitude,18780,12630
+2019,Chevrolet,Equinox 1LT,24240,3293
+2017,Chevrolet,Cruze LT,15200,16599
+2019,Nissan,Rogue Sport S,19430,19930
+2018,Chevrolet,Equinox 1LT,19190,18207
+2017,Hyundai,Tucson Limited,22570,32093
+2017,Chevrolet,Trax LS,15810,1817
+2018,Subaru,Impreza 2.0i Limited,21995,7154
+2019,Honda,Accord Sport,24300,8370
+2018,Hyundai,Kona SEL,19998,3067
+2018,Subaru,Outback 2.5i Premium,26330,5442
+2017,Honda,Civic EX,18583,26613
+2018,Nissan,Rogue Hybrid SV,23600,7909
+2019,Nissan,Rogue Sport S,17650,1508
+2018,Honda,Pilot EX,29632,3815
+2018,Hyundai,Elantra SEL,12900,34863
+2018,Hyundai,Tucson SEL,16000,17000
+2019,Jeep,Compass Sport,21000,10681
+2018,Hyundai,Tucson SEL,15000,37073
+2018,FIAT,500L Trekking,16495,16328
+2018,Honda,Accord Touring 2.0T,29170,8998
+2019,Cadillac,CTS Luxury RWD,29400,15901
+2017,Hyundai,Elantra SE,14680,18851
+2018,FIAT,500X Urbana Edition,15650,38723
+2019,Cadillac,CTS Luxury RWD,28960,14005
+2019,Chevrolet,Equinox 1LT,21995,34528
+2019,Mazda,CX-5 Touring,28500,29500
+2018,Nissan,Maxima 3.5 SV,20990,37824
+2018,Ford,EcoSport SE,17290,23341
+2018,Chevrolet,Malibu LT,14379,32826
+2018,Kia,Optima LX,16000,17078
+2018,Hyundai,Tucson SEL,15100,36700
+2017,Kia,Sportage EX,18576,36306
+2017,Buick,Encore Preferred,14999,24073
+2018,Kia,Niro EX,19999,30474
+2018,GMC,Acadia SLE-1,24998,6668
+2019,Ford,Fusion SE,21495,1927
+2019,Ford,Fusion SE,19836,20345
+2017,Kia,Sorento EX,19780,24538
+2018,Kia,Soul +,14850,32000
+2018,Jeep,Grand Cherokee Laredo,29888,28367
+2019,Subaru,Forester Premium,28400,136
+2017,Chevrolet,Cruze LT,12900,20362
+2018,Chevrolet,Cruze LS,13999,16018
+2017,Kia,Optima Hybrid EX,21000,21771
+2017,Buick,Encore Preferred,16998,6365
+2019,Kia,Optima LX,16900,23215
+2018,Nissan,Kicks SR,18400,7380
+2019,Dodge,Charger GT,25500,17706
+2017,Audi,A4 Premium,21290,35520
+2017,Chevrolet,Cruze LS,13599,29529
+2019,Buick,Regal TourX Essence,24020,20404
+2018,Chrysler,300 S,17710,36835
+2018,Hyundai,Tucson SEL,17900,33042
+2018,Hyundai,Tucson SEL,17499,18498
+2019,Cadillac,CTS Luxury RWD,29400,15901
+2019,Chevrolet,Impala 1LT,19580,23216
+2017,Cadillac,ATS 3.6L Premium Luxury,26599,25130
+2018,GMC,Terrain SLT,22020,31106
+2017,Hyundai,Tucson Limited,22570,32093
+2019,Cadillac,CTS Luxury RWD,28960,13120
+2019,Chevrolet,Equinox 1LT,20770,21406
+2018,Chevrolet,Equinox Premier,22520,10149
+2017,Hyundai,Sonata Sport,17230,29610
+2018,Chevrolet,Impala 2LZ,19190,37089
+2019,Cadillac,CTS Luxury RWD,28960,13120
+2017,Lincoln,MKC Reserve,23670,29826
+2019,Cadillac,CTS Luxury RWD,29400,15901
+2019,Chevrolet,Impala 1LT,19570,23438
+2017,Hyundai,Tucson Limited,24330,6937
+2018,Hyundai,Elantra SEL,13800,25982
+2018,Hyundai,Tucson SEL,16499,37941
+2018,Chevrolet,Malibu LT,14390,31883
+2018,Chevrolet,Cruze LT,15988,14740
+2018,Kia,Optima EX,19455,12008
+2019,Honda,CR-V EX,27989,4810
+2018,Nissan,Rogue SV,17769,29133
+2019,Chevrolet,Impala 1LT,20480,19226
+2018,Hyundai,Kona Ultimate,24690,3197
+2019,Jeep,Cherokee Latitude,19750,5750
+2019,Nissan,Maxima SV,24330,17412
+2019,Jeep,Cherokee Altitude,22500,23080
+2017,Kia,Optima SX Limited,22730,31722
+2018,GMC,Terrain SLT,22020,31106
+2017,Cadillac,XT5 Luxury FWD,28490,29070
+2017,Chevrolet,Trax LS,15810,1817
+2018,Hyundai,Tucson SEL,17912,18912
+2017,Ford,Focus SEL,13425,30319
+2018,Hyundai,Tucson SEL,16985,36321
+2019,Honda,Accord EX,24988,10
+2019,Chevrolet,Equinox 1LT,19999,31140
+2018,Nissan,Rogue SV,19091,37668
+2017,Chevrolet,Impala 1LT,17380,38085
+2017,Audi,A4 Premium,21290,35520
+2019,Chrysler,300 Limited,23310,25885
+2017,Audi,A4 Premium,21580,20885
+2017,Cadillac,XT5 Premium Luxury FWD,29980,20255
+2018,Chevrolet,Cruze LT,15810,15811
+2018,Honda,Accord Touring 2.0T,29170,8998
+2019,Jeep,Cherokee Latitude Plus,20280,10172
+2018,Nissan,Maxima 3.5 SV,20591,34272
+2019,Chevrolet,Impala 1LT,19570,23438
+2017,Volkswagen,Passat 1.8T SE,15950,33916
+2018,Hyundai,Tucson SEL,16883,32374
+2019,Honda,Civic Sport,19993,10577
+2017,Hyundai,Sonata SE,15998,29225
+2018,Ford,Focus SEL,14961,15344
+2018,Honda,Civic Sport Touring,22950,24219
+2017,Kia,Sportage EX,18390,18990
+2019,Subaru,Outback 2.5i Premium,27995,4815
+2019,Chevrolet,Impala 1LT,19580,23216
+2019,Hyundai,Tucson SEL,21999,13
+2018,Nissan,Maxima 3.5 SV,18000,38005
+2018,Nissan,Maxima 3.5 S,19250,36134
+2019,Mazda,CX-5 Touring,24500,25000
+2018,Chrysler,300 S,19790,33028
+2018,Nissan,Maxima 3.5 SV,17995,39913
+2018,Dodge,Durango SXT,26995,30315
+2018,Honda,CR-V EX,24553,8006
+2018,Kia,Optima LX,16000,13657
+2017,Honda,Civic EX,17691,30584
+2018,Kia,Niro LX,19488,31307
+2019,Subaru,Impreza 2.0i Sport,22500,9051
+2017,Subaru,Impreza 2.0i Premium,16599,38268
+2017,Ford,Focus SEL,14000,15488
+2017,Chrysler,300 Limited,16000,39710
+2019,Jeep,Compass Trailhawk,22300,30570
+2019,Chevrolet,Equinox 1LT,24240,3293
+2017,BMW,X3 sDrive28i,28992,19738
+2018,Dodge,Durango SXT,27988,31492
+2018,Subaru,Impreza 2.0i Sport,20000,8166
+2019,BMW,X3 sDrive30i,27431,28931
+2018,Honda,Clarity Plug-In Hybrid Touring,27000,13142
+2018,Chevrolet,Equinox 1LT,19299,18303
+2017,Ford,Explorer XLT,27596,30158
+2019,Hyundai,Elantra Value Edition,16800,6557
+2018,Nissan,Rogue SV,16809,33807
+2018,Hyundai,Kona SEL,17900,8464
+2019,Hyundai,Kona SE,18400,2760
+2019,Ford,Escape SEL,20614,17529
+2018,Nissan,Murano SV,21778,39691
+2019,Volkswagen,Jetta 1.4T S,14199,35198
+2019,Chevrolet,Equinox 1LT,22178,18913
+2017,Kia,Optima SX Limited,22730,31722
+2017,Chevrolet,Trax LS,15810,1817
+2019,Chrysler,300 Limited,23310,25885
+2017,Kia,Sorento LX,17700,23840
+2019,Chevrolet,Impala Premier 2LZ,23999,21689
+2019,Jeep,Cherokee Latitude Plus,18599,34531
+2018,Hyundai,Tucson SEL,17606,31636
+2019,Hyundai,Kona SE,17749,18999
+2018,Jeep,Renegade Latitude,16263,33012
+2019,Cadillac,CTS Luxury RWD,28960,14005
+2018,Subaru,Impreza 2.0i,17980,7345
+2018,Ford,Focus SEL,16997,16251
+2017,Cadillac,XT5 Luxury FWD,28490,29070
+2019,Chevrolet,Equinox 1LT,21270,22011
+2019,Nissan,Maxima SL,25960,16361
+2017,Hyundai,Tucson Limited,22570,32093
+2017,Hyundai,Elantra SE,13290,33738
+2019,Chevrolet,Equinox 1LT,20480,12990
+2019,Subaru,Outback 2.5i,26380,6215
+2019,Chevrolet,Traverse LS,27790,10250
+2018,Jeep,Grand Cherokee Limited,28400,33110
+2018,Hyundai,Tucson SEL,16800,17388
+2018,Hyundai,Tucson SEL,16400,37712
+2018,Kia,Optima LX,13690,39599
+2018,Chevrolet,Malibu LT,14390,30968
+2018,Ford,Focus SEL,15995,10953
+2018,Hyundai,Elantra SEL,14988,36830
+2019,Chevrolet,Impala 1LT,19977,15106
+2017,Honda,CR-V EX,24988,26101
+2018,Honda,CR-V EX,26988,29617
+2017,Chevrolet,Volt Premier,23999,36404
+2017,Chevrolet,Malibu 1LS,16988,29086
+2019,Chevrolet,Equinox Premier,24489,17788
+2019,Chevrolet,Impala 1LT,19570,23438
+2017,Chevrolet,Malibu Premier,19980,18993
+2019,Jeep,Cherokee Latitude Plus,22960,12138
+2019,Chevrolet,Equinox 1LT,24240,3293
+2018,FIAT,500X Urbana Edition,15650,38723
+2018,Chevrolet,Cruze LT,15810,15811
+2017,Jeep,Compass Trailhawk,21450,26822
+2018,Lincoln,MKZ Select,26690,9524
+2018,Acura,RDX FWD w/Technology Package,29090,29680
+2019,Cadillac,CTS Luxury RWD,28960,13120
+2019,Cadillac,CTS Luxury RWD,29400,15901
+2019,Subaru,Crosstrek 2.0i Premium,25129,11770
+2018,Hyundai,Tucson SEL,17985,31283
+2017,Buick,Encore Preferred,16995,28947
+2018,Subaru,Crosstrek 2.0i Premium,24800,15076
+2018,Hyundai,Elantra SEL,14790,36515
+2019,Jeep,Cherokee Latitude Plus,22960,12138
+2018,FIAT,500X Urbana Edition,15650,38723
+2018,Chevrolet,Cruze LS,14630,17392
+2017,GMC,Acadia SLT-1,26910,35575
+2017,Chrysler,300 S,23310,19367
+2019,Jeep,Cherokee Latitude,19750,5750
+2018,Chrysler,300 Limited,19860,33764
+2017,Chevrolet,Spark LS,10900,14760
+2018,Dodge,Durango Citadel,29200,20077
+2017,Jeep,Compass Trailhawk,21450,26822
+2018,Jeep,Grand Cherokee Limited,29360,28765
+2017,Chevrolet,Volt LT,17799,25147
+2019,Jeep,Cherokee Latitude Plus,17599,35559
+2019,Jeep,Cherokee Latitude Plus,21998,5282
+2018,Nissan,Maxima 3.5 SV,19998,20998
+2017,Honda,Accord EX-L V-6,20393,17084
+2019,Jeep,Compass Limited,20890,21490
+2019,Nissan,Rogue S,20488,6208
+2018,Hyundai,Sonata Sport,18998,19998
+2019,Hyundai,Sonata SE,17300,16959
+2017,Chevrolet,Trax LS,14600,34837
+2017,Kia,Sorento LX,17700,23840
+2017,Audi,A4 Premium,21290,35520
+2019,Nissan,Maxima 3.5 SV,20984,19924
+2017,Mercedes-Benz,CLA 250 Base,21981,34515
+2017,Honda,Accord EX-L,22427,35631
+2017,Honda,Accord EX-L,23995,6547
+2018,Honda,CR-V EX,24000,24500
+2017,Honda,Pilot EX,25990,33038
+2019,Mazda,CX-5 Touring,28000,28500
+2018,Kia,Optima LX Turbo,16990,15451
+2018,Dodge,Durango SXT,26995,27602
+2019,Kia,Sorento LX,21500,11644
+2017,Volkswagen,Tiguan 2.0T S,16995,22853
+2018,Ford,EcoSport SE,15893,10835
+2017,Honda,Pilot EX,29895,26250
+2017,Chevrolet,Malibu Premier,18567,36713
+2020,Kia,Soul GT-Line,19400,310
+2017,Audi,A4 Premium,21290,35520
+2018,Nissan,Maxima 3.5 S,22995,2438
+2018,Hyundai,Ioniq Hybrid Limited,24900,8941
+2018,Hyundai,Elantra SEL,12991,29198
+2017,Hyundai,Sonata Sport,16881,35899
+2018,Kia,Niro EX,23900,17790
+2017,Chevrolet,Volt LT,18000,19877
+2019,Jeep,Cherokee Limited,24300,24999
+2019,Jeep,Compass Limited,20999,22665
+2018,Chevrolet,Cruze LT,14500,32489
+2018,Chevrolet,Equinox 1LT,20310,9495
+2019,Chevrolet,Impala 1LT,20480,19226
+2018,FIAT,500X Urbana Edition,15650,38723
+2018,Hyundai,Elantra SEL,12980,39312
+2018,Chrysler,300 Limited,19860,33764
+2019,Chevrolet,Equinox 1LT,20480,12990
+2018,Dodge,Durango Citadel,29200,20077
+2019,Cadillac,CTS Luxury RWD,26940,22250
+2018,Kia,Optima LX,15998,39995
+2019,Chevrolet,Equinox 1LT,26440,4212
+2017,Chevrolet,Impala 1LT,17380,38085
+2018,Chevrolet,Cruze LS,14630,17392
+2019,Subaru,Outback 2.5i,26380,6215
+2018,Honda,Accord Sport 2.0T,26380,11322
+2019,Dodge,Charger R/T,26161,27195
+2018,Nissan,Maxima SV,19260,38200
+2017,Kia,Sorento LX,17700,23840
+2019,Chevrolet,Equinox 1LT,18600,25793
+2018,Buick,Encore Preferred,15776,18185
+2017,Chevrolet,Cruze LS,12452,32170
+2017,Chevrolet,Trax LT,15997,27582
+2019,Chevrolet,Impala 1LT,20480,19226
+2017,Cadillac,XT5 Luxury FWD,27540,24179
+2019,Kia,Optima S,19860,4825
+2019,Toyota,RAV4 XLE,23740,11711
+2018,Nissan,Murano SV,20988,39050
+2017,Honda,Accord EX-L,21884,28377
+2018,Chevrolet,Equinox LS,19999,14749
+2018,Chevrolet,Malibu LT,16999,36339
+2018,Chevrolet,Malibu LT,17999,34900
+2018,Chevrolet,Equinox 1LT,21999,20750
+2018,Chevrolet,Cruze LS,14999,32309
+2019,Chevrolet,Impala 1LT,19977,25558
+2019,Chevrolet,Impala 1LS,29990,4645
+2019,Kia,Sorento LX,19789,25547
+2018,Chevrolet,Cruze LS,14789,15982
+2019,Hyundai,Santa Fe SE 2.4,22000,26931
+2018,Honda,Accord Sport,24389,12481
+2017,Hyundai,Elantra Limited,16489,18378
+2018,Dodge,Durango GT,27184,20242
+2019,Chevrolet,Impala 1LT,19580,23216
+2019,Nissan,Maxima SL,25960,16361
+2017,Audi,A4 Premium,21580,20885
+2019,Chevrolet,Equinox 1LT,20480,12990
+2019,Dodge,Charger SXT,25980,11288
+2017,Chevrolet,Impala 1LT,17380,38085
+2018,Chrysler,300 Limited,22290,22980
+2017,Hyundai,Elantra SE,14680,18851
+2018,Chevrolet,Trax LS,15220,12425
+2018,Nissan,Rogue SV,18691,28391
+2017,Chevrolet,Volt LT,16998,36024
+2018,Jeep,Compass Limited,21991,21438
+2018,Chevrolet,Cruze LT,15190,13659
+2018,Chevrolet,Trax LT,17670,6145
+2018,Jeep,Grand Cherokee Limited,29360,28765
+2019,Jeep,Cherokee Latitude,18410,17063
+2019,Cadillac,CTS Luxury RWD,26940,22250
+2017,Chevrolet,Malibu Premier,20470,18670
+2017,Hyundai,Elantra SE,13290,33738
+2018,Chevrolet,Cruze LT,15190,13659
+2019,Chrysler,300 S,23260,20641
+2018,Chevrolet,Equinox LS,17286,20084
+2017,Chevrolet,Malibu 1LT,13590,38662
+2018,Ford,Focus Titanium,15998,35074
+2019,Chevrolet,Malibu 1LS,19998,20998
+2018,Hyundai,Tucson SEL,17988,37540
+2019,Mazda,CX-5 Touring,24995,4780
+2018,Hyundai,Elantra SEL,13988,35520
+2018,Jeep,Grand Cherokee Limited,28400,33110
+2019,Chevrolet,Equinox 1LT,20480,12990
+2019,Chevrolet,Equinox 1LT,18600,25793
+2018,Chrysler,300 S,18890,20285
+2017,GMC,Acadia SLT,28995,29995
+2019,Chevrolet,Equinox 1LT,21995,33843
+2019,Mazda,CX-5 Touring,25500,26000
+2018,Chrysler,300 S,19995,32584
+2018,Subaru,Outback 2.5i Premium,24980,30958
+2019,Jeep,Cherokee Latitude,17691,18995
+2017,Hyundai,Santa Fe Sport 2.4L,17500,18000
+2017,Kia,Sportage SX Turbo,21500,22000
+2017,Buick,Encore Preferred,15458,18423
+2019,Hyundai,Sonata SEL,19998,8858
+2019,Subaru,Impreza 2.0i Sport,22750,12040
+2019,Acura,TLX FWD,26265,7095
+2018,Honda,Accord EX-L 2.0T,25820,16674
+2019,Ford,Escape SE,18950,25157
+2018,Kia,Niro EX,23995,20725
+2018,Honda,CR-V EX,22399,29179
+2017,Chevrolet,Volt LT,16815,35665
+2017,Chevrolet,Malibu 1LT,16371,33999
+2018,Chevrolet,Trax LS,13990,7245
+2018,Subaru,Outback 2.5i Premium,24201,22951
+2018,Subaru,Outback 2.5i Premium,24502,22613
+2018,Honda,Accord Sport,26998,4788
+2018,Chevrolet,Cruze LT,14895,31765
+2018,Hyundai,Tucson SEL,18988,35431
+2019,Chevrolet,Equinox LS,23988,7236
+2017,Chevrolet,Spark LS,10900,14760
+2018,Chevrolet,Cruze LT,14500,34563
+2019,Chevrolet,Equinox 1LT,24240,3293
+2017,Kia,Sorento EX,19780,24538
+2019,Jeep,Compass Limited,20570,31219
+2017,Hyundai,Elantra SE,13290,33738
+2018,Jeep,Renegade Latitude,18780,12630
+2018,Jeep,Grand Cherokee Limited,29360,28765
+2019,Jeep,Cherokee Latitude Plus,18987,33499
+2019,Chevrolet,Equinox 1LT,18600,25793
+2018,Chevrolet,Cruze LT,13521,15999
+2019,Chevrolet,Equinox 1LT,19956,22178
+2018,Jeep,Compass Limited,22499,19539
+2019,Dodge,Charger GT,24656,17694
+2019,Chevrolet,Equinox 1LT,19352,30912
+2019,Hyundai,Sonata SE,16985,13689
+2017,Chevrolet,Cruze LT,16441,9931
+2019,Jeep,Cherokee Latitude Plus,20985,21985
+2019,Chevrolet,Impala 1LT,19580,23216
+2018,GMC,Acadia SLT-2,27940,21852
+2018,Hyundai,Elantra GT Sport,18240,2426
+2017,Kia,Optima SX Limited,22730,31722
+2019,Chevrolet,Equinox 1LT,18600,25793
+2019,Cadillac,CTS Luxury RWD,29660,18257
+2018,Hyundai,Elantra SEL,12988,13488
+2019,Hyundai,Kona SE,16649,19869
+2019,Ford,Escape SEL,20487,20987
+2018,Nissan,Rogue S,15290,38598
+2019,Kia,Rio S,14853,10035
+2019,Ford,Escape SEL,20996,18262
+2019,Chevrolet,Equinox 1LT,23977,29340
+2019,Nissan,Rogue 3.5 SV,20988,20661
+2019,Chevrolet,Impala 1LT,21322,20961
+2019,Chevrolet,Equinox 1LT,23966,28704
+2018,GMC,Acadia SLT-2,29995,30994
+2017,Mercedes-Benz,GLA 250 Base 4MATIC,26981,35867
+2017,Chevrolet,Cruze LT,14999,25500
+2019,Jeep,Cherokee Latitude Plus,18999,9789
+2017,Chevrolet,Spark LS,10900,14760
+2018,Hyundai,Elantra GT Sport,20450,6744
+2018,Chevrolet,Trax LT,17670,6145
+2018,Dodge,Durango GT,26860,38728
+2017,Chrysler,300 S,23310,19367
+2019,Cadillac,CTS Luxury RWD,28960,14005
+2019,Jeep,Compass Limited,20570,31219
+2019,Dodge,Charger SXT,27370,16473
+2018,Jeep,Grand Cherokee Limited,29360,28765
+2018,Honda,Accord Touring 2.0T,29170,8998
+2019,Chevrolet,Equinox 1LT,18600,25793
+2018,Chevrolet,Equinox 1LT,19190,18207
+2018,Chrysler,300 S,20270,37228
+2019,Ford,Escape SEL,22750,5256
+2018,Nissan,Rogue SV,17991,35069
+2018,Nissan,Murano SV,21391,37262
+2019,Audi,A3 2.0T Premium,27500,3821
+2019,Toyota,RAV4 XLE,23740,11711
+2019,Chrysler,300 S,23260,20641
+2019,Dodge,Charger SXT,27370,16473
+2017,GMC,Acadia SLE-2,22000,35391
+2017,GMC,Acadia SLT-1,25730,13437
+2018,Acura,RDX FWD w/Technology Package,29090,29680
+2017,Hyundai,Elantra SE,14680,18851
+2017,Buick,Encore Preferred,19400,13886
+2018,Honda,Accord Touring 2.0T,29170,8998
+2019,Jeep,Grand Cherokee Laredo,26740,7458
+2018,Hyundai,Tucson SEL,17490,19976
+2017,Honda,CR-V EX-L,24330,27629
+2018,GMC,Acadia SLT-1,27763,35557
+2018,Subaru,Crosstrek 2.0i Premium,24485,16190
+2018,Honda,Civic EX-T,19293,28812
+2018,Subaru,Outback 2.5i Premium,24995,14914
+2019,Subaru,Impreza 2.0i Premium,23995,8076
+2018,Chrysler,300 S,19090,34929
+2019,Nissan,Rogue S,21270,3073
+2018,Hyundai,Elantra SEL,13998,38140
+2019,Mazda,CX-5 Touring,26995,4744
+2017,Chrysler,300 S,23310,19367
+2019,Dodge,Charger SXT,25980,11288
+2018,Chrysler,300 S,18390,19385
+2019,Dodge,Charger GT,24595,32917
+2018,Nissan,Rogue SV,16550,39964
+2018,Nissan,Rogue SV,16550,38049
+2018,Subaru,Impreza 2.0i Sport,21500,6927
+2019,Mazda,CX-5 Touring,25000,25500
+2017,Chevrolet,Cruze LT,11988,25419
+2017,Honda,Civic EX,19000,19500
+2018,Hyundai,Tucson SEL,17990,37257
+2018,Chevrolet,Impala 1LT,16429,37864
+2017,Volkswagen,Jetta 1.4T SE,14500,30976
+2019,Chevrolet,Equinox 1LT,21658,31033
+2017,Honda,Civic EX-T,19988,13334
+2017,Buick,Encore Preferred,15122,24798
+2018,Chevrolet,Trax LT,16350,9342
+2017,Hyundai,Elantra SE,14680,18851
+2018,Chrysler,300 S,18149,35793
+2019,Ford,Escape SE,20931,22109
+2017,Kia,Niro Touring,25995,13189
+2018,Dodge,Durango SXT,27200,10266
+2018,Honda,Accord Sport,24500,11800
+2018,Subaru,Outback 2.5i Premium,25542,10926
+2018,Nissan,Rogue SV,17995,37011
+2018,Nissan,Rogue SV,17735,37540
+2019,Chevrolet,Equinox 1LT,23000,23998
+2018,Subaru,Outback 2.5i Premium,24288,23694
+2018,Chevrolet,Equinox 1LT,19299,7288
+2019,Chevrolet,Equinox 1LT,23988,20399
+2019,Chrysler,300 S,23260,20641
+2019,Cadillac,CTS Luxury RWD,28960,14005
+2019,Jeep,Cherokee Latitude,18410,17063
+2018,Mitsubishi,Outlander SE,15659,34539
+2019,Volkswagen,Jetta 1.4T S,15499,8510
+2017,GMC,Acadia SLT-1,25730,13437
+2019,Cadillac,CTS Luxury RWD,27110,20165
+2018,Chevrolet,Traverse LS,25440,13771
+2019,Dodge,Charger SXT,27370,16473
+2019,Chevrolet,Malibu Premier,24440,7042
+2017,Kia,Niro Touring,23230,25737
+2019,Hyundai,Sonata SE,17286,13661
+2019,Hyundai,Sonata SE,17368,15476
+2019,Jeep,Cherokee Latitude Plus,17943,35325
+2019,Cadillac,XTS Luxury,25850,33605
+2017,Chevrolet,Cruze LT,14488,31468
+2017,Chevrolet,Trax LT,14500,29446
+2019,Chevrolet,Malibu LT,22985,3524
+2017,Chrysler,300 S,23310,19367
+2018,Chevrolet,Equinox Premier,23520,14314
+2018,Kia,Sportage SX Turbo,21030,31684
+2019,Jeep,Cherokee Latitude,18410,17063
+2019,Nissan,Rogue S,20988,3161
+2019,Ford,Escape SEL,21959,17933
+2019,Chevrolet,Equinox 1LT,23977,32494
+2019,Subaru,Forester,23988,15413
+2018,Hyundai,Tucson SEL,18988,37320
+2019,Chevrolet,Equinox Premier,21789,14860
+2019,Jeep,Compass Limited,21989,25421
+2019,Jeep,Compass Limited,22989,12628
+2019,Hyundai,Santa Fe SE 2.4,20998,19492
+2019,Jeep,Cherokee Latitude,18998,22299
+2019,Chevrolet,Equinox Premier,21789,21004
+2019,Chevrolet,Equinox Premier,21689,15302
+2017,Chevrolet,Trax LT,14500,29446
+2019,Jeep,Cherokee Latitude,19999,11223
+2018,Chrysler,300 Limited,19860,33764
+2019,Jeep,Cherokee Latitude,18410,17063
+2019,Cadillac,CTS Luxury RWD,27110,20165
+2017,Chevrolet,Malibu Premier,20470,18670
+2017,Kia,Sorento LX,17700,23840
+2017,GMC,Acadia SLT-1,25730,13437
+2019,Toyota,RAV4 XLE,23740,11711
+2018,Dodge,Charger R/T,23750,32761
+2018,Chevrolet,Equinox Premier,23520,14314
+2018,Chevrolet,Equinox 1LT,21788,13546
+2018,Subaru,Outback 2.5i Premium,22995,29210
+2018,Subaru,Outback 2.5i Premium,22995,34109
+2018,Chevrolet,Malibu LT,13994,39760
+2017,Hyundai,Sonata Limited,17994,28305
+2019,Kia,Optima S,19860,4825
+2019,Nissan,Rogue Sport S,19430,19930
+2019,Chevrolet,Malibu Premier,24440,7042
+2017,Hyundai,Santa Fe Sport 2.0T Ultimate,24340,35966
+2018,Honda,CR-V EX,23430,24030
+2019,Jeep,Cherokee Altitude,22500,23080
+2018,Nissan,Maxima Platinum,29670,17622
+2019,Mercedes-Benz,CLA 250 Base,29980,4456
+2017,Chevrolet,Volt LT,16988,24388
+2018,Mercedes-Benz,C 300,28981,16455
+2019,Hyundai,Santa Fe SE 2.4,19998,21793
+2019,Hyundai,Santa Fe SE 2.4,19998,21692
+2017,Kia,Sportage EX,15850,36126
+2018,Chevrolet,Cruze LT,14599,34384
+2019,Subaru,Impreza 2.0i Sport,22988,25402
+2017,Chevrolet,Volt LT,18750,21484
+2018,Hyundai,Tucson SEL,16700,36698
+2017,GMC,Acadia SLE-1,19800,36515
+2019,Kia,Optima S,19860,4825
+2018,Dodge,Durango GT,28210,9310
+2019,Cadillac,CTS Luxury RWD,29660,18257
+2018,Nissan,Rogue S,14999,15999
+2018,Chevrolet,Traverse LS,25440,13771
+2017,Honda,CR-V EX-L,24330,27629
+2017,Hyundai,Santa Fe Sport 2.0T Ultimate,24340,35966
+2017,Chevrolet,Volt LT,18995,13608
+2019,Mazda,CX-5 Touring,27500,28500
+2019,Mazda,CX-5 Touring,26000,4595
+2018,Nissan,Rogue S,13995,39447
+2018,Ford,EcoSport SE,15893,10835
+2019,Jeep,Cherokee Latitude,17500,17959
+2019,Jeep,Compass Trailhawk,23988,21745
+2019,Ford,Escape SE,19981,22981
+2019,Subaru,Impreza 2.0i Premium,22000,9330
+2019,Ford,Fusion SE,19327,20985
+2017,Honda,Pilot EX,28998,29998
+2017,Hyundai,Sonata Limited,17995,18995
+2018,Chrysler,300 S,18249,35793
+2017,Kia,Niro FE,19800,16141
+2017,Chevrolet,Impala Premier,18996,37725
+2018,Subaru,Outback 2.5i Premium,24300,11633
+2017,Chevrolet,Volt LT,16300,17250
+2018,Mitsubishi,Outlander SE,15097,26023
+2018,Chevrolet,Equinox 1LT,17999,37609
+2019,Chevrolet,Malibu 1LS,18998,7754
+2019,Kia,Rio S,13700,9680
+2018,Hyundai,Elantra GT,16900,17400
+2019,Ford,Escape SEL,21882,22551
+2019,Chevrolet,Impala 1LT,21988,20978
+2017,Buick,Encore Preferred,19400,13886
+2019,Hyundai,Tucson SE,16999,17523
+2018,Ford,Edge Titanium,23999,24514
+2018,Jeep,Grand Cherokee Limited,28400,33110
+2018,Chevrolet,Trax LT,17670,6145
+2019,Chevrolet,Equinox 1LT,20486,26077
+2017,Chevrolet,Volt LT,21988,26556
+2019,Nissan,Rogue Sport S,16933,16915
+2017,Hyundai,Santa Fe Sport 2.0T Ultimate,24340,35966
+2019,Jeep,Cherokee Limited,19984,36046
+2019,Hyundai,Sonata SE,17349,14514
+2019,Nissan,Murano SV,29846,6166
+2017,Buick,Encore Preferred,17990,13086
+2018,Subaru,Impreza 2.0i Premium,18500,22559
+2018,Chevrolet,Equinox Premier,25875,26987
+2019,Chevrolet,Equinox 1LT,23997,24671
+2019,Ford,Edge SEL,29038,21
+2018,Chrysler,300 Limited,19350,26397
+2018,Honda,Accord EX-L 2.0T,25820,16674
+2017,Kia,Sorento EX,19780,24538
+2017,Honda,CR-V EX-L,24330,27629
+2019,Jeep,Cherokee Latitude,19750,5750
+2019,Jeep,Cherokee Latitude Plus,22960,12138
+2019,Hyundai,Tucson SE,17388,19742
+2018,Honda,Fit Sport,17916,21234
+2019,Ford,Escape SEL,20931,17526
+2018,Chevrolet,Equinox 1LT,21977,23562
+2018,Chevrolet,Impala 1LT,18977,37693
+2017,Kia,Sorento LX,19988,32546
+2017,Kia,Optima Hybrid Base,18299,17277
+2017,Chevrolet,Cruze LT,14977,39774
+2017,Chevrolet,Volt LT,17977,37129
+2017,Dodge,Charger R/T,27000,26459
+2019,Chevrolet,Equinox Premier,21989,15356
+2018,Honda,Accord Sport,23700,13359
+2018,Chevrolet,Equinox Premier,19989,31532
+2019,Kia,Forte LXS,15489,16993
+2018,Jeep,Compass Limited,23274,24000
+2017,Buick,Encore Preferred,19400,13886
+2019,Cadillac,CTS Luxury RWD,29660,18257
+2018,Chevrolet,Cruze LS,14630,17392
+2019,Chrysler,300 Limited,23310,25885
+2019,Jeep,Cherokee Latitude Plus,21290,5202
+2017,Hyundai,Santa Fe Sport 2.0T Ultimate,24340,35966
+2018,Jeep,Renegade Limited,21480,25931
+2019,Chevrolet,Equinox LS,24595,4309
+2019,Jeep,Cherokee Latitude Plus,21495,10400
+2017,Chevrolet,Volt LT,16385,36433
+2018,Subaru,Impreza 2.0i Sport,19985,20995
+2017,Chevrolet,Volt LT,16835,30709
+2017,Hyundai,Tucson Limited,23930,25120
+2018,GMC,Terrain SLE,19550,18638
+2017,Kia,Sportage EX,21610,19904
+2017,GMC,Acadia Denali,29850,34796
+2017,Honda,CR-V EX-L,24330,27629
+2017,Buick,Encore Preferred II,18980,13668
+2019,Chevrolet,Traverse LS,27790,10250
+2019,Cadillac,XTS Luxury,25340,30937
+2017,Chevrolet,Impala 1LT,16998,32958
+2017,Honda,CR-V EX,21850,33778
+2017,Chevrolet,Volt LT,18252,28311
+2018,Subaru,Outback 2.5i Premium,22800,26928
+2017,Chevrolet,Cruze LT,14998,19655
+2018,Dodge,Durango SXT,29998,27422
+2018,Hyundai,Elantra SEL,12950,38904
+2018,Honda,Clarity Plug-In Hybrid Base,25300,8518
+2018,Nissan,Kicks SR,19900,7178
+2018,GMC,Terrain SLE,21600,20952
+2017,Hyundai,Tucson Limited,23930,25120
+2018,Lincoln,MKX Reserve,28690,33807
+2018,Mitsubishi,Outlander Sport 2.4 SEL,27815,391
+2019,Chevrolet,Traverse LS,27790,10250
+2018,Chevrolet,Equinox 1LT,15690,16690
+2018,Chrysler,300 S,18990,36889
+2018,Chevrolet,Equinox 1LT,15490,16185
+2017,Chevrolet,Volt LT,16788,35314
+2019,Chevrolet,Equinox LS,21157,2214
+2019,Dodge,Charger SXT,24891,3007
+2018,Chrysler,300 S,19290,35961
+2018,Dodge,Durango SXT,27995,26393
+2019,Subaru,Forester Sport,28988,3241
+2017,Honda,Accord EX,19788,29200
+2018,Jeep,Renegade Limited,21480,25931
+2018,Ford,Focus SEL,14950,13411
+2018,Nissan,Rogue SV,17995,35084
+2018,Hyundai,Elantra GT Base,15100,29363
+2018,Nissan,Rogue SV,17488,17988
+2018,Honda,Clarity Plug-In Hybrid Base,25300,8518
+2019,Kia,Optima LX,17400,12337
+2018,Chevrolet,Equinox 1LT,18649,33967
+2018,Subaru,Outback 2.5i Premium,24772,20813
+2018,Hyundai,Kona SEL,18800,15996
+2018,Chrysler,300 S,16900,17500
+2019,Hyundai,Kona Ultimate,28998,6544
+2018,Kia,Sportage EX,21800,22300
+2018,Honda,Civic EX-T,19780,17832
+2019,Cadillac,CTS Luxury RWD,29660,18257
+2017,Hyundai,Tucson Limited,23930,25120
+2017,Hyundai,Elantra SE,14680,18851
+2018,GMC,Terrain SLE,19550,18638
+2018,Honda,Accord Touring 2.0T,29170,8998
+2017,Kia,Sportage EX,21610,19904
+2017,GMC,Acadia Denali,29850,34796
+2018,Chevrolet,Trax LT,16350,9342
+2019,Jeep,Cherokee Latitude Plus,21290,5202
+2019,Jeep,Cherokee Latitude,19750,5750
+2017,Buick,Encore Preferred II,18980,13668
+2019,Jeep,Cherokee Altitude,22500,23080
+2019,Chevrolet,Traverse LS,27790,10250
+2018,Jeep,Compass Limited,22999,16723
+2019,Chevrolet,Equinox 1LT,19653,30684
+2018,Ford,Escape SEL,19950,9265
+2019,Honda,Civic Sport,17988,15915
+2018,Jeep,Renegade Sport,18513,3078
+2018,Chrysler,300 S,17990,36102
+2018,Jeep,Renegade Sport,18393,3647
+2017,GMC,Acadia SLE-2,22000,35391
+2018,Nissan,Rogue SV,19997,35779
+2018,Chevrolet,Trax LT,16350,9342
+2019,Nissan,Rogue S,20988,3780
+2019,Nissan,Rogue S,20988,4999
+2019,Nissan,Rogue S,20988,4692
+2019,Chevrolet,Equinox 1LT,19897,20487
+2019,Ford,EcoSport SE,26015,2266
+2018,Hyundai,Elantra ECO,13600,6206
+2017,Subaru,Impreza 2.0i Sport,21988,18305
+2018,Nissan,Rogue SV,19977,37798
+2017,Chevrolet,Volt LT,17922,36698
+2018,Nissan,Rogue SV,18988,39371
+2017,Honda,Accord EX-L,21995,18917
+2018,Subaru,Outback 2.5i Premium,24000,37297
+2018,Chevrolet,Trax LT,16399,31717
+2019,GMC,Terrain SLT,24989,16636
+2019,Jeep,Cherokee Limited,21789,19500
+2018,Honda,Fit EX,16392,24071
+2017,Honda,Accord EX-L w/Navigation & Honda Sensing,23695,8624
+2019,Chevrolet,Impala 1LT,19981,34875
+2017,Hyundai,Tucson Limited,23930,25120
+2018,GMC,Terrain SLE,19550,18638
+2019,Chevrolet,Malibu Premier,24440,7042
+2017,Kia,Sportage EX,21610,19904
+2017,GMC,Acadia Denali,29850,34796
+2018,Chevrolet,Trax LT,16350,9342
+2018,Honda,Civic EX-T,19780,17832
+2018,Dodge,Durango GT,28210,9310
+2017,Buick,Encore Preferred II,18980,13668
+2019,Jeep,Cherokee Latitude,22000,10938
+2018,Nissan,Murano SV,21777,32330
+2019,Hyundai,Tucson SE,19850,17411
+2018,Nissan,Rogue SV,17491,35800
+2017,Cadillac,XT5 FWD,26240,30784
+2017,GMC,Acadia SLE-2,24700,18541
+2018,GMC,Acadia SLT-1,25730,35585
+2018,Chevrolet,Trax LT,16350,9342
+2018,Honda,Accord Sport,23800,17190
+2019,Jeep,Cherokee Latitude Plus,21050,6390
+2018,Volkswagen,Atlas 3.6L SE,26360,22771
+2017,GMC,Acadia SLT-1,25980,30327
+2019,Cadillac,CTS Luxury RWD,27110,20165
+2017,Hyundai,Tucson Limited,22500,19470
+2018,Honda,Accord Sport,23996,10022
+2019,Chevrolet,Trax LT,16995,2161
+2017,Chevrolet,Volt LT,17700,28050
+2018,Chevrolet,Cruze LT,16200,19123
+2019,Honda,Civic Sport,20500,5057
+2018,Honda,Civic EX,20300,6052
+2017,Honda,Accord EX,20000,15826
+2017,Honda,Civic EX,16499,34440
+2017,Chevrolet,Volt LT,17998,33425
+2019,Ford,Escape SEL,21999,17034
+2018,Hyundai,Kona SEL,18998,13781
+2018,Dodge,Charger SXT,22995,8251
+2017,Cadillac,XT5 Base,27750,17000
+2018,Honda,Civic EX,18888,30490
+2017,Ford,Fusion Energi SE Luxury,18250,18999
+2017,Cadillac,XT5 FWD,26240,30784
+2018,Honda,Civic EX-T,19780,17832
+2018,Chrysler,300 S,18690,38978
+2018,Honda,Accord EX-L,26995,4711
+2018,Chevrolet,Cruze LS,14992,17740
+2018,Honda,Accord EX-L 2.0T,27989,4087
+2018,Nissan,Rogue SV,16550,38991
+2018,Honda,Civic EX-L w/Navi,21500,19442
+2018,Hyundai,Tucson SEL,17990,33266
+2018,Nissan,Maxima 3.5 S,22900,23882
+2019,Chevrolet,Impala 1LT,20139,29998
+2019,Hyundai,Sonata SE,17998,14935
+2018,Chevrolet,Trax LT,15653,3912
+2019,Honda,Accord Sport 2.0T,27998,11575
+2019,Ford,Fusion SE,19852,58
+2019,Jeep,Cherokee Latitude,18410,17063
+2019,Nissan,Rogue S,20995,4039
+2018,Nissan,Rogue SV,17488,34625
+2019,Kia,Niro,21888,15481
+2017,Nissan,Maxima 3.5 SV,17998,37210
+2019,Mazda,CX-5 Touring,23900,24500
+2019,Jeep,Compass Limited,22200,22358
+2017,Dodge,Charger SXT,19928,38877
+2018,Nissan,Rogue SV,17330,38168
+2019,Honda,CR-V EX,27998,24
+2017,Chevrolet,Cruze LT,14488,22015
+2019,Ford,Escape SE,17599,17470
+2019,Chevrolet,Equinox 1LT,21427,30511
+2017,GMC,Acadia SLE-2,24700,18541
+2017,Cadillac,XT5 FWD,26240,30784
+2018,Honda,Accord Sport,22900,24600
+2018,Jeep,Renegade Limited,21480,25931
+2019,Chevrolet,Equinox 1LT,20999,21593
+2019,Hyundai,Santa Fe SE 2.4,21998,21313
+2019,Dodge,Charger SXT,25980,11288
+2018,GMC,Acadia SLT-1,25730,35585
+2018,Dodge,Charger R/T,23750,32761
+2018,Honda,Civic Sport Touring,25680,1288
+2018,Chevrolet,Malibu LT,14995,30122
+2017,Dodge,Charger SXT,19599,35907
+2018,Hyundai,Tucson SEL,17230,24442
+2018,Jeep,Grand Cherokee Laredo E,26150,9462
+2019,Dodge,Charger GT,24966,12274
+2019,Dodge,Charger GT,25367,11359
+2018,Jeep,Grand Cherokee Limited,28400,33110
+2018,Hyundai,Tucson SEL,17230,24442
+2017,Kia,Sportage EX,17877,30304
+2019,Ford,EcoSport SE,25540,6952
+2018,Acura,RDX FWD w/Technology Package,29090,29680
+2018,FIAT,500X Urbana Edition,15650,38723
+2018,Chrysler,300 S,20390,39329
+2017,Chevrolet,Volt LT,19999,18350
+2019,Honda,Civic Sport Touring,26000,19345
+2019,Hyundai,Santa Fe SE 2.4,21998,16728
+2019,Jeep,Cherokee Latitude Plus,21789,12075
+2017,Buick,Encore Preferred,15389,16472
+2018,GMC,Terrain SLE,19989,20570
+2017,Cadillac,XT5 Luxury,26989,38941
+2017,GMC,Acadia SLE-2,22000,35391
+2019,Jeep,Cherokee Latitude Plus,18999,13102
+2018,Hyundai,Tucson SEL,16993,38076
+2019,Chevrolet,Traverse LS,27790,10250
+2017,GMC,Acadia SLE-2,24700,18541
+2017,Cadillac,XT5 FWD,26240,30784
+2018,Ford,EcoSport SE,17050,4652
+2018,Chevrolet,Traverse LS,25440,13771
+2018,GMC,Acadia SLT-1,25730,35585
+2017,Dodge,Charger SXT,23080,31731
+2018,Chrysler,300 S,19760,32777
+2018,Hyundai,Tucson SEL,17230,24442
+2019,Jeep,Cherokee Latitude Plus,26999,6848
+2019,Dodge,Charger GT,27999,15369
+2018,Honda,Accord Sport,24600,24982
+2017,Chevrolet,Volt LT,16990,17990
+2018,Subaru,Legacy 2.5i,18481,17508
+2019,Chrysler,300 S,21780,17410
+2019,Dodge,Charger SXT,25980,11288
+2018,Chrysler,300 S,19760,32777
+2018,Ford,EcoSport SE,17050,4652
+2018,Hyundai,Elantra SEL,12980,39312
+2017,Hyundai,Elantra Limited,16980,12490
+2019,Hyundai,Santa Fe XL SE,26800,1943
+2019,Chrysler,300 S,21780,17410
+2018,Subaru,Crosstrek 2.0i Premium,22950,5332
+2017,Honda,Civic EX-T,17950,24517
+2018,Honda,Civic EX-T,20100,7339
+2017,Honda,Civic Sport Touring,22900,6965
+2018,Honda,Civic EX,19481,33116
+2017,Chevrolet,Volt LT,18000,22979
+2018,Subaru,Outback 2.5i Premium,22800,26950
+2018,Mitsubishi,Outlander Sport SE,13800,34137
+2018,Honda,Civic Touring,23000,2520
+2018,Volkswagen,Atlas 3.6L SE,26360,22771
+2018,Nissan,Rogue S,19950,5351
+2019,Jeep,Grand Cherokee Laredo,26740,7458
+2018,Chevrolet,Sonic LT,14992,17876
+2017,Chevrolet,Cruze LT,14495,32579
+2017,Chevrolet,Volt LT,16795,35987
+2017,Chevrolet,Volt LT,17795,24814
+2018,Jeep,Renegade Latitude,17500,15522
+2019,Dodge,Charger GT,25998,14085
+2019,Subaru,Impreza 2.0i Sport,22000,8096
+2019,Subaru,Impreza 2.0i Premium,22980,10245
+2019,Ford,Fusion SE,18397,19447
+2019,Ford,Escape SE,20848,21814
+2019,Chrysler,300 Limited,23310,25885
+2018,Subaru,Outback 2.5i Premium,24400,15359
+2018,Nissan,Rogue SV,17788,34999
+2018,Mitsubishi,Eclipse Cross SEL,22800,1827
+2017,Chevrolet,Sonic LS,9999,10499
+2019,Jeep,Compass Trailhawk,21697,24387
+2018,Nissan,Rogue S,19998,5488
+2018,Nissan,Murano SV,20998,38483
+2019,Kia,Rio S,13900,12543
+2019,Kia,Rio S,13800,12625
+2018,Nissan,Rogue SV,17177,35854
+2019,Jeep,Cherokee Latitude,18998,20906
+2018,Nissan,Murano SV,22497,35329
+2019,Subaru,Impreza 2.0i Sport,21591,13925
+2018,Volkswagen,Atlas 3.6L SE,26360,22771
+2018,Chevrolet,Malibu LT,15110,31116
+2018,Dodge,Durango GT,27270,37608
+2018,Dodge,Durango GT,28210,9310
+2018,Ford,EcoSport SE,17050,4652
+2019,Jeep,Grand Cherokee Laredo,26740,7458
+2019,Jeep,Cherokee Latitude Plus,22960,12138
+2017,Chevrolet,Cruze LT,19988,10846
+2017,Hyundai,Elantra Limited,16980,12490
+2018,Nissan,Murano SV,22998,22622
+2018,Mitsubishi,Eclipse Cross SEL,22800,1827
+2019,Chrysler,300 S,21780,17410
+2018,Honda,Accord Sport,24577,16166
+2018,Honda,Fit Sport,17900,26537
+2018,Mitsubishi,Eclipse Cross SEL,22800,1827
+2018,Ford,EcoSport SES,18805,20642
+2018,Dodge,Durango GT,27270,37608
+2018,Nissan,Murano SV,19953,35690
+2019,Chevrolet,Impala 1LT,18956,32443
+2018,Dodge,Charger SXT Plus,21935,14912
+2019,Nissan,Rogue Sport S,18990,11177
+2018,Nissan,Rogue SV,16985,17988
+2018,Nissan,Rogue SV,16985,17888
+2017,Hyundai,Tucson Limited,23930,25120
+2018,Jeep,Renegade Limited,21480,25931
+2018,Cadillac,XT5 Premium Luxury,27810,38412
+2018,Dodge,Durango GT,27270,37608
+2018,Dodge,Charger R/T,23750,32761
+2018,Honda,Civic Sport Touring,25680,1288
+2018,Nissan,Murano SV,20588,31039
+2018,Hyundai,Elantra SEL,13800,36794
+2019,Chrysler,300 S,22790,32880
+2018,Chrysler,300 S,17990,36332
+2018,Hyundai,Santa Fe SE,20990,24100
+2017,Kia,Sorento LX,19499,35539
+2019,Ford,Escape SE,21999,22341
+2019,Jeep,Compass Limited,22489,17297
+2019,Chevrolet,Equinox 1LT,22279,21797
+2019,Honda,Accord Sport,25989,1877
+2019,Kia,Niro LX,21489,13312
+2019,Chrysler,300 Limited,21789,26193
+2018,Volkswagen,Atlas 3.6L SE,26360,22771
+2018,Dodge,Durango GT,27270,37608
+2018,Honda,CR-V EX,23430,24030
+2018,Chevrolet,Equinox 1LT,20310,9495
+2018,Honda,Civic Sport Touring,25680,1288
+2017,Hyundai,Elantra Limited,16980,12490
+2019,Subaru,Outback 2.5i,26380,6215
+2019,Chrysler,300 S,21780,17410
+2018,Nissan,Rogue SL,23670,11585
+2019,Subaru,Outback 2.5i,25300,7656
+2019,Dodge,Charger GT,26995,10684
+2018,Dodge,Charger GT,26700,27499
+2019,Hyundai,Santa Fe SE 2.4,19492,27189
+2019,Hyundai,Santa Fe SE 2.4,19492,27189
+2017,BMW,X3 sDrive28i,27988,26145
+2018,Chevrolet,Malibu LT,15500,39372
+2017,Jeep,Compass Trailhawk,21450,26822
+2017,Buick,LaCrosse Premium,23320,34456
+2019,Lincoln,MKZ Hybrid Standard,27790,3704
+2018,Hyundai,Elantra GT Sport,18060,2426
+2018,Hyundai,Elantra SEL,16150,18543
+2018,Hyundai,Elantra GT Sport,20450,6744
+2019,Jeep,Cherokee Latitude Plus,21800,8331
+2018,Hyundai,Tucson SEL,17230,24442
+2019,Chevrolet,Equinox 1LT,20770,21406
+2018,Chevrolet,Equinox 1LT,19780,29786
+2017,Volkswagen,Golf S Auto,16360,10661
+2017,Chevrolet,Volt LT,17039,25492
+2017,Chevrolet,Volt LT,16706,27571
+2018,Mitsubishi,Outlander Sport SE,15499,37670
+2019,Jeep,Cherokee Latitude Plus,21998,23146
+2019,Dodge,Charger R/T,29900,17424
+2018,Honda,Civic EX-T,18781,18868
+2017,Chevrolet,Malibu 1LT,15998,37611
+2018,Chevrolet,Cruze LT,13998,14599
+2017,Chevrolet,Volt LT,18250,17029
+2017,Mercedes-Benz,GLA 250 Base 4MATIC,26834,23985
+2018,Nissan,Rogue S,18998,8228
+2018,Honda,Civic Touring,23000,3298
+2018,Dodge,Charger GT,27998,8722
+2018,Subaru,Outback 3.6R Limited,29300,16719
+2018,Mitsubishi,Outlander ES,17550,37133
+2018,Chevrolet,Malibu LT,15500,39372
+2017,GMC,Acadia SLE-1,20800,30350
+2018,Hyundai,Elantra SEL,12980,39312
+2019,Subaru,Outback 2.5i,25300,7656
+2018,Hyundai,Tucson SEL,17230,24442
+2018,Hyundai,Elantra GT Sport,18240,2426
+2019,Chevrolet,Trax LT,17195,934
+2017,Chevrolet,Volt LT,17995,14857
+2018,Chrysler,300 S,18995,33258
+2018,Nissan,Maxima 3.5 SV,19998,38739
+2017,Kia,Sportage SX Turbo,21500,22000
+2018,Kia,Optima LX,16000,14274
+2019,Ford,Escape SE,19358,5867
+2017,Ford,Focus SEL,14104,20820
+2018,Honda,Accord EX-L,24299,24061
+2018,Honda,Clarity Plug-In Hybrid Base,25980,26743
+2019,Dodge,Charger GT,28998,8816
+2018,Subaru,Outback 2.5i,20998,38233
+2018,Chevrolet,Cruze LT,16522,17630
+2019,Ford,Escape SE,22361,2825
+2019,Ford,Escape SE,21370,22537
+2019,Kia,Sorento LX,23020,9331
+2017,Honda,Civic EX,19998,23066
+2019,Nissan,Rogue Sport S,17488,18900
+2018,Buick,Encore Preferred,17100,22830
+2018,Nissan,Rogue S,18100,12576
+2018,Ford,Escape SEL,17995,10132
+2019,Chevrolet,Impala 1LT,19000,19500
+2019,Kia,Rio S,13900,12425
+2017,Chevrolet,Volt Premier,20488,24453
+2018,Subaru,Outback 2.5i,21988,32027
+2017,Buick,LaCrosse Premium,23320,34456
+2018,Chrysler,300 S,19760,32777
+2017,Honda,CR-V EX-L,24330,27629
+2019,Mitsubishi,Outlander Sport SE,15646,22623
+2019,Lincoln,MKZ Hybrid Standard,27790,3704
+2018,Hyundai,Elantra GT Sport,18060,2426
+2018,Hyundai,Elantra SEL,16150,18543
+2018,Nissan,Rogue SV,17478,32358
+2018,Dodge,Charger R/T,23750,32761
+2018,Jeep,Renegade Limited,20990,5962
+2017,Subaru,Impreza 2.0i Premium,18700,10312
+2018,Ford,EcoSport Titanium,15293,29357
+2018,Chevrolet,Malibu LT,15500,39372
+2018,Hyundai,Tucson SEL,17230,24442
+2018,Nissan,Murano SV,23988,38298
+2019,Kia,Optima,26318,1728
+2018,Nissan,Rogue S,13990,37849
+2018,Chrysler,300 S,17390,17990
+2018,Chevrolet,Cruze LT,11990,38035
+2018,Honda,Civic EX,20999,6731
+2017,Chevrolet,Cruze LS,13989,22449
+2017,Chevrolet,Cruze LT,14489,31518
+2019,Kia,Sorento LX,20989,15582
+2019,Chevrolet,Equinox Premier,24989,12018
+2019,Chevrolet,Equinox 1LT,18989,16681
+2017,Chevrolet,Cruze LT,14489,24159
+2019,Toyota,Camry LE,21991,13135
+2019,Toyota,Camry SE,23991,24800
+2018,Chevrolet,Malibu LT,15500,39372
+2017,Mercedes-Benz,CLA 250 Base,24991,12917
+2019,Kia,Optima LX,18998,8321
+2018,Dodge,Charger SXT,21888,32693
+2017,Honda,CR-V EX-L,24330,27629
+2017,Buick,LaCrosse Premium,23320,34456
+2019,Lincoln,MKZ Hybrid Standard,27790,3704
+2018,Hyundai,Elantra GT Sport,18060,2426
+2018,Hyundai,Elantra SEL,16150,18543
+2019,Jeep,Grand Cherokee Laredo,26740,7458
+2019,Chevrolet,Equinox 1LT,22988,24717
+2019,Hyundai,Tucson SE,18492,15514
+2019,Hyundai,Tucson SE,18492,15514
+2018,Subaru,Impreza 2.0i Sport,19985,20795
+2018,Chevrolet,Equinox 1LT,18980,22242
+2018,Dodge,Charger R/T,23750,32761
+2017,Lincoln,MKC Reserve,23670,29826
+2018,Jeep,Renegade Limited,21480,25931
+2019,Jeep,Grand Cherokee Limited,29980,30690
+2017,Honda,Civic EX,20730,17864
+2019,Chrysler,300 S,24690,14814
+2018,Chevrolet,Equinox 1LT,19980,12581
+2018,Cadillac,XTS Luxury,24700,36405
+2019,Ford,Escape Titanium,26760,8325
+2018,Chevrolet,Equinox 1LT,18980,22242
+2017,Volkswagen,Passat 1.8T SE,16460,24292
+2018,Subaru,Impreza 2.0i Premium,17995,18495
+2018,Honda,Accord Sport,25998,18210
+2019,Honda,Civic EX,23998,23
+2018,Jeep,Renegade Latitude,18790,19290
+2019,Jeep,Compass Limited,24400,15327
+2019,Honda,Civic Sport,21481,5727
+2018,Dodge,Charger SXT Plus,23995,13657
+2017,Chevrolet,Volt LT,18998,24116
+2019,Jeep,Cherokee Latitude,20000,8548
+2017,Chevrolet,Volt LT,17998,23991
+2018,Buick,Regal TourX Preferred,25600,12279
+2018,Kia,Niro LX,21500,21633
+2018,Chevrolet,Equinox 1LT,18980,22242
+2019,Chrysler,300 S,21780,17410
+2017,Honda,Civic EX,20730,17864
+2018,Cadillac,XT5 Premium Luxury,27810,38412
+2018,Chevrolet,Equinox 1LT,19980,12581
+2019,Ford,Escape Titanium,26760,8325
+2018,Cadillac,XTS Luxury,24700,36405
+2019,Honda,CR-V EX,29695,5
+2018,Subaru,Impreza 2.0i Premium,17500,18000
+2018,Dodge,Charger SXT Plus,19699,26878
+2019,Honda,Civic EX,20888,7541
+2017,Honda,Civic EX-L,18698,29588
+2018,Chrysler,300 Limited,19000,35450
+2019,Honda,Civic EX,22991,6462
+2019,Kia,Sorento LX,21000,21500
+2019,Jeep,Cherokee Latitude Plus,17899,34802
+2018,Honda,Accord Touring,27199,16312
+2019,Hyundai,Santa Fe SE 2.4,21998,19817
+2018,Honda,Accord Sport,24998,13977
+2017,Honda,Civic EX,16999,22113
+2019,Jeep,Grand Cherokee Limited,29980,30690
+2018,Hyundai,Elantra SEL,16150,18543
+2018,Honda,Civic EX,19000,17000
+2017,GMC,Acadia SLE-2,22000,35391
+2018,Kia,Niro LX,18800,22951
+2018,Mazda,Mazda6 Touring,21428,19851
+2018,Mazda,Mazda6 Touring,18682,39989
+2019,Subaru,Crosstrek 2.0i Premium,24800,6567
+2018,Chevrolet,Impala 1LT,18500,31829
+2018,Ford,EcoSport Titanium,16999,21552
+2018,Mazda,Mazda6 Touring,21500,5287
+2017,Hyundai,Sonata SE,14998,37005
+2017,Chevrolet,Volt Premier,20902,31641
+2019,Nissan,Rogue Sport S,18991,1723
+2018,Subaru,Impreza 2.0i Premium,18250,24621
+2018,Chevrolet,Equinox 1LT,18980,22242
+2017,Cadillac,XT5 Base,26998,27710
+2019,Nissan,Rogue 3.5 SV,21900,25156
+2018,Hyundai,Elantra Value Edition,17998,5292
+2017,Volkswagen,Golf S Auto,16360,10661
+2019,Ford,Escape SEL,21998,15323
+2017,Honda,CR-V EX,21720,32711
+2017,Lincoln,MKC Reserve,23670,29826
+2017,Honda,Civic EX,20730,17864
+2018,Subaru,Crosstrek 2.0i Limited,24100,20927
+2017,Jeep,Compass Trailhawk,21450,26822
+2018,Chevrolet,Equinox 1LT,19980,12581
+2019,Ford,Escape Titanium,26760,8325
+2018,Cadillac,XTS Luxury,24700,36405
+2018,Subaru,Crosstrek 2.0i Limited,24100,20927
+2018,Kia,Soul +,14800,33139
+2017,Honda,Civic EX-L,20566,14776
+2017,Honda,Civic EX,20730,17864
+2019,Ford,Escape Titanium,26760,8325
+2017,Volkswagen,Passat 1.8T SE,16460,24292
+2019,Honda,Accord EX-L,26882,13905
+2018,Nissan,Murano SV,23988,38023
+2019,Honda,Civic EX-L,22476,7946
+2018,Chrysler,300 S,18990,32507
+2019,Ford,Escape SE,17989,21654
+2019,Toyota,Camry LE,21991,22580
+2019,Chevrolet,Malibu LT,18989,12129
+2019,Jeep,Compass Limited,21789,22549
+2017,Chevrolet,Malibu 1LT,16989,13539
+2018,Honda,Civic EX-L,21995,7340
+2019,Kia,Sorento LX,21789,9071
+2018,Chevrolet,Equinox 1LT,18980,22242
+2017,Lincoln,MKC Reserve,23670,29826
+2017,Honda,Civic EX,20730,17864
+2018,Chevrolet,Equinox 1LT,19980,12581
+2019,Jeep,Grand Cherokee Limited,29980,30690
+2017,Honda,CR-V EX,21720,32711
+2019,Ford,Escape Titanium,26760,8325
+2018,Subaru,Impreza 2.0i Premium,19995,16488
+2019,Honda,Civic Sport,21500,4376
+2017,Chevrolet,Volt LT,19500,30000
+2017,Volkswagen,Passat 1.8T SE,16460,24292
+2017,Honda,CR-V EX,21720,32711
+2018,Honda,Civic Sport Touring,25680,1288
+2018,Dodge,Durango GT,27270,37608
+2018,Cadillac,XTS Luxury,24700,33313
+2019,Ford,Escape SE,19030,20410
+2018,Honda,Civic EX,19482,13000
+2018,Kia,Soul +,16570,15903
+2018,Nissan,Murano SV,23000,27264
+2019,Ford,Escape Titanium,27790,7372
+2017,Dodge,Charger R/T,22770,34854
+2017,Kia,Optima SX Limited,22730,31722
+2017,Honda,Civic EX,17600,16827
+2018,Nissan,Rogue S,18900,11278
+2018,Ford,EcoSport SES,18494,18994
+2018,Jeep,Compass Limited,21981,20886
+2017,Honda,Civic EX-T,17642,20948
+2017,Chevrolet,Volt Premier,20998,29273
+2019,Ford,EcoSport Titanium,23500,10241
+2019,Chrysler,300 Limited,24000,31254
+2017,Chevrolet,Volt LT,17550,29521
+2018,Chevrolet,Malibu LT,17750,38223
+2019,Chevrolet,Equinox 1LT,26888,25924
+2019,Chevrolet,Equinox 1LT,26888,28649
+2018,Kia,Optima LX,16888,39997
+2017,Volkswagen,Passat 1.8T SE,16460,24292
+2018,Mitsubishi,Outlander LE,19575,26597
+2018,Chevrolet,Equinox 1LT,18980,20135
+2018,Dodge,Durango GT,27270,37608
+2018,Mitsubishi,Outlander Sport SE,17994,25815
+2018,Kia,Soul +,16570,15903
+2019,Chevrolet,Equinox 1LT,21419,30838
+2018,Subaru,Impreza 2.0i Limited,24700,6062
+2017,Honda,Civic EX,18500,18895
+2019,Mazda,CX-5 Touring,26000,26500
+2019,Mazda,CX-5 Touring,26000,26500
+2019,Mazda,Mazda3 FWD w/Select Package,21990,5136
+2018,Chrysler,300 S,20890,37078
+2018,Jeep,Compass Limited,28500,22763
+2018,GMC,Terrain SLT,20998,21998
+2017,Ford,Fusion Energi SE Luxury,15995,16801
+2018,Chevrolet,Malibu 1LS,16870,16383
+2017,Chevrolet,Cruze LS,13517,11963
+2019,Ford,Escape SE,20199,4740
+2019,Ford,EcoSport Titanium,19998,2547
+2019,Ford,EcoSport SE,18995,19985
+2018,Jeep,Grand Cherokee Laredo,27988,29488
+2018,Chevrolet,Impala 2LZ,19190,37089
+2018,Nissan,Murano SV,18950,32347
+2018,Nissan,Murano SV,19995,20758
+2018,Dodge,Charger R/T,27988,23577
+2019,Chevrolet,Bolt EV LT,25400,2762
+2018,Nissan,Murano SV,23000,27264
+2018,Jeep,Renegade Limited,21900,10636
+2019,Honda,Civic EX-L,22888,23888
+2019,Nissan,Rogue S,20004,4212
+2019,Subaru,Impreza 2.0i Premium,21883,8952
+2018,Jeep,Grand Cherokee Laredo,27879,26829
+2018,Chevrolet,Malibu Premier,28988,24139
+2019,Jeep,Grand Cherokee Limited,29980,30690
+2017,Volkswagen,Passat 1.8T SE,16460,24292
+2019,Mitsubishi,Outlander LE,18950,16974
+2017,Chevrolet,Malibu 1LT,22988,15227
+2017,Chevrolet,Volt Premier,24988,36671
+2017,Honda,Accord EX-L,25998,5380
+2018,Cadillac,XTS Luxury,24700,33313
+2019,Ford,Escape SE,19030,20410
+2017,Chevrolet,Volt LT,21988,35645
+2017,Chevrolet,Volt LT,21988,36215
+2019,Ford,Escape Titanium,27790,7372
+2018,Mitsubishi,Outlander Sport 2.4 SEL,15888,35993
+2017,Nissan,Maxima 3.5 S,18900,25732
+2018,Nissan,Murano SV,18700,39444
+2017,Honda,Civic EX,16950,24340
+2018,Chrysler,300 S,19760,32777
+2019,Chrysler,300 S,21780,17410
+2018,Chevrolet,Equinox 1LT,19980,12581
+2019,Ford,Escape SE,19030,20410
+2018,Kia,Soul +,16570,15903
+2018,Honda,CR-V EX,24873,25998
+2018,Mitsubishi,Outlander Sport SE,15400,30155
+2017,Buick,Regal Turbo Sport Touring,17998,27001
+2019,Toyota,Camry LE,21991,22880
+2018,Nissan,Rogue SV,18000,36834
+2018,Nissan,Murano S,23998,24998
+2017,Ford,Focus SEL,13998,14998
+2018,Dodge,Durango SXT,28998,7441
+2019,Chevrolet,Trax LT,17594,6164
+2017,Volkswagen,Passat 1.8T SE,16460,24292
+2018,Cadillac,XTS Luxury,24700,33313
+2019,Ford,Escape SE,19030,20410
+2018,Kia,Soul +,16570,15903
+2019,Ford,Escape Titanium,27790,7372
+2018,Chevrolet,Equinox LS,17985,30891
+2019,Jeep,Cherokee Limited,28999,4332
+2018,Dodge,Charger R/T,24985,30297
+2018,Chevrolet,Equinox 1LT,21995,23829
+2017,Honda,Civic EX-T,18777,24608
+2018,Honda,Civic EX-L,23197,3530
+2019,Subaru,Impreza 2.0i Premium,20998,14637
+2018,Nissan,Rogue SL,23670,11585
+2018,Audi,A6 2.0T Premium,27270,15163
+2018,Chevrolet,Impala 2LZ,20580,39728
+2018,Cadillac,XT5 Premium Luxury,27810,38412
+2017,Chevrolet,Volt LT,16998,30058
+2019,Ford,EcoSport Titanium,18998,18475
+2018,Ford,EcoSport SE,21592,4868
+2018,Ford,EcoSport SE,19494,2017
+2018,Ford,EcoSport SE,22592,4596
+2019,Nissan,Rogue Sport S,18998,6552
+2018,Jeep,Renegade Latitude,19890,3110
+2017,Chevrolet,Volt LT,17750,28784
+2018,Honda,Accord EX,23998,16084
+2018,Nissan,Rogue S,18550,36031
+2018,Mitsubishi,Eclipse Cross LE,17999,2668
+2018,Audi,A6 2.0T Premium,27270,15163
+2018,Chevrolet,Impala 2LZ,20580,39728
+2019,Honda,HR-V Sport,21895,4425
+2018,Mitsubishi,Outlander Sport SE,15490,32895
+2017,Honda,Civic EX,17290,38301
+2018,Nissan,Maxima 3.5 SV,19998,38972
+2017,Dodge,Charger SXT,19995,28626
+2018,Kia,Optima LX,16000,8132
+2017,Kia,Sorento LX,19500,20000
+2018,Hyundai,Elantra SEL,14998,35533
+2019,Ford,Escape SE,20995,5342
+2018,Ford,EcoSport SES,19983,507
+2019,Chevrolet,Equinox LS,19780,5637
+2017,Audi,A4 Premium,21580,20885
+2018,Dodge,Charger SXT,21891,28127
+2018,Chrysler,300 Limited,18900,32557
+2018,Dodge,Charger SXT,22900,23880
+2019,Nissan,Rogue S,19991,4069
+2018,Mitsubishi,Outlander SE,16999,17875
+2018,Hyundai,Elantra SEL,14998,26210
+2018,Audi,A6 2.0T Premium,27270,15163
+2018,Hyundai,Elantra GT Sport,20450,6744
+2018,Cadillac,XT5 Premium Luxury,27810,38412
+2018,Kia,Soul +,16570,15903
+2018,Hyundai,Elantra SEL,14998,30400
+2018,Chevrolet,Impala 2LZ,20580,39728
+2018,Nissan,Murano SV,18700,39444
+2018,Nissan,Murano SV,18900,35549
+2018,Chevrolet,Equinox 1LT,25988,22380
+2018,Nissan,Murano SV,18900,35549
+2018,Chevrolet,Cruze LS,12400,39175
+2019,Jeep,Compass Trailhawk,25499,10282
+2017,Honda,Accord EX-L,17500,31799
+2018,Cadillac,XT5 Premium Luxury,27810,38412
+2018,Chevrolet,Impala 2LZ,20580,39728
+2018,Chevrolet,Impala 2LZ,20580,39728
+2018,Dodge,Charger R/T,21690,35562
+2018,Nissan,Altima 2.5 SR,19955,13211
+2018,Nissan,Rogue SV,18208,33545
+2018,Honda,Accord Sport,23789,19492
+2018,Nissan,Rogue SV,18209,39586
+2019,Nissan,Altima 2.5 S,18989,14821
+2019,Chevrolet,Equinox 1LT,20483,21023
+2018,Audi,A6 2.0T Premium,27270,15163
+2018,Cadillac,XT5 Premium Luxury,27810,38412
+2018,Chevrolet,Impala 2LZ,20580,39728
+2018,Dodge,Charger SXT Plus,19985,36450
+2018,Subaru,Impreza 2.0i Sport,21650,1581
+2018,Chevrolet,Equinox 1LT,14990,39769
+2018,Kia,Soul +,14800,33139
+2019,Jeep,Compass Limited,23483,21704
+2019,Kia,Optima S,19860,4825
+2019,Kia,Optima S,19860,4825
+2017,Chevrolet,Trax LT,18570,15505
+2020,Chevrolet,Equinox LS,22100,6991
+2018,Cadillac,XTS Luxury,24700,36405
+2018,Dodge,Charger R/T,21097,34271
+2018,Honda,Civic EX-T,19780,17832
+2019,Jeep,Compass Limited,20529,37049
+2018,Jeep,Renegade Sport,18413,4296
+2019,Nissan,Rogue S,20988,5985
+2019,Subaru,Impreza 2.0i,19500,6852
+2019,Ford,EcoSport SE,18995,19868
+2019,Honda,Civic Sport,20998,471
+2019,Jeep,Cherokee Latitude,19998,17764
+2017,Honda,CR-V EX,21720,32711
+2018,Chevrolet,Equinox 1LT,18980,22242
+2018,Chevrolet,Cruze Premier,16460,30160
+2017,Honda,Civic EX,17000,32228
+2019,Nissan,Rogue S,20488,7253
+2017,Honda,Civic EX-L,19646,31793
+2018,Nissan,Rogue SL,23670,11585
+2018,Honda,Civic EX,19887,20862
+2018,Cadillac,XT5 Premium Luxury,27810,38412
+2018,Dodge,Charger SXT Plus,21998,22546
+2018,Chevrolet,Cruze LS,14700,23835
+2018,Jeep,Renegade Limited,21917,9738
+2019,Nissan,Rogue Sport S,17650,1960
+2019,Honda,CR-V EX,29000,21
+2019,Kia,Rio S,15995,9925
+2019,Mitsubishi,Outlander SE,17800,17649
+2019,Nissan,Rogue S,20688,5130
+2019,Honda,Accord Sport,25998,8918
+2019,Ford,EcoSport SES,22146,10
+2018,Dodge,Charger SXT,24998,25998
+2017,Volkswagen,Golf S Auto,16360,10661
+2018,Ford,EcoSport Titanium,18998,4534
+2018,Nissan,Murano SV,18900,35549
+2017,Dodge,Charger SE,20000,32339
+2018,Subaru,Impreza 2.0i Sport,21728,20957
+2019,Nissan,Rogue Sport S,18995,2907
+2019,Chrysler,300 S,23260,20641
+2019,Chevrolet,Trax LS,15998,16998
+2017,Volkswagen,Golf S Auto,16360,10661
+2019,Kia,Optima LX,18998,10103
+2018,Dodge,Charger SXT,23999,20344
+2017,Honda,Civic EX,19300,17865
+2018,Honda,Accord Sport,25998,10120
+2017,Kia,Sportage EX,22950,29251
+2018,Mitsubishi,Eclipse Cross SEL,22800,1827
+2018,Mitsubishi,Eclipse Cross SEL,26999,29215
+2017,Volkswagen,Golf S Auto,16360,10661
+2017,Kia,Sportage EX,20950,21950
+2018,Jeep,Grand Cherokee Altitude,28400,10055
+2018,Chrysler,300 Limited,22290,22980
+2018,Chevrolet,Cruze LS,19988,7480
+2017,Chevrolet,Volt Premier,22100,27573
+2017,Volkswagen,Golf S Auto,16360,10661
+2018,Chevrolet,Malibu Premier,29988,1083
+2020,Mitsubishi,Outlander Sport 2.0 ES,19800,10
+2019,Ford,Fusion Hybrid SE,18240,27537
+2019,Ford,Fusion Hybrid SE,18240,27537
+2019,Nissan,Sentra SV,13891,16362
+2018,Ford,EcoSport SE,18994,4778
+2018,Honda,Civic EX,18500,14684
+2018,Audi,A6 2.0T Premium,27270,15163
+2017,Dodge,Charger SE,19795,17750
+2019,Ford,Fusion Hybrid SE,18240,27537
+2019,Ford,Fusion Hybrid SE,18240,27537
+2019,Dodge,Charger SXT,21500,22846
+2019,Ford,Edge Titanium,28980,13764
+2018,Honda,Accord Sport,24998,14698
+2019,Ford,Edge Titanium,28980,13764
+2018,Jeep,Renegade Latitude,18998,6274
+2018,Ford,EcoSport SE,16994,1318
+2017,Honda,Accord EX-L,22998,22566
+2018,Ford,EcoSport SE,18202,4945
+2019,Dodge,Charger GT,25795,18890
+2018,Honda,CR-V EX,23430,27776
+2018,Dodge,Charger SXT,22200,17447
+2019,Ford,Edge Titanium,28980,13764
+2019,Ford,Edge Titanium,28980,13764
+2018,Mitsubishi,Outlander Sport SE,16999,17999
+2019,Kia,Niro LX,25995,2163
+2019,Hyundai,Santa Fe SE 2.4,20998,21998
+2017,Kia,Forte S,13998,29647
+2017,Honda,Civic EX,17998,36886
+2018,Mitsubishi,Outlander Sport SE,14400,33280
+2018,Ford,EcoSport SE,22500,3525
+2018,Ford,Escape SEL,20998,16392
+2019,Kia,Optima LX,17998,13145
+2019,Jeep,Compass Limited,22489,24201
+2017,Honda,Accord EX,19998,35905
+2018,Ford,EcoSport SE,21950,2211
+2017,Honda,Civic EX-T,18998,28430
+2017,Chevrolet,Volt LT,17998,36944
+2017,Chevrolet,Volt Premier,21000,30684
+2017,Chevrolet,Volt LT,17998,30073
+2017,Chevrolet,Cruze LT,13998,14599
+2017,Chevrolet,Cruze LT,13998,37070
+2017,Chevrolet,Impala 1LT,16998,33194
+2019,Honda,Accord Sport 2.0T,26900,27750
+2019,Mitsubishi,Eclipse Cross SEL,20800,32245
+2019,Mitsubishi,Eclipse Cross SE,21500,10
+2019,Mitsubishi,Eclipse Cross SE,21500,10
+2019,Mitsubishi,Eclipse Cross SE,21995,10
+2019,Mitsubishi,Eclipse Cross SE,21700,10
+2019,Mitsubishi,Eclipse Cross SE,21699,10
+2018,Nissan,SV,14990,37872
+2017,Mercedes-Benz,Base 4MATIC,25961,26981
+2019,Kia,LX,19995,1300
+2019,Hyundai,Elantra ECO,17998,4025
+2018,Chevrolet,Malibu LT,13197,36098
+2018,Chevrolet,Malibu LT,14700,30419
+2019,Chevrolet,Malibu 1LT,15200,28000
+2019,Chevrolet,Malibu 1LT,16000,18872
+2018,Chevrolet,Cruze LT,11700,39586
+2018,Chevrolet,Malibu LT,14700,30297
+2019,Cadillac,XTS Luxury,27400,18509
+2018,Chevrolet,Malibu LT,14700,23821
+2019,Chevrolet,Impala Premier 2LZ,21700,22097
+2018,Chevrolet,Malibu LT,14000,38298
+2019,Chevrolet,Malibu 1LT,15000,34622
+2019,Chevrolet,Equinox 1LT,17800,33999
+2019,Chevrolet,Impala Premier 2LZ,21600,21054
+2018,Chevrolet,Cruze LT,13600,31225
+2019,Dodge,Charger GT,27990,16493
+2019,Jeep,Compass Limited,23990,17119
+2018,Jeep,Compass Limited,21990,19899
+2018,Chevrolet,Malibu 1LS,16998,21413
+2017,BMW,440I GRAN COUPE,29988,32988
+2018,Chrysler,300 S,18490,35344
+2018,Mercedes-Benz,Base,23961,24981
+2018,Nissan,Kicks SR,18990,14187
+2019,Jeep,Cherokee Latitude,21998,6449
+2019,Kia,Optima LX,18998,7903
+2019,Hyundai,Santa Fe SE 2.4,19998,26951
+2017,Hyundai,Sonata SE,15998,19852
+2019,Hyundai,Santa Fe SEL 2.4,23998,6610
+2019,Dodge,Charger GT,27998,9368
+2017,Mercedes-Benz,Base,23985,33394
+2019,Mercedes-Benz,Base,28985,9508
+2019,Mercedes-Benz,Base,29999,10941
+2018,Hyundai,Elantra SEL,14500,27012
+2017,Chevrolet,Volt LT,17998,31048
+2017,BMW,iPerformance,27749,37648
+2018,Hyundai,Sport,18998,24553
+2019,Toyota,Camry LE,21991,15353
+2019,Toyota,Camry LE,21991,15014
+2019,Toyota,Camry LE,21991,11412
+2018,Chevrolet,Malibu LT,18998,16726
+2017,Chevrolet,Volt LT,16998,29530
+2017,Mercedes-Benz,CLA 250 Base,21981,31168
+2018,Honda,CR-V EX,23981,19754
+2017,Kia,Niro FE,18995,28060
+2017,Nissan,Maxima 3.5 S,17900,32713
+2018,Nissan,Maxima 3.5 SV,17888,38298
+2018,Nissan,Rogue SV,17888,18499
+2018,Nissan,Maxima 3.5 SV,19888,29985
+2018,Nissan,Maxima 3.5 S,21999,24361
+2018,Nissan,Murano SV,19888,35322
+2017,Honda,Civic EX-L,19500,38484
+2018,Honda,Clarity Plug-In Hybrid Touring,25998,17514
+2018,Nissan,Maxima 3.5 SV,21990,39201
+2018,Nissan,Maxima 3.5 SV,19600,34502
+2018,Chevrolet,Volt LT,23800,18127
+2018,Hyundai,Tucson SEL,19400,24048
+2018,Chevrolet,Trax Premier,18300,20176
+2017,Chevrolet,Trax LT,14500,29446
+2017,Nissan,Maxima 3.5 S,18900,25732
+2017,GMC,Acadia SLE-1,19800,36515
+2018,Jeep,Renegade Altitude,18800,7514
+2017,Mitsubishi,Outlander SEL,18700,21270
+2018,Dodge,Charger SXT,25100,12112
+2017,Chevrolet,Volt Premier,22700,10783
+2018,GMC,Terrain SLE,21800,23563
+2018,Jeep,Compass Altitude,22950,17270
+2017,Dodge,Charger SXT,23080,31731
+2019,Chevrolet,Equinox Premier,21980,19542
+2018,Jeep,Grand Cherokee Limited,28400,33110
+2019,Cadillac,XTS Luxury,27790,28969
+2018,Chevrolet,Equinox 1LT,18790,20845
+2018,Honda,Pilot EX,28000,9330
+2017,BMW,330 i,26000,26888
+2017,BMW,330e iPerformance,28000,20347
+2017,Honda,Civic EX-L w/Navi,19000,38825
+2018,Nissan,Rogue SV,19500,8806
+2017,BMW,330 i,26500,25465
+2019,Nissan,Altima 2.5 SV,21888,2325
+2019,Nissan,Altima 2.5 SV,21390,1497
+2018,Honda,CR-V EX,25999,2234
+2018,Honda,CR-V EX,26399,3640
+2018,Chevrolet,Trax Premier,17995,0
+2017,Subaru,Impreza 2.0i Premium,18991,20362
+2019,Honda,Insight EX,21476,21998
+2017,Honda,Civic EX-L,17788,39624
+2018,Nissan,Rogue SV,15999,36276
+2018,Chevrolet,Malibu LT,13999,38344
+2018,Hyundai,Elantra SEL,12499,35851
+2017,Chevrolet,Volt Premier,20835,29875
+2017,Chevrolet,Volt Premier,21135,33246
+2018,Honda,Accord Sport,26998,6270
+2018,Honda,CR-V EX,24781,16819
+2017,Honda,CR-V EX,21981,18618
+2017,Honda,Civic EX,17981,19229
+2018,Chevrolet,Volt Premier,23791,17735
+2017,Chevrolet,Volt LT,17981,26683
+2019,Chevrolet,Equinox 1LT,18991,35872
+2019,Chevrolet,Equinox 1LT,18881,33830
+2018,Chevrolet,Impala 2LZ,17891,34425
+2019,Cadillac,XTS Luxury,25891,26712
+2018,Jeep,Renegade Latitude,18993,19882
+2019,Chevrolet,Trax LS,13481,29486
+2019,Dodge,Charger R/T,27881,29141
+2019,Dodge,Charger R/T,27881,31300
+2019,Jeep,Cherokee Latitude Plus,16991,39593
+2019,Jeep,Compass Limited,21881,24184
+2019,Subaru,Crosstrek 2.0i Premium,26999,16457
+2019,Subaru,Crosstrek 2.0i Premium,27999,10412
+2018,Nissan,Kicks SV,18900,6244
+2019,Honda,CR-V EX,29998,21
+2019,Ford,Escape SE,20897,4
+2019,Buick,Encore Essence,19200,26579
+2018,Chevrolet,Cruze LT,13200,37269
+2018,Chevrolet,Malibu LT,14600,29302
+2019,Chevrolet,Malibu 1LT,16400,16290
+2019,Chevrolet,Cruze LT,14800,17850
+2018,Chevrolet,Malibu LT,14700,30185
+2019,Chevrolet,Cruze LT,14000,21565
+2019,Buick,Encore Essence,18400,17724
+2019,Chevrolet,Cruze LS,12600,26329
+2018,Chevrolet,Malibu LT,14700,29782
+2019,Chevrolet,Impala Premier 2LZ,21500,22085
+2019,Chevrolet,Impala Premier 2LZ,21600,22028
+2019,Cadillac,XTS Luxury,28100,15446
+2019,Chevrolet,Impala Premier 2LZ,22000,15568
+2019,Chevrolet,Cruze LT,14700,18470
+2018,Chevrolet,Malibu LT,14600,25506
+2018,Chevrolet,Cruze LT,12900,35099
+2019,Chevrolet,Malibu 1LT,15800,24053
+2019,Chevrolet,Cruze LS,12600,26329
+2019,Chevrolet,Cruze LT,14000,21565
+2018,Chevrolet,Malibu LT,14700,29782
+2018,Chevrolet,Impala 1LT,17200,35453
+2019,Chevrolet,Malibu 1LT,15400,25460
+2019,Chevrolet,Malibu 1LT,15900,23946
+2019,Chevrolet,Cruze LS,12400,29423
+2019,Chevrolet,Malibu 1LT,15900,20337
+2019,Chevrolet,Malibu 1LT,16300,19860
+2019,Chevrolet,Malibu 1LT,16400,16471
+2019,Chevrolet,Impala Premier 2LZ,21500,21704
+2019,Buick,Encore Essence,18600,18971
+2018,Chevrolet,Malibu LT,14700,30185
+2019,Chevrolet,Equinox 1LT,17800,28024
+2019,Cadillac,XTS Luxury,27500,19151
+2019,Chevrolet,Cruze LS,12200,32753
+2018,Chevrolet,Impala 1LT,17000,38032
+2018,Chevrolet,Cruze LT,12800,31515
+2018,Chevrolet,Sonic Premier,11700,28513
+2019,Chevrolet,Cruze LT,13700,30623
+2019,Chevrolet,Malibu 1LT,16100,18406
+2019,Chevrolet,Malibu 1LT,15000,34251
+2018,Chevrolet,Impala 1LT,17900,35466
+2018,Chevrolet,Sonic Premier,10000,39789
+2019,Buick,Encore Essence,19100,17099
+2019,Chevrolet,Malibu 1LT,16100,17677
+2018,Chevrolet,Malibu LT,14500,32798
+2019,Chevrolet,Impala Premier 2LZ,22400,18250
+2019,Chevrolet,Impala Premier 2LZ,22600,10853
+2019,Chevrolet,Impala Premier 2LZ,22400,12160
+2018,Chevrolet,Malibu LT,14600,31596
+2018,Chevrolet,Malibu LT,14700,29224
+2018,Chevrolet,Malibu LT,14600,34285
+2019,Chevrolet,Malibu 1LT,15900,21468
+2018,Chevrolet,Impala 1LT,17800,24771
+2019,Chevrolet,Impala Premier 2LZ,21600,22865
+2019,Chevrolet,Impala Premier 2LZ,22200,12759
+2019,Chevrolet,Malibu 1LT,16100,16507
+2019,Chevrolet,Cruze LT,14600,22678
+2018,Chevrolet,Cruze LT,13000,37617
+2019,Buick,Encore Essence,18100,24735
+2019,Chevrolet,Equinox 1LT,19100,28057
+2018,Chevrolet,Sonic Premier,11200,37179
+2019,Chevrolet,Malibu 1LT,15800,26432
+2019,Chevrolet,Malibu 1LT,15900,18067
+2019,Cadillac,XTS Luxury,27400,19142
+2019,Chevrolet,Malibu 1LT,16100,12460
+2019,Chevrolet,Malibu 1LT,16000,20759
+2018,Chevrolet,Malibu LT,14700,27376
+2019,Chevrolet,Equinox 1LT,17800,33315
+2018,Chevrolet,Malibu LT,14600,35033
+2019,Chevrolet,Equinox 1LT,19300,33270
+2018,Chevrolet,Impala 1LT,16900,39304
+2019,Chevrolet,Malibu 1LT,15900,20130
+2019,Chevrolet,Malibu 1LT,16400,18284
+2019,Cadillac,XTS Luxury,26300,23882
+2018,Chevrolet,Equinox 1LT,18200,32939
+2018,Chevrolet,Malibu LT,14800,27765
+2019,Chevrolet,Malibu 1LT,15400,20971
+2018,Chevrolet,Malibu LT,14700,30981
+2018,Chevrolet,Cruze LT,13300,30431
+2018,Chevrolet,Malibu LT,14700,33245
+2019,Cadillac,XTS Luxury,27100,20612
+2018,Chevrolet,Sonic Premier,11500,21571
+2019,Chevrolet,Malibu 1LT,15000,26199
+2018,Chevrolet,Cruze LT,13200,35873
+2019,Chevrolet,Malibu 1LT,16000,17511
+2019,Chevrolet,Malibu 1LT,15600,26038
+2018,Chevrolet,Impala 1LT,17900,32106
+2018,Chevrolet,Malibu LT,14300,36892
+2018,Chevrolet,Malibu LT,14500,34351
+2018,Chevrolet,Malibu LT,14100,35711
+2019,Chevrolet,Cruze LT,14900,16324
+2018,Chevrolet,Malibu LT,14800,29479
+2019,Cadillac,XTS Luxury,26700,23812
+2019,Buick,Encore Essence,18900,8566
+2019,Buick,Encore Essence,18800,20088
+2019,Chevrolet,Malibu 1LT,15900,22174
+2018,Chevrolet,Cruze LT,12800,37406
+2019,Chevrolet,Malibu 1LT,16400,13314
+2018,Chevrolet,Impala 1LT,17900,27043
+2019,Chevrolet,Cruze LT,14700,24895
+2018,Chevrolet,Cruze LT,12800,37660
+2019,Chevrolet,Malibu 1LT,16200,16052
+2019,Chevrolet,Malibu 1LT,15600,17966
+2019,Chevrolet,Impala Premier 2LZ,22400,14464
+2019,Chevrolet,Impala 1LT,17800,22176
+2019,Chevrolet,Malibu 1LT,15900,16906
+2018,Chevrolet,Malibu LT,14600,28853
+2018,Chevrolet,Malibu LT,14800,25624
+2019,Chevrolet,Malibu 1LT,15600,20847
+2018,Chevrolet,Malibu LT,15100,19410
+2018,Chevrolet,Cruze LT,13100,34286
+2019,Chevrolet,Equinox 1LT,19100,28421
+2019,Buick,Encore Essence,19700,19088
+2018,Chevrolet,Malibu LT,14500,34547
+2018,Chevrolet,Malibu LT,14500,31502
+2019,Chevrolet,Malibu 1LT,15200,25661
+2018,Chevrolet,Cruze LT,13000,33655
+2018,Chevrolet,Malibu LT,14800,25767
+2018,Chevrolet,Malibu LT,14100,34708
+2018,Chevrolet,Malibu LT,14800,29050
+2019,Chevrolet,Impala Premier 2LZ,21900,16853
+2019,Chevrolet,Malibu 1LT,16300,16191
+2019,Chevrolet,Cruze LS,11900,36868
+2018,Chevrolet,Malibu LT,14800,22562
+2018,Chevrolet,Impala 1LT,17200,33213
+2018,Chevrolet,Malibu LT,14000,35917
+2018,Chevrolet,Impala 2LZ,18100,37827
+2019,Cadillac,XTS Luxury,25700,30782
+2018,Chevrolet,Malibu LT,14700,27744
+2019,Chevrolet,Malibu 1LT,15900,20830
+2018,Chevrolet,Sonic Premier,10700,38184
+2019,Chevrolet,Cruze LT,14900,13982
+2019,Cadillac,XTS Luxury,27100,19555
+2019,Chevrolet,Cruze LS,12600,26406
+2019,Chevrolet,Malibu 1LT,15800,22135
+2019,Chevrolet,Malibu 1LT,15900,20661
+2019,Chevrolet,Impala Premier 2LZ,22100,14531
+2018,Chevrolet,Impala 2LZ,19300,32255
+2018,Chevrolet,Malibu LT,14500,35920
+2019,Chevrolet,Equinox 1LT,19200,26177
+2019,Chevrolet,Impala Premier 2LZ,21500,17565
+2019,Chevrolet,Cruze LT,13900,24122
+2019,Buick,Encore Essence,18800,16341
+2019,Chevrolet,Cruze LT,13600,30922
+2018,Chevrolet,Cruze LT,13100,34143
+2019,Chevrolet,Impala Premier 2LZ,21500,15893
+2019,Cadillac,XTS Luxury,27400,22425
+2018,Chevrolet,Malibu LT,14300,34509
+2019,Chevrolet,Cruze LT,14700,23904
+2019,Chevrolet,Malibu 1LT,15300,25238
+2019,Chevrolet,Equinox 1LT,19300,28006
+2019,Chevrolet,Cruze LT,13700,28902
+2019,Chevrolet,Malibu 1LT,16100,21463
+2019,Chevrolet,Malibu 1LT,15400,22769
+2019,Chevrolet,Malibu 1LT,15800,22831
+2019,Chevrolet,Malibu 1LT,15800,23512
+2019,Chevrolet,Malibu 1LT,15900,18313
+2019,Chevrolet,Cruze LT,13700,27775
+2019,Chevrolet,Malibu 1LT,16000,16139
+2019,Chevrolet,Malibu 1LT,15900,13179
+2019,Chevrolet,Impala Premier 2LZ,22100,15668
+2018,Nissan,Rogue S,13990,38359
+2019,Chevrolet,Malibu 1LT,15900,22999
+2019,Chevrolet,Malibu 1LT,15900,19311
+2019,Chevrolet,Impala Premier 2LZ,21500,15238
+2018,Chevrolet,Impala 1LT,17800,31730
+2018,Chevrolet,Malibu LT,14100,37541
+2019,Chevrolet,Malibu 1LT,16400,18496
+2018,Chevrolet,Malibu LT,14600,31822
+2018,Chevrolet,Cruze LT,13300,31285
+2018,Chevrolet,Equinox 1LT,16300,37951
+2019,Chevrolet,Malibu 1LT,16000,18966
+2019,Chevrolet,Malibu 1LT,16000,20059
+2018,Chevrolet,Malibu LT,14700,30011
+2019,Chevrolet,Malibu 1LT,15400,27745
+2019,Chevrolet,Equinox 1LT,19100,33038
+2018,Chevrolet,Sonic Premier,11000,38942
+2019,Chevrolet,Malibu 1LT,16300,11559
+2019,Chevrolet,Impala Premier 2LZ,22500,14222
+2019,Chevrolet,Equinox 1LT,17800,27027
+2019,Chevrolet,Impala Premier 2LZ,21900,19045
+2018,Chevrolet,Malibu LT,14600,33949
+2019,Buick,Encore Essence,18000,16816
+2019,Chevrolet,Malibu 1LT,15800,22451
+2018,Chevrolet,Cruze LT,13000,37281
+2019,Buick,Encore Essence,19100,13385
+2019,Cadillac,XTS Luxury,26100,28159
+2019,Buick,Encore Essence,19000,15766
+2018,Chevrolet,Cruze LT,13300,33973
+2018,Chevrolet,Equinox 1LT,15390,38524
+2019,Chevrolet,Malibu 1LT,15800,25114
+2019,Chevrolet,Malibu 1LT,15800,25913
+2019,Chevrolet,Cruze LT,14800,22209
+2018,Chevrolet,Cruze LT,13400,28243
+2019,Chevrolet,Malibu 1LT,15900,16090
+2019,Chevrolet,Cruze LS,12800,22478
+2019,Chevrolet,Impala Premier 2LZ,21400,20023
+2019,Cadillac,XTS Luxury,28000,15505
+2019,Chevrolet,Malibu 1LT,15300,30008
+2019,Cadillac,XTS Luxury,26500,21841
+2019,Chevrolet,Malibu 1LT,16000,17049
+2018,Chevrolet,Malibu LT,14600,32604
+2019,Cadillac,XTS Luxury,25500,29201
+2018,Chevrolet,Malibu LT,14200,34918
+2018,Chevrolet,Malibu LT,14700,35053
+2019,Chevrolet,Impala Premier 2LZ,22100,14555
+2019,Chevrolet,Impala Premier 2LZ,21600,20248
+2018,Chevrolet,Malibu LT,14600,32092
+2019,Buick,Encore Essence,18900,17860
+2018,Chevrolet,Malibu LT,14700,33022
+2019,Chevrolet,Cruze LS,12400,28145
+2018,Chevrolet,Malibu LT,14700,31674
+2018,Buick,Encore Essence,17100,33750
+2018,Chevrolet,Malibu LT,14300,36377
+2019,Chevrolet,Impala Premier 2LZ,21600,21999
+2018,Chevrolet,Cruze LT,13300,32723
+2019,Cadillac,XTS Luxury,28100,16240
+2018,Chevrolet,Malibu LT,14800,25515
+2018,Chevrolet,Cruze LT,12300,37612
+2019,Chevrolet,Malibu 1LT,15900,20634
+2018,Chevrolet,Malibu LT,14500,34911
+2018,Chevrolet,Cruze LT,13200,13900
+2019,Chevrolet,Malibu 1LT,16000,15467
+2019,Buick,Encore Essence,19000,12090
+2019,Buick,Encore Essence,18700,17575
+2018,Chevrolet,Malibu LT,14400,35415
+2019,Chevrolet,Malibu 1LT,15900,22680
+2019,Chevrolet,Malibu 1LT,15200,34700
+2019,Buick,Encore Essence,19200,24184
+2019,Chevrolet,Impala Premier 2LZ,22200,17043
+2018,Chevrolet,Malibu LT,14600,32535
+2019,Chevrolet,Malibu 1LT,15300,29281
+2018,Chevrolet,Malibu LT,13600,38003
+2019,Buick,Encore Essence,18200,20869
+2019,Cadillac,XTS Luxury,26900,22570
+2019,Chevrolet,Malibu 1LT,15500,19252
+2019,Cadillac,XTS Luxury,27300,21149
+2019,Chevrolet,Impala 1LT,17900,17141
+2019,Chevrolet,Impala Premier 2LZ,22000,15745
+2019,Chevrolet,Impala Premier 2LZ,22400,12759
+2018,Chevrolet,Sonic Premier,11500,32634
+2019,Chevrolet,Malibu 1LT,16200,18650
+2019,Chevrolet,Cruze LS,12700,24065
+2018,Chevrolet,Cruze LT,13300,31766
+2019,Chevrolet,Cruze LT,13800,25112
+2019,Cadillac,XTS Luxury,27900,11084
+2019,Chevrolet,Cruze LS,12900,20870
+2018,Chevrolet,Cruze LT,13400,26669
+2019,Cadillac,XTS Luxury,27100,19357
+2019,Chevrolet,Impala Premier 2LZ,21500,21855
+2018,Chevrolet,Malibu LT,14500,34367
+2019,Chevrolet,Malibu 1LT,15800,28354
+2018,Chevrolet,Cruze LT,13000,35599
+2018,Chevrolet,Malibu LT,14500,33347
+2019,Chevrolet,Equinox 1LT,17800,29992
+2019,Chevrolet,Malibu 1LT,16400,16858
+2018,Chevrolet,Cruze LT,13000,39198
+2019,Chevrolet,Impala Premier 2LZ,22000,19789
+2019,Chevrolet,Cruze LT,14800,16167
+2018,Chevrolet,Impala 1LT,16700,39387
+2019,Chevrolet,Cruze LT,13800,24790
+2019,Chevrolet,Impala Premier 2LZ,22000,18966
+2019,Chevrolet,Impala Premier 2LZ,21700,13839
+2019,Cadillac,XTS Luxury,27600,18198
+2019,Chevrolet,Malibu 1LT,15900,17695
+2019,Chevrolet,Cruze LS,12700,23453
+2018,Chevrolet,Malibu LT,14690,30562
+2018,Chevrolet,Cruze LT,13300,34521
+2018,Chevrolet,Malibu LT,14500,31445
+2019,Chevrolet,Malibu 1LT,16100,18151
+2018,Chevrolet,Impala 2LZ,20600,29433
+2018,Chevrolet,Malibu LT,14700,32419
+2019,Chevrolet,Impala Premier 2LZ,21600,16641
+2019,Chevrolet,Malibu 1LT,16500,12712
+2019,Chevrolet,Malibu 1LT,15100,35339
+2019,Buick,Encore Essence,18900,16780
+2018,Chevrolet,Malibu LT,14600,25597
+2019,Chevrolet,Malibu 1LT,15100,30545
+2019,Chevrolet,Malibu 1LT,15900,25137
+2018,Chevrolet,Malibu LT,14000,37516
+2019,Chevrolet,Impala Premier 2LZ,22100,16774
+2019,Chevrolet,Malibu 1LT,16400,15669
+2019,Chevrolet,Impala Premier 2LZ,21500,20493
+2018,Chevrolet,Malibu LT,14800,30832
+2019,Chevrolet,Malibu 1LT,15500,19701
+2018,Chevrolet,Cruze LT,13200,30956
+2019,Chevrolet,Malibu 1LT,15400,25932
+2019,Chevrolet,Malibu 1LT,16200,14132
+2017,Chevrolet,Volt Premier,19481,38242
+2018,Jeep,Renegade Latitude,18890,2767
+2017,Chevrolet,Trax LT,14990,35795
+2018,Kia,Soul +,13990,14990
+2019,Dodge,Charger R/T,28990,22273
+2019,Jeep,Cherokee Latitude Plus,21990,27467
+2019,Dodge,Charger R/T,29990,13439
+2018,Honda,CR-V EX,24961,28171
+2018,Jeep,Renegade Sport,16990,3544
+2017,Subaru,Impreza 2.0i Sport,19990,20900
+2018,Nissan,Kicks SV,18798,731
+2018,Nissan,Kicks SV,18798,240
+2018,Nissan,Rogue S,18898,1085
+2018,Nissan,Rogue S,18898,2328
+2017,Honda,Pilot EX,25261,30813
+2018,Nissan,Kicks SV,18398,691
+2018,Nissan,Rogue S,19098,2025
+2018,Nissan,Rogue S,18798,2396
+2017,Honda,Civic EX,16481,32558
+2019,Honda,Civic Sport,18981,18255
+2018,Honda,Civic EX,19481,15121
+2018,Honda,Civic EX,20981,14039
+2019,Honda,Accord EX,24981,10542
+2018,Honda,Pilot EX,26981,30010
+2017,BMW,330 i xDrive,27900,30734
+2018,BMW,i3 94 Ah,29900,93
+2017,BMW,X3 xDrive28i,27900,36662
+2018,Honda,Accord Sport,23500,18619
+2018,Jeep,Renegade Trailhawk,17197,39209
+2019,Ford,Escape SE,21097,4
+2017,Chevrolet,Volt Premier,19681,35965
+2018,Subaru,Crosstrek 2.0i Limited,27250,26429
+2019,Subaru,Crosstrek 2.0i Premium,27000,6776
+2019,Subaru,Crosstrek 2.0i Premium,27500,4475
+2018,Subaru,Crosstrek 2.0i Premium,24250,19195
+2018,Jeep,Grand Cherokee Limited,29990,23099
+2018,Hyundai,Sonata SEL,16998,31608
+2017,Chevrolet,Volt LT,17998,28568
+2018,Hyundai,Tucson SEL,19998,18673
+2018,Nissan,Maxima 3.5 SV,19998,39585
+2019,Dodge,Charger GT,29998,12265
+2019,Chevrolet,Trax LS,14998,13100
+2018,Mitsubishi,Outlander SE,18500,26103
+2018,Honda,Civic Sport Touring,25000,5295
+2017,Honda,Civic EX,17000,17500
+2017,Hyundai,Sonata Limited,17550,36473
+2019,Dodge,Charger SXT,22998,5094
+2017,Hyundai,Sonata SE,15998,32625
+2019,Jeep,Compass Limited,23998,15226
+2018,Dodge,Charger SXT,19998,10709
+2017,Chevrolet,Volt LT,18998,30943
+2018,Hyundai,Elantra Sport,17998,32905
+2019,Jeep,Compass Trailhawk,22998,29942
+2017,Kia,Optima Hybrid Base,9999,10999
+2017,Chevrolet,Volt LT,18988,28128
+2018,Subaru,Outback 2.5i Premium,23444,31230
+2018,Hyundai,Tucson SEL,16998,33312
+2018,Hyundai,Ioniq Hybrid Limited,24900,8941
+2018,Chevrolet,Equinox 1LT,19100,18495
+2018,Nissan,Murano SV,21300,34883
+2019,Honda,Insight EX,22500,19969
+2019,Hyundai,Sonata SEL,17800,33418
+2018,Hyundai,Kona Limited,21500,11265
+2018,Hyundai,Kona SEL,18700,35121
+2018,Mitsubishi,Outlander SE,17400,38450
+2019,Hyundai,Sonata Sport,19200,11979
+2018,Buick,Regal Sportback Essence,22200,21423
+2018,Kia,Optima LX Turbo,16500,15987
+2018,Honda,Pilot EX,29600,10134
+2018,Dodge,Charger SXT,22800,19498
+2018,Chevrolet,Malibu 1LS,15500,39005
+2018,Kia,Rio EX,14900,28177
+2018,GMC,Terrain SLE,21000,16199
+2019,Chevrolet,Bolt EV LT,25400,2762
+2018,Chevrolet,Impala 1LT,18500,37585
+2019,Nissan,Altima 2.5 SR,20400,15437
+2018,Subaru,Outback 2.5i Premium,23100,32755
+2017,Chevrolet,Cruze LS,13995,29161
+2018,Subaru,Outback 2.5i Premium,25888,29353
+2019,Subaru,Ascent Base 8-Passenger,29888,6411
+2017,Chevrolet,Volt LT,18250,18999
+2017,Ford,Fusion Energi Titanium,18999,28059
+2018,Kia,Optima Plug-In Hybrid EX,22999,19135
+2017,Chevrolet,Volt LT,18499,18999
+2017,Ford,Fusion Energi SE Luxury,17999,18999
+2017,Ford,Fusion Energi SE Luxury,17999,18999
+2018,Ford,EcoSport SE,16900,21982
+2017,Nissan,Maxima 3.5 S,18900,25732
+2018,Nissan,Maxima 3.5 SV,19600,34502
+2018,Chevrolet,Malibu LT,15100,38516
+2017,Mitsubishi,Outlander SEL,18700,21270
+2018,Hyundai,Kona Limited,21500,11265
+2017,GMC,Acadia SLE-1,21300,26751
+2018,FIAT,500X Trekking,21400,3757
+2017,Mitsubishi,Outlander SEL,17700,17096
+2018,Dodge,Charger SXT,25100,12112
+2017,Kia,Forte SX,16200,34840
+2018,Kia,Optima S,15600,38665
+2018,Kia,Soul +,14800,33139
+2018,Jeep,Renegade Altitude,18800,7514
+2018,Mitsubishi,Outlander SE,17500,39700
+2017,Chevrolet,Volt Premier,21200,31286
+2018,Jeep,Renegade Latitude,18800,4240
+2017,Buick,Regal Turbo Sport Touring,15900,33454
+2017,Chevrolet,Volt Premier,23400,17814
+2017,Hyundai,Santa Fe Sport 2.4L,16981,32849
+2017,Honda,Accord EX,17481,36661
+2017,Chevrolet,Volt LT,17481,30854
+2017,Honda,Accord Hybrid EX-L,21981,36682
+2017,Honda,Civic EX,15481,16481
+2017,Honda,Accord EX,18581,35747
+2018,Honda,Civic EX,18981,17108
+2018,Nissan,Rogue SV,15890,27467
+2018,Chevrolet,Malibu LT,14400,30004
+2018,Nissan,Maxima 3.5 SV,16790,37974
+2018,Nissan,Rogue SV,14890,28284
+2018,Nissan,Rogue S,13690,38211
+2018,Chevrolet,Cruze LT,11588,36874
+2018,Nissan,Rogue S,13690,39153
+2019,Jeep,Cherokee Latitude,18920,24677
+2019,Mazda,CX-5 Touring,22990,14168
+2018,Chevrolet,Malibu LT,16988,37942
+2018,Jeep,Renegade,17888,18488
+2018,Jeep,Renegade,16488,30693
+2018,Nissan,Kicks SV,19888,10085
+2017,Chevrolet,Bolt EV Premier,28999,29150
+2019,Jeep,Compass Limited,22995,19342
+2018,Hyundai,Elantra SEL,14542,37536
+2018,Hyundai,Elantra SEL,14460,39042
+2018,Hyundai,Elantra SEL,14679,36352
+2018,Hyundai,Elantra SEL,12995,36735
+2018,Hyundai,Elantra SEL,12995,35031
+2018,Hyundai,Elantra SEL,12945,36168
+2018,Nissan,Rogue SV,15445,38374
+2018,Hyundai,Tucson SEL,14999,34696
+2018,Hyundai,Elantra SEL,14515,38423
+2018,Hyundai,Elantra SEL,12845,39783
+2018,Hyundai,Elantra SEL,12795,39417
+2018,Hyundai,Elantra SEL,13045,34127
+2018,Hyundai,Elantra SEL,14651,36906
+2018,Hyundai,Elantra SEL,12895,37052
+2018,Nissan,Maxima 3.5 SV,21423,24697
+2018,Hyundai,Elantra SEL,12995,35349
+2018,Hyundai,Tucson SEL,14999,33400
+2018,Hyundai,Elantra SEL,12845,37756
+2018,Hyundai,Elantra SEL,13045,36289
+2018,Honda,CR-V EX,25500,13381
+2018,Ford,EcoSport SE,17000,6980
+2017,Honda,Civic Touring,21500,31045
+2018,Honda,Accord Sport,23000,30678
+2017,Honda,Accord EX,19500,35835
+2017,Honda,Civic EX,17989,27475
+2018,Subaru,Legacy 2.5i Premium,19990,33386
+2017,Chevrolet,Bolt EV LT,21551,31703
+2017,Nissan,Maxima 3.5 SV,17781,37692
+2018,Hyundai,Elantra SEL,14290,39748
+2018,Hyundai,Tucson SEL,18490,35109
+2019,Nissan,Rogue S,20758,5127
+2017,BMW,X3 X3 SDRIVE28I,25753,33758
+2017,BMW,320 320I SEDAN SA,22837,19714
+2018,Honda,Civic Touring,23480,7408
+2018,Chevrolet,Cruze LT,11795,37736
+2018,Chevrolet,Equinox 1LT,15290,31086
+2018,Nissan,Rogue,13790,39810
+2018,Chevrolet,Impala 2LZ,17629,38808
+2018,Nissan,Rogue,13990,38262
+2018,Nissan,Rogue,13495,39140
+2018,Nissan,Rogue,14995,39329
+2018,Chevrolet,Impala 1LT,18995,36237
+2019,Dodge,Charger GT,26791,12042
+2019,Jeep,Cherokee Trailhawk,27995,20660
+2019,Jeep,Cherokee Latitude,21995,13941
+2019,Hyundai,Sonata SE,19995,18485
+2019,Hyundai,Sonata SE,19995,21271
+2019,Kia,Forte LXS,17998,7355
+2018,Hyundai,Elantra SEL,14998,32207
+2017,Honda,Civic EX-T,18998,35196
+2017,Hyundai,Sonata SE,14998,30372
+2019,Hyundai,Sonata SE,17998,14841
+2019,Dodge,Charger GT,26998,11156
+2019,Hyundai,Santa Fe SE 2.4,20998,21549
+2019,Honda,Civic EX-L,23998,264
+2018,Hyundai,Sonata Sport 2.0T,19500,20000
+2017,Kia,Niro Touring,23000,23500
+2017,Kia,Sorento SX,26000,26500
+2019,Kia,Sorento LX,22000,22500
+2018,Hyundai,Tucson SEL,16750,33759
+2018,Chrysler,300 Limited,19000,35450
+2017,Audi,A4 2.0T Premium,21500,27320
+2017,Volkswagen,Golf Alltrack TSI SE,22500,25478
+2017,Hyundai,Elantra Limited,14995,34860
+2017,Hyundai,Sonata Sport,16995,16046
+2017,Honda,Civic EX,17581,33839
+2019,Chevrolet,Equinox LS,21991,4517
+2019,Honda,Civic EX,22991,6462
+2017,Buick,Regal Turbo Sport Touring,15267,12791
+2018,Kia,Forte S,16500,5400
+2017,Ford,Fusion Energi SE Luxury,16694,34283
+2017,Chevrolet,Bolt EV LT,21000,21552
+2017,GMC,Acadia SLE-1,23888,25948
+2019,Chevrolet,Equinox 1LT,20687,20564
+2019,Chevrolet,Equinox LS,23000,5375
+2018,Chevrolet,Malibu LT,15994,39658
+2018,Ford,EcoSport SE,15994,25389
+2017,Chevrolet,Malibu 1LS,14996,38699
+2018,Ford,EcoSport SES,18988,3
+2019,Chevrolet,Equinox 1LT,19981,30817
+2018,Nissan,Rogue SV,17991,37284
+2019,Nissan,Rogue SV,23888,989
+2018,Nissan,Rogue SV,18990,34575
+2019,Nissan,Rogue SV,23888,1231
+2018,Nissan,Rogue S,21388,5935
+2018,Nissan,Murano SV,22995,36698
+2019,Nissan,Rogue SV,23888,566
+2018,Nissan,Rogue SV,19998,31900
+2018,Nissan,Rogue SV,16799,36969
+2018,Nissan,Rogue SV,17558,37592
+2018,Nissan,Rogue SV,18890,33204
+2018,Nissan,Murano SV,20889,35164
+2018,Nissan,Rogue SV,16749,34519
+2018,Nissan,Rogue SV,18799,39544
+2019,Nissan,Rogue SV,25995,3317
+2018,Nissan,Maxima 3.5 SV,21889,29396
+2018,Nissan,Rogue SV,18890,36986
+2019,Nissan,Altima 2.5 S,19990,2888
+2019,Nissan,Rogue SV,25995,1529
+2019,Nissan,Rogue SV,23888,1200
+2018,Nissan,Rogue SV,19998,35018
+2018,Nissan,Rogue SV,18890,39752
+2019,Nissan,Rogue SV,25888,1243
+2018,Nissan,Murano SV,18888,34457
+2019,Nissan,Rogue SV,23888,1652
+2018,Nissan,Rogue SV,16799,35737
+2018,Nissan,Murano SV,23888,29540
+2018,Nissan,Rogue SV,17991,34005
+2018,Nissan,Rogue SV,19998,36045
+2019,Nissan,Rogue SV,25995,2427
+2018,Nissan,Rogue SV,17981,39948
+2018,Nissan,Rogue SV,20995,34871
+2019,Acura,ILX Premium & A-SPEC Packages,27800,8749
+2019,Honda,Civic Sport,22839,8247
+2019,Subaru,Forester Premium,28788,8779
+2017,Ford,Focus Titanium,14998,39989
+2018,Buick,Regal Sportback Preferred,18998,16469
+2018,Honda,Civic EX-L w/Navi,23998,11053
+2018,Hyundai,Elantra SEL,14998,35091
+2017,Chevrolet,Volt Premier,20998,35987
+2018,Honda,Accord EX,25998,1656
+2018,Hyundai,Elantra Value Edition,16998,17026
+2018,Hyundai,Elantra SEL,14998,30042
+2017,Hyundai,Santa Fe SE,21424,14361
+2017,Honda,Accord EX-L,20988,30863
+2019,Honda,Accord Sport,25988,30
+2018,Honda,Civic EX-T,19998,14412
+2017,BMW,X3 X3 XDRIVE28I,28495,29469
+2017,BMW,X3 X3 XDRIVE28I,29398,35061
+2018,GMC,Acadia SLT-1,26999,39409
+2018,Subaru,Crosstrek 2.0i Premium,22950,38851
+2018,Chevrolet,Cruze LS,13995,2953
+2017,Honda,Civic EX-L w/Navi,23998,39874
+2017,Honda,Pilot EX,28998,24251
+2018,Jeep,Grand Cherokee Altitude,28700,29897
+2018,Nissan,Murano SV,21888,36871
+2018,Nissan,Rogue SV,14298,36648
+2018,Nissan,Rogue S,13989,37890
+2018,Chevrolet,Malibu LT,14127,33876
+2018,Nissan,Maxima 3.5 SV,18894,34945
+2018,Chrysler,300 S,19599,34685
+2018,Dodge,Charger R/T,22799,33886
+2018,Chevrolet,Impala 2LZ,18699,38114
+2018,Dodge,Charger R/T,21696,33453
+2018,Nissan,Rogue SV,16399,35097
+2018,Nissan,Rogue SV,14298,36500
+2019,Chevrolet,Malibu LT,16999,20502
+2018,Nissan,Maxima 3.5 SV,19699,34753
+2018,Ford,EcoSport SE,15377,21587
+2019,Hyundai,Sonata SE,18288,23235
+2017,Dodge,Charger SE,20988,22988
+2018,Hyundai,Kona SEL,19424,11876
+2018,Hyundai,Tucson SEL,17080,20498
+2018,Hyundai,Tucson SEL,17028,32527
+2019,Jeep,Cherokee Latitude Plus,20252,23245
+2017,Chevrolet,Volt LT,17748,29962
+2017,Chevrolet,Volt LT,17900,35115
+2017,Chevrolet,Volt LT,17900,18500
+2017,Chevrolet,Cruze Premier,17500,18380
+2017,Chevrolet,Volt LT,17100,35954
+2017,Chevrolet,Volt LT,17900,18627
+2017,Chevrolet,Volt LT,17371,35465
+2018,Chevrolet,Impala 1LT,18000,18990
+2017,Chevrolet,Cruze Premier,14000,14500
+2019,Jeep,Cherokee Latitude,14999,39336
+2019,Honda,Fit EX,20000,10
+2018,Honda,Civic EX-L,22000,18745
+2017,Honda,Civic EX,18000,33396
+2019,Honda,Civic Sport,22500,10
+2019,Honda,Civic Sport,22500,15
+2019,Honda,Accord EX,27000,10
+2019,Honda,CR-V EX,30000,10
+2019,Honda,CR-V EX,29000,22
+2017,Honda,Civic EX,18000,26042
+2019,Honda,Civic Sport,22000,10
+2019,Honda,Civic EX-L,25000,10
+2019,Honda,Civic Touring,26000,3494
+2019,Honda,HR-V Sport,24000,10
+2017,GMC,Acadia SLE-1,20599,25325
+2018,Jeep,Renegade Latitude,18995,15297
+2019,Kia,Soul +,17995,24497
+2019,Kia,Optima LX,19995,9394
+2017,GMC,Acadia SLE-1,22991,26530
+2019,Chrysler,300 S,25865,18907
+2019,Hyundai,Santa Fe SE 2.4,19491,26735
+2019,Ford,Escape SE,20297,4
+2019,Ford,Escape SE,20997,4
+2017,Chevrolet,Volt LT,18351,37495
+2018,Nissan,Rogue SV,16981,19895
+2018,Dodge,Durango GT,26500,39468
+2019,Honda,Accord EX-L,28998,4691
+2017,Chevrolet,Volt Premier,20998,34139
+2018,Chevrolet,Malibu 1LS,17998,9809
+2018,Honda,Fit EX,18998,4614
+2018,Nissan,Maxima 3.5 SV,20998,37353
+2018,Chevrolet,Equinox LS,18998,13683
+2019,Jeep,Cherokee Trailhawk,25988,0
+2019,Honda,Civic EX,21995,6446
+2017,Chevrolet,Impala 1LT,16995,36171
+2018,Chevrolet,Impala 1LT,16900,34478
+2019,Chevrolet,Equinox 1LT,19400,19900
+2018,Ford,Fusion Energi SE Luxury,18283,33394
+2018,Honda,Civic EX,19900,17985
+2018,Honda,Accord Sport,23900,24208
+2018,Honda,Civic EX,20900,4736
+2018,Honda,Accord Sport,24900,18443
+2017,Kia,Cadenza Premium,20500,22736
+2018,FIAT,500X Trekking,21400,3757
+2018,Mitsubishi,Outlander SE,17500,39700
+2017,Chevrolet,Volt Premier,22900,21784
+2017,Chevrolet,Cruze LT,13400,30578
+2018,Hyundai,Kona Limited,21500,11265
+2017,Kia,Optima Hybrid EX,20700,17590
+2018,Subaru,Crosstrek 2.0i Limited,26900,7330
+2018,Kia,Rio EX,14900,28177
+2018,Kia,Niro LX,18800,22951
+2019,Chevrolet,Bolt EV LT,25400,2762
+2017,Hyundai,Sonata Limited,18000,33059
+2017,Cadillac,XT5 Base,24400,34645
+2018,Subaru,Impreza 2.0i Sport,22400,12995
+2018,Nissan,Leaf SL,25100,27386
+2017,Ford,Fusion Energi SE Luxury,17200,31108
+2018,Hyundai,Elantra GT Base,15200,23538
+2017,Chevrolet,Trax LT,14500,29446
+2018,Hyundai,Ioniq Hybrid Limited,24900,8941
+2018,Kia,Niro LX,21500,21633
+2018,Chevrolet,Trax Premier,18300,20176
+2019,Chevrolet,Malibu LT,17900,20840
+2018,Jeep,Renegade Latitude,17000,10650
+2018,Cadillac,ATS 2.0L Turbo,20900,24732
+2017,Chevrolet,Volt Premier,21200,31286
+2018,Honda,Clarity Plug-In Hybrid Base,25300,8518
+2018,Ford,EcoSport SES,19100,3930
+2017,Honda,CR-V EX,24400,16886
+2017,Kia,Niro Touring,22400,37583
+2018,Ford,EcoSport SE,18600,5741
+2018,Buick,Regal Sportback Essence,22200,21423
+2019,Nissan,Altima 2.5 SR,22995,7915
+2019,Nissan,Rogue SV,20995,8984
+2019,Nissan,Rogue SV,22500,11077
+2019,Nissan,Rogue SV,22279,16820
+2019,Nissan,Rogue SV,23500,7040
+2019,Nissan,Rogue S,21968,9441
+2019,Nissan,Altima 2.5 SR,21995,8086
+2019,Nissan,Rogue SV,22250,10798
+2019,Nissan,Rogue SV,22995,8270
+2019,Nissan,Altima 2.5 SR,20995,8514
+2019,Nissan,Rogue S,20888,6340
+2019,Nissan,Rogue SV,24995,6
+2018,Nissan,Rogue S,18445,6498
+2018,Nissan,Rogue S,18250,26084
+2019,Nissan,Altima 2.0 SR,26750,1282
+2017,GMC,Acadia SLE-2,24995,29629
+2019,Ford,Escape SE,19999,19943
+2018,Chevrolet,Equinox 1LT,18790,20845
+2017,Audi,A4 Premium,21580,20885
+2017,Dodge,Charger SXT,23080,31731
+2019,Chevrolet,Equinox Premier,21980,19542
+2018,Honda,Civic EX-T,20998,21337
+2019,Ford,Escape SEL,21998,10866
+2018,Nissan,Maxima 3.5 SV,19998,38345
+2019,Jeep,Cherokee Latitude,17998,34821
+2017,Ford,Fusion Energi Titanium,18998,37479
+2019,Hyundai,Santa Fe SE 2.4,21998,23190
+2018,GMC,Terrain SLE,19998,18310
+2019,Chevrolet,Malibu LT,20998,21998
+2018,Chevrolet,Equinox 1LT,15250,38214
+2018,Chevrolet,Malibu LT,14995,29044
+2018,Chevrolet,Malibu LT,14995,30111
+2019,Hyundai,Kona SE,17599,19799
+2019,Mitsubishi,Outlander LE,17999,18935
+2018,Hyundai,Tucson SEL,16999,18851
+2019,Volkswagen,Jetta 1.4T S,14599,15143
+2018,Hyundai,Tucson SEL,16999,17580
+2018,Chevrolet,Cruze LT,15999,32286
+2018,Chevrolet,Cruze LT,15999,26869
+2018,Chevrolet,Equinox 1LT,20988,30975
+2018,Hyundai,Elantra SEL,15999,19588
+2018,Honda,Civic EX,18989,14480
+2017,Hyundai,Sonata SE,12989,35869
+2018,Jeep,Renegade Sport,17988,14659
+2017,Honda,Civic EX,18188,33291
+2017,Chevrolet,Volt Premier,22900,21784
+2018,Cadillac,ATS 2.0L Turbo,20900,24732
+2019,Chevrolet,Bolt EV LT,25400,2762
+2018,Kia,Niro LX,18800,22951
+2017,Chevrolet,Cruze LT,13400,30578
+2017,Cadillac,XT5 Base,24400,34645
+2018,Mitsubishi,Outlander SE,17500,39700
+2017,Honda,CR-V EX,24400,16886
+2019,Chevrolet,Malibu LT,17900,20840
+2017,Chevrolet,Trax LT,14500,29446
+2018,Kia,Niro LX,21500,21633
+2017,Chevrolet,Malibu 1LT,15100,36188
+2017,Hyundai,Sonata Limited,18000,33059
+2018,Hyundai,Tucson SEL,18900,39964
+2018,Chrysler,300 S,22499,21582
+2019,Nissan,Rogue Sport S,18595,7569
+2018,Subaru,Crosstrek 2.0i Limited,26900,7330
+2018,Kia,Rio EX,14900,28177
+2017,Chevrolet,Malibu 1LT,15100,36188
+2018,Kia,Niro LX,21500,21633
+2017,Kia,Cadenza Premium,20500,22736
+2018,Hyundai,Ioniq Hybrid Limited,24900,8941
+2017,Chevrolet,Volt Premier,21200,31286
+2018,Nissan,Leaf SL,25100,27386
+2018,Buick,Regal Sportback Essence,22200,21423
+2018,FIAT,500X Trekking,21400,3757
+2018,Honda,Clarity Plug-In Hybrid Base,25300,8518
+2018,Chevrolet,Trax Premier,18300,20176
+2018,Jeep,Renegade Latitude,17000,10650
+2018,Hyundai,Elantra GT Base,15200,23538
+2017,Ford,Fusion Energi SE Luxury,17200,31108
+2017,Kia,Optima Hybrid EX,20700,17590
+2017,Kia,Niro Touring,22400,37583
+2018,Subaru,Impreza 2.0i Sport,22400,12995
+2018,Honda,Accord Sport,21595,21402
+2017,Kia,Optima Hybrid Base,15995,34793
+2017,Honda,Pilot EX,26595,38489
+2017,Honda,Civic EX,16595,34900
+2018,Ford,EcoSport SE,17995,5504
+2018,Hyundai,Elantra SEL,15995,12422
+2017,Honda,Civic EX-T,17995,31656
+2017,Kia,Niro LX,21995,22995
+2017,Chevrolet,Cruze LT,13472,14185
+2017,Chevrolet,Volt Premier,20310,39818
+2017,Chevrolet,Cruze LS,13291,21355
+2018,Chevrolet,Cruze LT,14264,14965
+2018,Chevrolet,Cruze LT,13481,16723
+2019,Jeep,Cherokee Latitude Plus,18923,33329
+2018,Honda,Accord Sport,22991,17183
+2019,Ford,Escape SE,21097,4
+2019,Ford,Escape SE,20597,4
+2019,Ford,Escape SE,20597,4
+2019,Ford,Escape SE,20497,4
+2019,Ford,Escape SE,20497,4
+2018,Hyundai,Sonata Sport,18450,23656
+2018,Subaru,Impreza 2.0i,16999,18000
+2018,Nissan,Rogue SV,16990,38177
+2018,Hyundai,Tucson SEL,16491,34557
+2018,Hyundai,Tucson SEL,16491,34903
+2019,Chrysler,300 Limited,19731,29006
+2017,Chevrolet,Volt Premier,21361,39145
+2018,Jeep,Grand Cherokee Limited,25512,37495
+2018,Hyundai,Tucson SEL,19400,24048
+2018,Subaru,Crosstrek 2.0i Limited,26900,7330
+2018,Jeep,Renegade Altitude,18800,7514
+2017,Kia,Cadenza Premium,20500,22736
+2019,Honda,Insight EX,22500,19969
+2017,Nissan,Maxima 3.5 S,18900,25732
+2018,Kia,Soul +,14800,33139
+2018,Nissan,Murano SV,23000,27264
+2018,Chevrolet,Volt LT,23800,18127
+2017,Chevrolet,Volt Premier,22900,21784
+2017,Mitsubishi,Outlander SEL,18700,21270
+2018,GMC,Terrain SLE,21800,23563
+2018,Dodge,Charger SXT,25100,12112
+2017,Chevrolet,Volt Premier,22700,10783
+2017,GMC,Acadia SLE-1,19800,36515
+2017,Kia,Optima Hybrid EX,20700,17590
+2018,Chevrolet,Trax Premier,18300,20176
+2018,Subaru,Crosstrek 2.0i Limited,24100,20927
+2017,Ford,Fusion Energi Titanium,19858,20995
+2017,Honda,Civic EX,17917,19637
+2018,Nissan,Rogue SV,20949,38245
+2018,Jeep,Renegade Sport,19998,2
+2019,Chevrolet,Trax LS,17985,3781
+2018,Subaru,Outback 2.5i,24848,25948
+2018,Honda,CR-V EX,24681,36187
+2018,Chevrolet,Cruze LT,16999,80
+2018,Chevrolet,Trax LT,16999,118
+2018,Chevrolet,Malibu LT,17999,10748
+2018,Chevrolet,Cruze LT,17999,26536
+2018,Chevrolet,Impala 1LS,19999,383
+2017,Chevrolet,Cruze Premier,16999,27418
+2019,Kia,Optima LX,14390,37967
+2018,Nissan,Rogue SV,17976,35923
+2018,Chevrolet,Impala 1LT,15976,36607
+2019,Jeep,Compass Limited,19961,20476
+2019,Ford,Escape SEL,21111,21700
+2017,Kia,Niro EX,20700,29854
+2019,GMC,Acadia SLT-1,29260,16549
+2018,Hyundai,Santa Fe SE,29998,8122
+2018,Hyundai,Kona SE,16500,8500
+2018,Hyundai,Kona SEL,23998,11568
+2018,Jeep,Compass Latitude,21304,3844
+2018,Chevrolet,Cruze LT,16499,33538
+2018,Hyundai,Elantra SEL,15999,22992
+2018,Kia,Optima LX,16999,39889
+2018,Hyundai,Ioniq Hybrid Blue,20999,29445
+2019,Chevrolet,Equinox 1LT,26999,33900
+2017,Chevrolet,Malibu 1LS,22175,39043
+2017,Buick,Encore Preferred,17999,30881
+2019,Chevrolet,Malibu LT,18999,34735
+2018,Chevrolet,Impala 1LT,18977,37105
+2018,Chevrolet,Impala 1LT,18977,37105
+2019,Hyundai,Elantra SEL,15999,37988
+2018,Chevrolet,Cruze LT,18999,28628
+2018,Hyundai,Elantra SEL,12988,36257
+2017,Honda,Civic EX,18988,36885
+2018,Nissan,Maxima 3.5 SV,19998,31667
+2018,Subaru,Crosstrek 2.0i Limited,29998,1353
+2018,GMC,Acadia SLE-2,23998,20760
+2019,Hyundai,Santa Fe SE 2.4,21998,20957
+2018,Buick,Encore Preferred,17998,29622
+2018,Nissan,Rogue SV,16879,38851
+2019,Subaru,Forester Premium,27950,2992
+2017,GMC,Acadia SLE-1,21950,29647
+2017,Chevrolet,Volt LT,17999,23095
+2018,Chevrolet,Cruze LS,14899,10582
+2019,Chevrolet,Impala 1LT,19999,30712
+2019,Chevrolet,Malibu 1LS,19499,3367
+2019,Chevrolet,Cruze LT,15899,14827
+2017,Honda,Accord Hybrid Touring,23989,34798
+2018,Honda,Accord Sport,24998,13033
+2019,Jeep,Cherokee Latitude Plus,19998,19088
+2019,Honda,Accord Sport,26998,4173
+2019,Hyundai,Santa Fe SE 2.4,21998,15599
+2017,Mercedes-Benz,CLA 250 Base,23995,23153
+2018,Chevrolet,Volt LT,23800,18127
+2018,Subaru,Crosstrek 2.0i Limited,26900,7330
+2017,Nissan,Maxima 3.5 S,18900,25732
+2018,Dodge,Charger SXT,25100,12112
+2017,Chevrolet,Volt Premier,22700,10783
+2018,Jeep,Renegade Altitude,18800,7514
+2018,Subaru,Crosstrek 2.0i Limited,24100,20927
+2017,Kia,Optima Hybrid EX,20700,17590
+2017,Mitsubishi,Outlander SEL,18700,21270
+2017,Kia,Cadenza Premium,20500,22736
+2018,Nissan,Murano SV,23000,27264
+2018,Hyundai,Tucson SEL,19400,24048
+2018,Chevrolet,Trax Premier,18300,20176
+2017,GMC,Acadia SLE-1,19800,36515
+2018,Kia,Soul +,14800,33139
+2018,GMC,Terrain SLE,21800,23563
+2018,Dodge,Charger SXT Plus,21995,31223
+2018,Hyundai,Sonata SE,14999,38747
+2018,Honda,Civic EX-T,18999,20082
+2018,Jeep,Grand Cherokee Altitude,29999,12559
+2018,Dodge,Durango SXT,24999,22808
+2018,Chevrolet,Malibu LT,14991,37138
+2019,Jeep,Cherokee Latitude Plus,16799,33981
+2018,Chrysler,300,28995,21280
+2019,Jeep,Compass,27995,3127
+2019,Dodge,Charger,29995,16164
+2018,Chevrolet,Equinox 1LT,18790,20845
+2018,Jeep,Grand Cherokee Limited,28400,33110
+2019,Cadillac,XTS Luxury,27790,28969
+2018,Honda,Civic EX,20500,9657
+2018,Jeep,Renegade Latitude,20999,4510
+2019,Chrysler,300 Limited,23999,29001
+2019,Nissan,Rogue Sport S,18999,26953
+2018,Chevrolet,Equinox 1LT,21788,9604
+2019,Chevrolet,Equinox 1LT,24977,19233
+2018,Chevrolet,Cruze LT,13985,37691
+2019,Kia,Optima LX,15985,30703
+2018,Subaru,Outback 2.5i Premium,25860,22018
+2017,Subaru,Impreza 2.0i Premium,18083,18857
+2018,Subaru,Outback 2.5i Premium,26182,14740
+2018,Subaru,Outback 2.5i Premium,25750,18225
+2018,Subaru,Outback 2.5i Premium,25697,23485
+2018,Subaru,Outback 2.5i Premium,26492,14338
+2018,Subaru,Outback 2.5i Premium,26411,15167
+2018,Subaru,Outback 2.5i Premium,25633,22025
+2018,Subaru,Outback 2.5i Premium,27250,7064
